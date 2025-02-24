@@ -1,0 +1,28 @@
+body {
+    display: block;
+}
+.main-box {
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+}
+
+#kinds {
+    display: flex;
+    flex-direction: column;
+}
+
+button.active {
+    background-color: #f0f0f0;
+}
+
+button.active:hover {
+    background-color: #f0f0f0;
+}
+
+#elements-list {
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2rem;
+}
