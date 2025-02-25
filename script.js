@@ -57,9 +57,12 @@ function selectElement(ev) {
 }
 
 function fillResults() {
+    resultsBox.innerHTML = '';
     const { result1, result2 } = createSwitcher();
-    resultsBox.innerHTML = result1;
-    resultsBox.innerHTML += `<pre>${JSON.stringify(result2)}</pre>`;
+    const result2Lines = result2.map(JSON.stringify).join('\n');
+    resultsBox.innerHTML += `<pre>${result2Lines}</pre>`;
+    resultsBox.innerHTML += buildTable(result2);
+    resultsBox.innerHTML += result1;
 
     log(result2);
 }
@@ -94,42 +97,73 @@ function createElementarySubstances() {
     const help = HELP["es-1-1-1"].steps;
 
     result1 += "<b>Fmla > Nombre</b><br>";
+    result2.push({
+        left: [],
+        right: "<b>PREFIJOS. Fmla > Nombre</b>",
+    });
     result1 += "<table style='margin:0;'><tr><td>";
     result1 += `${elem.Symbol}<sub>${subindex}</sub>`;
     result2.push({
         left: [
             { text: elem.Symbol, color: 1 },
             { text: subindex, color: 2 }
-        ]
+        ],
+        right: "",
     });
+
     result1 += "</td><td></td></tr><tr><td>";
     const prefix = PREFIXES[subindex];
     result1 += `${prefix}</td><td>`;
     result1 += help[0] + "</td></tr><tr><td>";
+    result2.push({
+        left: [{ text: prefix, color: 2 }],
+        right: help[0],
+    })
+
     result1 += `${prefix}${name}`;
     result1 += "</td><td>";
     result1 += help[1]
     result1 += "</td></tr></table>";
+    result2.push({
+        left: [{ text: prefix, color: 2 }, { text: name, color: 1 }],
+        right: help[1],
+    });
 
     result1 += "<b>Nombre > Fmla</b><br>";
+    result2.push({
+        left: [],
+        right: "<b>PREFIJOS. Nombre > Fmla</b>",
+    });
     const help2 = HELP["es-1-1-2"].steps;
     result1 += "<table style='margin:0;'><tr><td>";
     result1 += `${prefix}${name}`;
+    result2.push({
+        left: [{ text: prefix, color: 2 }, { text: name, color: 1 }],
+        right: "",
+    });
     result1 += "</td><td></td></tr><tr><td>";
     result1 += `${elem.Symbol}`;
     result1 += "</td><td>";
     result1 += help2[0];
+    result2.push({
+        left: [{ text: elem.Symbol, color: 1 }],
+        right: help2[0],
+    });
     result1 += "</td></tr><tr><td>";
     result1 += `${elem.Symbol}<sub>${subindex}</sub>`;
     result1 += "</td><td>";
     result1 += help2[1];
+    result2.push({
+        left: [{ text: elem.Symbol, color: 1 }, { text: subindex, color: 2 }],
+        right: help2[1],
+    });
     result1 += "</td></tr></table>";
 
     return { result1, result2 }
 }
 
 
-// GUI
+// MARK: GUI
 // Fill kinds list
 function fillKindslist() {
     const kinds = Object.values(KINDS);
@@ -165,10 +199,46 @@ function fillElem(elem) {
     elemBox.innerHTML = elemData.join('&nbsp;&nbsp;&nbsp;');
 }
 
+function buildSpan(data) {
+    const isSub = data.text && !isNaN(data.text);
+    const color = COLOR[data.color];
+    const tag = isSub ? "sub" : "span";
+    return `<${tag} style="color:${color}">${data.text}</${tag}>`;
+}
+
+function buildTable(lines) {
+    let inn = "<table>";
+
+    lines.forEach(line => {
+        inn += "<tr>";
+
+        // left
+        inn += "<td>";
+        line.left.forEach(part => {
+            inn += buildSpan(part);
+        });
+        inn += "</td>";
+
+        // right
+        inn += `<td>${line.right}</td>`;
+
+        inn += "</tr>";
+    });
+
+    inn += "</table>";
+    return inn;
+}
+
+
 
 // MARK: Init
 function init() {
     fillKindslist();
     fillElementsList();
+
+    kind = "1";
+    elem = ELEMENTS[0];
+    fillElem(elem);
+    fillResults();
 }
 init();
