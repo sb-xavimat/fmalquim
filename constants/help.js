@@ -73,7 +73,7 @@ export const HELP = {
         "namesys_full": "2.Stock",
         "status": "accepted (Stock is num-ox)"
     },
-    "es-2-4-1": {
+    "es-2-1-1": {
         "id": "es-2-4-1",
         "lang": "es",
         "kind": 2,
@@ -91,10 +91,10 @@ export const HELP = {
             "tri/hidruro/ de /oro"
         ],
         "kind_full": "2.Hidrurs metàl·lics",
-        "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "namesys_full": "1.Prefixos",
+        "status": "corrected"
     },
-    "es-2-4-2": {
+    "es-2-1-2": {
         "id": "es-2-4-2",
         "lang": "es",
         "kind": 2,
@@ -112,8 +112,8 @@ export const HELP = {
             "Li/H"
         ],
         "kind_full": "2.Hidrurs metàl·lics",
-        "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "namesys_full": "1.Prefixos",
+        "status": "corrected"
     },
     "es-2-2-1": {
         "id": "es-2-2-1",
@@ -136,7 +136,7 @@ export const HELP = {
         ],
         "kind_full": "2.Hidrurs metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-2-2-2": {
         "id": "es-2-2-2",
@@ -157,7 +157,7 @@ export const HELP = {
         ],
         "kind_full": "2.Hidrurs metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-3-2-1": {
         "id": "es-3-2-1",
@@ -176,7 +176,7 @@ export const HELP = {
         ],
         "kind_full": "3.Hidràcids",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-3-2-2": {
         "id": "es-3-2-2",
@@ -197,7 +197,7 @@ export const HELP = {
         ],
         "kind_full": "3.Hidràcids",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-3-3-1": {
         "id": "es-3-3-1",
@@ -216,7 +216,7 @@ export const HELP = {
         ],
         "kind_full": "3.Hidràcids",
         "namesys_full": "3.Tradicional",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-3-3-2": {
         "id": "es-3-3-2",
@@ -237,7 +237,7 @@ export const HELP = {
         ],
         "kind_full": "3.Hidràcids",
         "namesys_full": "3.Tradicional",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-5-4-1": {
         "id": "es-5-4-1",
@@ -270,7 +270,7 @@ export const HELP = {
         ],
         "kind_full": "5.Òxids no metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-5-4-2": {
         "id": "es-5-4-2",
@@ -303,7 +303,7 @@ export const HELP = {
         ],
         "kind_full": "5.Òxids no metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-5-2-1": {
         "id": "es-5-2-1",
@@ -336,7 +336,7 @@ export const HELP = {
         ],
         "kind_full": "5.Òxids no metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-5-2-2": {
         "id": "es-5-2-2",
@@ -373,7 +373,7 @@ export const HELP = {
         ],
         "kind_full": "5.Òxids no metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-7-4-1": {
         "id": "es-7-4-1",
@@ -396,7 +396,7 @@ export const HELP = {
         ],
         "kind_full": "7.Compostos covalents no metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-7-4-2": {
         "id": "es-7-4-2",
@@ -419,7 +419,7 @@ export const HELP = {
         ],
         "kind_full": "7.Compostos covalents no metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-7-2-1": {
         "id": "es-7-2-1",
@@ -440,7 +440,7 @@ export const HELP = {
         ],
         "kind_full": "7.Compostos covalents no metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-7-2-2": {
         "id": "es-7-2-2",
@@ -465,7 +465,7 @@ export const HELP = {
         ],
         "kind_full": "7.Compostos covalents no metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-8-4-1": {
         "id": "es-8-4-1",
@@ -488,7 +488,7 @@ export const HELP = {
         ],
         "kind_full": "8.Sals binàries",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-8-4-2": {
         "id": "es-8-4-2",
@@ -511,7 +511,7 @@ export const HELP = {
         ],
         "kind_full": "8.Sals binàries",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-8-2-1": {
         "id": "es-8-2-1",
@@ -532,7 +532,7 @@ export const HELP = {
         ],
         "kind_full": "8.Sals binàries",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-8-2-2": {
         "id": "es-8-2-2",
@@ -557,7 +557,7 @@ export const HELP = {
         ],
         "kind_full": "8.Sals binàries",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-10-4-1": {
         "id": "es-10-4-1",
@@ -578,7 +578,7 @@ export const HELP = {
         ],
         "kind_full": "10.Hidròxids",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-10-4-2": {
         "id": "es-10-4-2",
@@ -599,7 +599,7 @@ export const HELP = {
         ],
         "kind_full": "10.Hidròxids",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-10-2-1": {
         "id": "es-10-2-1",
@@ -620,7 +620,7 @@ export const HELP = {
         ],
         "kind_full": "10.Hidròxids",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "es-10-2-2": {
         "id": "es-10-2-2",
@@ -641,7 +641,7 @@ export const HELP = {
         ],
         "kind_full": "10.Hidròxids",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-1-4-1": {
         "id": "ca-1-4-1",
@@ -660,7 +660,7 @@ export const HELP = {
         ],
         "kind_full": "1.Substàncies elementals",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-1-4-2": {
         "id": "ca-1-4-2",
@@ -679,7 +679,7 @@ export const HELP = {
         ],
         "kind_full": "1.Substàncies elementals",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-1-2-1": {
         "id": "ca-1-2-1",
@@ -696,7 +696,7 @@ export const HELP = {
         ],
         "kind_full": "1.Substàncies elementals",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-1-2-2": {
         "id": "ca-1-2-2",
@@ -715,7 +715,7 @@ export const HELP = {
         ],
         "kind_full": "1.Substàncies elementals",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-2-4-1": {
         "id": "ca-2-4-1",
@@ -736,7 +736,7 @@ export const HELP = {
         ],
         "kind_full": "2.Hidrurs metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-2-4-2": {
         "id": "ca-2-4-2",
@@ -757,7 +757,7 @@ export const HELP = {
         ],
         "kind_full": "2.Hidrurs metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-2-2-1": {
         "id": "ca-2-2-1",
@@ -780,7 +780,7 @@ export const HELP = {
         ],
         "kind_full": "2.Hidrurs metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-2-2-2": {
         "id": "ca-2-2-2",
@@ -801,7 +801,7 @@ export const HELP = {
         ],
         "kind_full": "2.Hidrurs metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-3-2-1": {
         "id": "ca-3-2-1",
@@ -820,7 +820,7 @@ export const HELP = {
         ],
         "kind_full": "3.Hidràcids",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-3-2-2": {
         "id": "ca-3-2-2",
@@ -841,7 +841,7 @@ export const HELP = {
         ],
         "kind_full": "3.Hidràcids",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-3-3-1": {
         "id": "ca-3-3-1",
@@ -860,7 +860,7 @@ export const HELP = {
         ],
         "kind_full": "3.Hidràcids",
         "namesys_full": "3.Tradicional",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-3-3-2": {
         "id": "ca-3-3-2",
@@ -881,7 +881,7 @@ export const HELP = {
         ],
         "kind_full": "3.Hidràcids",
         "namesys_full": "3.Tradicional",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-5-4-1": {
         "id": "ca-5-4-1",
@@ -914,7 +914,7 @@ export const HELP = {
         ],
         "kind_full": "5.Òxids no metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-5-4-2": {
         "id": "ca-5-4-2",
@@ -947,7 +947,7 @@ export const HELP = {
         ],
         "kind_full": "5.Òxids no metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-5-2-1": {
         "id": "ca-5-2-1",
@@ -980,7 +980,7 @@ export const HELP = {
         ],
         "kind_full": "5.Òxids no metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-5-2-2": {
         "id": "ca-5-2-2",
@@ -1017,7 +1017,7 @@ export const HELP = {
         ],
         "kind_full": "5.Òxids no metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-7-4-1": {
         "id": "ca-7-4-1",
@@ -1040,7 +1040,7 @@ export const HELP = {
         ],
         "kind_full": "7.Compostos covalents no metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-7-4-2": {
         "id": "ca-7-4-2",
@@ -1063,7 +1063,7 @@ export const HELP = {
         ],
         "kind_full": "7.Compostos covalents no metàl·lics",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-7-2-1": {
         "id": "ca-7-2-1",
@@ -1084,7 +1084,7 @@ export const HELP = {
         ],
         "kind_full": "7.Compostos covalents no metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-7-2-2": {
         "id": "ca-7-2-2",
@@ -1109,7 +1109,7 @@ export const HELP = {
         ],
         "kind_full": "7.Compostos covalents no metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-8-4-1": {
         "id": "ca-8-4-1",
@@ -1132,7 +1132,7 @@ export const HELP = {
         ],
         "kind_full": "8.Sals binàries",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-8-4-2": {
         "id": "ca-8-4-2",
@@ -1155,7 +1155,7 @@ export const HELP = {
         ],
         "kind_full": "8.Sals binàries",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-8-2-1": {
         "id": "ca-8-2-1",
@@ -1176,7 +1176,7 @@ export const HELP = {
         ],
         "kind_full": "8.Sals binàries",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-8-2-2": {
         "id": "ca-8-2-2",
@@ -1201,7 +1201,7 @@ export const HELP = {
         ],
         "kind_full": "8.Sals binàries",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-10-4-1": {
         "id": "ca-10-4-1",
@@ -1222,7 +1222,7 @@ export const HELP = {
         ],
         "kind_full": "10.Hidròxids",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-10-4-2": {
         "id": "ca-10-4-2",
@@ -1243,7 +1243,7 @@ export const HELP = {
         ],
         "kind_full": "10.Hidròxids",
         "namesys_full": "4.Sistemàtic",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-10-2-1": {
         "id": "ca-10-2-1",
@@ -1264,7 +1264,7 @@ export const HELP = {
         ],
         "kind_full": "10.Hidròxids",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     },
     "ca-10-2-2": {
         "id": "ca-10-2-2",
@@ -1285,6 +1285,6 @@ export const HELP = {
         ],
         "kind_full": "10.Hidròxids",
         "namesys_full": "2.Stock",
-        "status": "not yet done"
+        "status": "NOT YET DONE"
     }
 };

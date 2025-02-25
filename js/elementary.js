@@ -23,15 +23,6 @@ function getElementarySubstanceUtils(elem) {
     return { subindex, name, prefix };
 }
 
-export function createElementarySubstances(elem) {
-    const cards = []
-    cards.push(getElementarySubstancePrefixesFN(elem));
-    cards.push(getElementarySubstancePrefixesNF(elem));
-    cards.push(getElementarySubstanceNumOxFN(elem));
-    cards.push(getElementarySubstanceNumOxNF(elem));
-    return cards;
-}
-
 function getElementarySubstancePrefixesFN(elem) {
     const title = "PREFIJOS. Fmla > Nombre";
     const lines = [];
@@ -39,7 +30,7 @@ function getElementarySubstancePrefixesFN(elem) {
     const help = HELP["es-1-1-1"].steps;
 
     lines.push({
-        left: [            { text: elem.Symbol, color: 1 },            { text: subindex, color: 2 }        ],
+        left: [{ text: elem.Symbol, color: 1 }, { text: subindex, color: 2 }],
         right: "",
     });
 
@@ -93,7 +84,7 @@ function getElementarySubstanceNumOxFN(elem) {
     });
 
     lines.push({
-        left: [{text: name, color: 1}],
+        left: [{ text: name, color: 1 }],
         right: help[0],
     })
 
@@ -103,7 +94,7 @@ function getElementarySubstanceNumOxFN(elem) {
 function getElementarySubstanceNumOxNF(elem) {
     const title = "NÚMEROS DE OXIDACIÓN. Nombre > Fmla";
     const lines = [];
-    const { subindex, name  } = getElementarySubstanceUtils(elem);
+    const { subindex, name } = getElementarySubstanceUtils(elem);
     const help = HELP["es-1-2-2"].steps;
 
     lines.push({
@@ -122,4 +113,14 @@ function getElementarySubstanceNumOxNF(elem) {
     });
 
     return { title, lines };
- }
+}
+
+export function createElementarySubstances(elem) {
+    const cards = []
+    cards.push(getElementarySubstancePrefixesFN(elem));
+    cards.push(getElementarySubstancePrefixesNF(elem));
+    cards.push(getElementarySubstanceNumOxFN(elem));
+    cards.push(getElementarySubstanceNumOxNF(elem));
+    return cards;
+}
+

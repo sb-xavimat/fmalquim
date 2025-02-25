@@ -1,4 +1,5 @@
 export const COLOR = {
+    0: "#CCCCCC",
     1: "#3F90CC",
     2: "#FAA231",
     3: "#c0375b",

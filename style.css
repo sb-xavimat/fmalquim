@@ -16,7 +16,7 @@ body {
 
 button.active {
     background-color: #f0f0f0;
-    filter: brightness(1.4);
+    filter: brightness(1.2);
 }
 
 button.active:hover {
@@ -65,6 +65,10 @@ table.periodic button {
     margin: 0;
     width: 100%;
 }
+table.periodic button.active {
+    border: 1px solid #000000;
+}
+
 table.periodic small {
     font-size: 0.7rem;
 }

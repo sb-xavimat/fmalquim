@@ -3,8 +3,10 @@
 import { KINDS } from '../constants/kinds.js';
 import { ELEMENTS } from '../constants/elements.js';
 import { COLOR } from '../constants/colors.js';
-import { createElementarySubstances } from './elementary.js';
 import { createPeriodicTable } from './periodic.js';
+import { createElementarySubstances } from './elementary.js';
+import { createMetallicHidrures } from './methidrures.js';
+import { log } from './utils.js';
 
 
 // MARK: Elems
@@ -23,7 +25,6 @@ let kind, elem, oxidState;
 let elems = [];
 
 // MARK: Utils
-function log(...t) { console.log(...t); }
 function clearAll() {
     // Reset all kind buttons
     kindButtons.forEach(button => button.classList.remove('active'));
@@ -57,11 +58,14 @@ function selectKind(ev) {
 function selectElement(ev) {
     switch (kind) {
         case undefined: return;
-        // Compostos unaris
+        // Compostos unaris o que només necessiten triar un element
         case "1":
+        case "2":
             elems = [];
             clearElemButtons();
             break;
+        default:
+            log("Not implemented kind=" + kind);
     }
 
     const button = ev.currentTarget;
@@ -76,7 +80,7 @@ function selectElement(ev) {
 
 function selectOxid(ev) {
     const button = ev.target;
-    oxidState = button.dataset.oxid;
+    oxidState = +button.dataset.oxid;
     bottomBox.querySelectorAll('button')
         .forEach(b => b.classList.remove('active'));
     button.classList.add('active');
@@ -89,10 +93,12 @@ function fillResults() {
     cards.forEach(card => {
         resultsBox.innerHTML += buildCard(card);
     });
+    resultsBox.innerHTML += `<pre>${JSON.stringify(cards, null, 2)}</pre>`;
 }
 function createSwitcher() {
     switch (kind) {
         case "1": return createElementarySubstances(elem);
+        case "2": return createMetallicHidrures(elem, oxidState);
         default: return [{ title: "Not implemented kind=" + kind, lines: [] }]
     }
 }
@@ -161,7 +167,11 @@ function buildTable(lines) {
 
     let inn = "<table>";
     lines.forEach(line => {
-        const rightText = line.right.split('|').join('<br>');
+        let rightText = line.right.split('|').join('<br>');
+        if (rightText.includes("_")) {
+            // Convertir el primer "_" en <i> y el segundo en </i>
+            rightText = rightText.replace("_", "<i>").replace("_", "</i>");
+        }
         inn += "<tr>";
         // left
         inn += "<td>";
@@ -183,10 +193,11 @@ function init() {
     fillElementsList();
 
     // Default
-    kind = "1";
-    elem = ELEMENTS[0];
-    kindButtons[0].classList.add('active');
-    elemsButtons[0].classList.add('active');
+    kind = "2";
+    elem = ELEMENTS[78];
+    oxidState = 3;
+    kindButtons[1].classList.add('active');
+    elemsButtons[78].classList.add('active');
     fillElem(elem);
     fillResults();
 }
