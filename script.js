@@ -58,13 +58,16 @@ function selectElement(ev) {
 
 function fillResults() {
     resultsBox.innerHTML = '';
-    const { result1, result2 } = createSwitcher();
-    const result2Lines = result2.map(JSON.stringify).join('\n');
-    resultsBox.innerHTML += `<pre>${result2Lines}</pre>`;
-    resultsBox.innerHTML += buildTable(result2);
-    resultsBox.innerHTML += result1;
+    // const result = createSwitcher();
+    // resultsBox.innerHTML += buildTable(result);
+    // const resultLines = result.map(JSON.stringify).join('\n');
+    // resultsBox.innerHTML += `<pre>${resultLines}</pre>`;
+    const cards = createSwitcher();
+    cards.forEach(card => {
+        resultsBox.innerHTML += buildCard(card);
+    });
 
-    log(result2);
+    log(result);
 }
 function createSwitcher() {
     switch (kind) {
@@ -75,9 +78,14 @@ function createSwitcher() {
 
 // MARK: creations
 function createElementarySubstances() {
-    let result1 = "";
-    let result2 = [];
-    result1 += "<b>PREFIJOS:</b><br>";
+    const cards = []
+    cards.push(getElementarySubstancePrefixesFN());
+    cards.push(getElementarySubstancePrefixesNF());
+
+    return cards;
+}
+
+function getElementarySubstanceUtils() {
     let subindex = "";
     if (elem.GroupBlock === "Noble gas") { subindex = ""; }
     else if (["H", "N", "O", "F", "Cl", "Br", "I"].includes(elem.Symbol)) {
@@ -94,16 +102,19 @@ function createElementarySubstances() {
     else { subindex = elem.subst_elem_subindex; }
 
     const name = elem.Name_es.toLowerCase();
+    const prefix = PREFIXES[subindex];
+
+    return { subindex, name, prefix };
+}
+
+function getElementarySubstancePrefixesFN() {
+    const title = "PREFIJOS. Fmla > Nombre";
+    const lines = [];
+    const { subindex, name, prefix } = getElementarySubstanceUtils();
+
     const help = HELP["es-1-1-1"].steps;
 
-    result1 += "<b>Fmla > Nombre</b><br>";
-    result2.push({
-        left: [],
-        right: "<b>PREFIJOS. Fmla > Nombre</b>",
-    });
-    result1 += "<table style='margin:0;'><tr><td>";
-    result1 += `${elem.Symbol}<sub>${subindex}</sub>`;
-    result2.push({
+    lines.push({
         left: [
             { text: elem.Symbol, color: 1 },
             { text: subindex, color: 2 }
@@ -111,55 +122,43 @@ function createElementarySubstances() {
         right: "",
     });
 
-    result1 += "</td><td></td></tr><tr><td>";
-    const prefix = PREFIXES[subindex];
-    result1 += `${prefix}</td><td>`;
-    result1 += help[0] + "</td></tr><tr><td>";
-    result2.push({
+
+    lines.push({
         left: [{ text: prefix, color: 2 }],
         right: help[0],
     })
 
-    result1 += `${prefix}${name}`;
-    result1 += "</td><td>";
-    result1 += help[1]
-    result1 += "</td></tr></table>";
-    result2.push({
+    lines.push({
         left: [{ text: prefix, color: 2 }, { text: name, color: 1 }],
         right: help[1],
     });
 
-    result1 += "<b>Nombre > Fmla</b><br>";
-    result2.push({
-        left: [],
-        right: "<b>PREFIJOS. Nombre > Fmla</b>",
-    });
-    const help2 = HELP["es-1-1-2"].steps;
-    result1 += "<table style='margin:0;'><tr><td>";
-    result1 += `${prefix}${name}`;
-    result2.push({
+    return { title, lines };
+}
+
+function getElementarySubstancePrefixesNF() {
+    const title = "PREFIJOS. Fmla > Nombre";
+    const lines = [];
+
+    const { subindex, name, prefix } = getElementarySubstanceUtils();
+    const help = HELP["es-1-1-2"].steps;
+
+    lines.push({
         left: [{ text: prefix, color: 2 }, { text: name, color: 1 }],
         right: "",
     });
-    result1 += "</td><td></td></tr><tr><td>";
-    result1 += `${elem.Symbol}`;
-    result1 += "</td><td>";
-    result1 += help2[0];
-    result2.push({
-        left: [{ text: elem.Symbol, color: 1 }],
-        right: help2[0],
-    });
-    result1 += "</td></tr><tr><td>";
-    result1 += `${elem.Symbol}<sub>${subindex}</sub>`;
-    result1 += "</td><td>";
-    result1 += help2[1];
-    result2.push({
-        left: [{ text: elem.Symbol, color: 1 }, { text: subindex, color: 2 }],
-        right: help2[1],
-    });
-    result1 += "</td></tr></table>";
 
-    return { result1, result2 }
+    lines.push({
+        left: [{ text: elem.Symbol, color: 1 }],
+        right: help[0],
+    });
+
+    lines.push({
+        left: [{ text: elem.Symbol, color: 1 }, { text: subindex, color: 2 }],
+        right: help[1],
+    });
+
+    return { title, lines };
 }
 
 
@@ -199,32 +198,36 @@ function fillElem(elem) {
     elemBox.innerHTML = elemData.join('&nbsp;&nbsp;&nbsp;');
 }
 
-function buildSpan(data) {
-    const isSub = data.text && !isNaN(data.text);
-    const color = COLOR[data.color];
-    const tag = isSub ? "sub" : "span";
-    return `<${tag} style="color:${color}">${data.text}</${tag}>`;
+
+function buildCard(data) {
+    let inn = "";
+    inn += "<div class='card'>";
+    inn += `<b>${data.title}</b>`;
+    inn += buildTable(data.lines);
+    inn += "</div>";
+    return inn;
 }
 
 function buildTable(lines) {
-    let inn = "<table>";
 
+    function buildSpan(data) {
+        const isSub = data.text && !isNaN(data.text);
+        const color = COLOR[data.color];
+        const tag = isSub ? "sub" : "span";
+        return `<${tag} style="color:${color}">${data.text}</${tag}>`;
+    }
+
+    let inn = "<table>";
     lines.forEach(line => {
         inn += "<tr>";
-
         // left
         inn += "<td>";
-        line.left.forEach(part => {
-            inn += buildSpan(part);
-        });
+        line.left.forEach(part => inn += buildSpan(part));
         inn += "</td>";
-
         // right
         inn += `<td>${line.right}</td>`;
-
         inn += "</tr>";
     });
-
     inn += "</table>";
     return inn;
 }
@@ -236,8 +239,11 @@ function init() {
     fillKindslist();
     fillElementsList();
 
+    // Default
     kind = "1";
     elem = ELEMENTS[0];
+    kindButtons[0].classList.add('active');
+    elemsButtons[0].classList.add('active');
     fillElem(elem);
     fillResults();
 }

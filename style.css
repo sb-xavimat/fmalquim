@@ -32,5 +32,19 @@ button.active:hover {
     padding: 0.5rem;
 }
 
-#bottom-box {
+table {
+    margin: 0;
+}
+
+.card {
+    padding: 0.3rem;
+    border: 1px solid #808080;
+    border-radius: 0.3rem;
+}
+
+#results {
+    margin-top: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
 }
