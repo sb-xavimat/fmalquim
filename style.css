@@ -16,6 +16,7 @@ body {
 
 button.active {
     background-color: #f0f0f0;
+    filter: brightness(1.4);
 }
 
 button.active:hover {
@@ -30,6 +31,10 @@ button.active:hover {
 #elem-box {
     border: 1px solid #f0f0f0;
     padding: 0.5rem;
+}
+
+#elem-box button {
+    margin-left: 0.3rem;
 }
 
 table {

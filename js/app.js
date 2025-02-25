@@ -31,6 +31,8 @@ function clearAll() {
     clearOxidStatesButtons();
     elems = [];
     elemBox.innerHTML = '';
+    resultsBox.innerHTML = '';
+    elem = null;
     oxidState = null;
 }
 
@@ -75,7 +77,8 @@ function selectElement(ev) {
 function selectOxid(ev) {
     const button = ev.target;
     oxidState = button.dataset.oxid;
-    bottomBox.querySelectorAll('button').forEach(b => b.classList.remove('active'));
+    bottomBox.querySelectorAll('button')
+        .forEach(b => b.classList.remove('active'));
     button.classList.add('active');
     fillResults();
 }
@@ -110,17 +113,6 @@ function fillKindslist() {
 }
 
 function fillElementsList() {
-    // ELEMENTS.forEach(elem => {
-    //     const button = document.createElement('button');
-    //     button.textContent = `${elem.AtomicNumber}.${elem.Symbol}`;
-    //     button.classList.add('elem');
-    //     button.dataset.elem = elem.Symbol;
-    //     button.dataset.atomic = elem.AtomicNumber;
-    //     elementsBox.appendChild(button);
-    //     elemsButtons.push(button);
-    //     button.addEventListener('click', selectElement);
-    // });
-
     elementsBox.appendChild(createPeriodicTable(selectElement, elemsButtons));
 }
 
@@ -136,7 +128,6 @@ function fillElem(elem) {
     const oxidsStates = elem.OxidationStates.split(',')
         .map(oxid => oxid.trim())
         .map(Number);
-    log(oxidsStates);
     oxidState = oxidsStates[0];  // Default
     oxidsStates.forEach((oxid, i) => {
         const button = document.createElement('button');
