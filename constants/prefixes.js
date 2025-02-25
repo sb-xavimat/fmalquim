@@ -1,0 +1,23 @@
+export const PREFIXES = {
+    "": "mono",
+    "1": "mono",
+    "mono": "1",
+    "2": "di",
+    "di": "2",
+    "3": "tri",
+    "tri": "3",
+    "4": "tetra",
+    "tetra": "4",
+    "5": "penta",
+    "penta": "5",
+    "6": "hexa",
+    "hexa": "6",
+    "7": "hepta",
+    "hepta": "7",
+    "8": "octa",
+    "octa": "8",
+    "9": "nona",
+    "nona": "9",
+    "10": "deca",
+    "deca": "10"
+};

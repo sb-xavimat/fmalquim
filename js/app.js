@@ -1,10 +1,18 @@
 "use strict";
-// ELEMENTS
+// MARK: Imports
+import  { KINDS } from '../constants/kinds.js';
+import { ELEMENTS } from '../constants/elements.js';
+import { PREFIXES } from '../constants/prefixes.js';
+import { HELP } from '../constants/help.js';
+import { COLOR } from '../constants/colors.js';
+
+
+// MARK: Elems
 const mainBox = document.querySelector('main');
 const kindsBox = document.querySelector('#kinds');
 const elementsBox = document.querySelector('#elements-list');
 const elemBox = document.querySelector('#elem-box');
-const rightBox = document.querySelector('#bottom-box');
+const bottomBox = document.querySelector('#bottom-box');
 const resultsBox = document.querySelector('#results');
 
 // MARK: Globals
@@ -58,16 +66,10 @@ function selectElement(ev) {
 
 function fillResults() {
     resultsBox.innerHTML = '';
-    // const result = createSwitcher();
-    // resultsBox.innerHTML += buildTable(result);
-    // const resultLines = result.map(JSON.stringify).join('\n');
-    // resultsBox.innerHTML += `<pre>${resultLines}</pre>`;
     const cards = createSwitcher();
     cards.forEach(card => {
         resultsBox.innerHTML += buildCard(card);
     });
-
-    log(result);
 }
 function createSwitcher() {
     switch (kind) {
