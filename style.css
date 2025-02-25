@@ -29,7 +29,12 @@ button.active:hover {
 }
 
 #elem-box {
+    position: absolute;
+    top: 0;
+    left: 26%;
     border: 1px solid #f0f0f0;
+    border-radius: 1rem;
+    background-color: #404040;
     padding: 0.5rem;
 }
 
@@ -45,6 +50,7 @@ table {
     padding: 0.3rem;
     border: 1px solid #808080;
     border-radius: 0.3rem;
+    max-width: 49%;
 }
 
 #results {

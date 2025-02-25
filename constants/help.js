@@ -136,7 +136,7 @@ export const HELP = {
         ],
         "kind_full": "2.Hidrurs metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "NOT YET DONE"
+        "status": "accepted (Stock is num-ox)"
     },
     "es-2-2-2": {
         "id": "es-2-2-2",
@@ -157,7 +157,7 @@ export const HELP = {
         ],
         "kind_full": "2.Hidrurs metàl·lics",
         "namesys_full": "2.Stock",
-        "status": "NOT YET DONE"
+        "status": "accepted (Stock is num-ox)"
     },
     "es-3-2-1": {
         "id": "es-3-2-1",
