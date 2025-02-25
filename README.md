@@ -2,8 +2,6 @@
 
 ## Fitxes d'ajuda
 ### PER FER
-* Hidrurs metàl·lics
-    * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg14
 * Hidràcids (STOCK i TRADICIONAL)
     * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg15
 * Òxids metàl·lics
@@ -19,11 +17,18 @@
 
 
 ## FENT
-* Substàncies elementals
-    * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg9
-    * (FET) Prefixes, F>N
-    * (FET) Prefixes, N>F
+* Hidrurs metàl·lics
+    * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg14
+    * Prefixes, F>N
+    * Prefixes, N>F
     * Num Oxidació, F>N
     * Num Oxidació, N>F
 
+
 ### FETES
+* Substàncies elementals
+    * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg9
+    * Prefixes, F>N
+    * Prefixes, N>F
+    * Num Oxidació, F>N
+    * Num Oxidació, N>F
