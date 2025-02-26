@@ -2,14 +2,16 @@
 Segona versió, a partir de les instruccions d'Albert.
 
 ## BACKLOG
-
-## TODO
 * Funció per extraure la info de la fórmula
     * TODO: que funcione per als peròxids
     * TODO: parèntesis
     * TODO: grups sense parèntesis "OH", ...
 
+## TODO
+
 ## DOING
+* Construint les substàncies elementals
+    * Usant les instruccions d'Albert i el codi ja fet de v1.
 
 ## DOCS
 * Instruccions Albert

@@ -77,7 +77,7 @@ const HELP = {
         "id": "es-2-4-1",
         "lang": "es",
         "kind": 2,
-        "namesys": 4,
+        "namesys": 1,
         "mode": 1,
         "steps": [
             "Prefijo correspondiente al subíndice del hidrógeno (si hay subíndice)",
@@ -98,7 +98,7 @@ const HELP = {
         "id": "es-2-4-2",
         "lang": "es",
         "kind": 2,
-        "namesys": 4,
+        "namesys": 1,
         "mode": 2,
         "steps": [
             "Símbolo del metal",
