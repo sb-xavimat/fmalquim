@@ -20,18 +20,21 @@ body>header {
     padding: 0.2rem;
 }
 
-#input-fmla {
+/* #input-fmla {
     width: 150px;
-}
+} */
+
 .input-data-part {
     padding: 0 0.5rem;
 }
+
 .card {
     padding: 0.3rem;
     border: 1px solid #808080;
     border-radius: 0.3rem;
     max-width: 49%;
 }
+
 main {
     display: flex;
     flex-wrap: wrap;
