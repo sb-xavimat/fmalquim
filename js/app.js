@@ -48,7 +48,3 @@ function gatherData(form) {
 
     const card = getHelpCard({ lang, system, mode, kind, fmla });
 }
-
-function getHelpCard({ lang, system, mode, kind, fmla }) {
-    const fmlaData = parseFmla(fmla);
-}

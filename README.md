@@ -10,13 +10,6 @@ Segona versió, a partir de les instruccions d'Albert.
     * TODO: grups sense parèntesis "OH", ...
 
 ## DOING
-* Funció per extraure la info de la fórmula
-    * Se suposa una fórmula ben feta (no es comprova)
-    * Itera cada caràcter:
-        * Si troba una majúscula, comença un element
-        * Si troba un número (i no estava parsejant números), comença un subíndex
-        * En qualsevol altre cas: continua amb el que estava parsejant
-        * Inicialment, parseja un element
 
 ## DOCS
 * Instruccions Albert
@@ -26,4 +19,11 @@ https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pET
 
 ## DONE
 ### 2025-02-26
+* Funció per extraure la info de la fórmula
+    * Se suposa una fórmula ben feta (no es comprova)
+    * Itera cada caràcter:
+        * Si troba una majúscula, comença un element
+        * Si troba un número (i no estava parsejant números), comença un subíndex
+        * En qualsevol altre cas: continua amb el que estava parsejant
+        * Inicialment, parseja un element
 * Preparar versió 2
