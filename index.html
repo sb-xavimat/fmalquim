@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FMLAQUIM - V2</title>
+  <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+  <link rel="stylesheet" href="./css/style.css">
+  <!-- imports - constants -->
+
+  <!-- imports - functions -->
+  <script src="./js/utils.js"></script>
+  <!-- app -->
+  <script defer src="./js/app.js"></script>
+</head>
+
+<body>
+  <header>
+    <form oninput="changeForm(event,this)" onkeydown="return event.key != 'Enter';">
+      <select id="select-lang">
+        <option value="es">Español</option>
+        <option value="ca">Català</option>
+        <option value="eu">Euskara</option>
+        <option value="en">English</option>
+      </select>
+      <select id="select-system">
+        <option value="PRE">Prefixes</option>
+        <option value="NOX">Nombres oxidació</option>
+        <option value="TRA">Tradicional</option>
+        <option value="SIS">Sistemàtic</option>
+      </select>
+      <select id="select-mode">
+        <option value="FN">Fmla &rarr; Nom</option>
+        <option value="NF">Nom &rarr; Fmla</option>
+      </select>
+      <select id="select-kind">
+        <option value="1">1. sustancias elementales</option>
+        <option value="2">2. hidruros metálicos</option>
+        <option value="3">3. hidrácidos</option>
+        <option value="4">4. óxidos metálicos</option>
+        <option value="5">5. óxidos no metálicos</option>
+        <option value="6">6. halogenuros de oxígeno</option>
+        <option value="7">7. comp. covalentes no metálicos</option>
+        <option value="8">8. sales binarias</option>
+        <option value="9">9. peróxidos</option>
+        <option value="10">10. hidróxidos</option>
+        <option value="12">12. oxoácidos</option>
+        <option value="13">13. oxosales</option>
+        <option value="14">14. oxosales ácidas</option>
+      </select>
+      <input id="input-fmla" type="text" placeholder="Fórmula">
+    </form>
+    <div id="input-data">
+      <span class="input-data-part"><small>symb1:</small></span>
+      <span class="input-data-part"><small>sub1:</small></span>
+      <span class="input-data-part"><small>symb2:</small></span>
+      <span class="input-data-part"><small>sub2:</small></span>
+    </div>
+  </header>
+  <main></main>
+</body>
+
+</html>

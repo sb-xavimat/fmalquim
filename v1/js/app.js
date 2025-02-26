@@ -105,6 +105,7 @@ function createSwitcher() {
 }
 
 
+// MARK: Logic
 // MARK: GUI
 // Fill kinds list
 function fillKindslist() {
@@ -188,6 +189,7 @@ function buildTable(lines) {
 
 
 
+// MARK: Logic
 // MARK: Init
 function init() {
     fillKindslist();

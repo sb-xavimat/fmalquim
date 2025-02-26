@@ -1,0 +1,39 @@
+/* To use light mode only, add this snippet to your custom.css stylesheet: */
+@media (prefers-color-scheme: dark) {
+    :root {
+        color-scheme: light;
+        --bg: #fff;
+        --accent-bg: #f5f7ff;
+        --text: #212121;
+        --text-light: #585858;
+        --accent: #0d47a1;
+        --accent-hover: #1266e2;
+        --accent-text: var(--bg);
+        --code: #d81b60;
+        --preformatted: #444;
+        --marked: #ffdd33;
+        --disabled: #efefef;
+    }
+}
+
+body>header {
+    padding: 0.2rem;
+}
+
+#input-fmla {
+    width: 150px;
+}
+.input-data-part {
+    padding: 0 0.5rem;
+}
+.card {
+    padding: 0.3rem;
+    border: 1px solid #808080;
+    border-radius: 0.3rem;
+    max-width: 49%;
+}
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
