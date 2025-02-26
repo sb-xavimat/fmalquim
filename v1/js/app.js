@@ -11,7 +11,7 @@ const resultsBox = document.querySelector('#results');
 // MARK: Globals
 const kindButtons = [];
 const elemsButtons = [];
-const oxidStatesButtons = [];
+let oxidStatesButtons = [];
 let kind, elem, oxidState;
 let elems = [];
 
@@ -26,6 +26,7 @@ function clearAll() {
     resultsBox.innerHTML = '';
     elem = null;
     oxidState = null;
+    oxidStatesButtons = [];
 }
 
 function clearElemButtons() {
@@ -72,8 +73,7 @@ function selectElement(ev) {
 function selectOxid(ev) {
     const button = ev.target;
     oxidState = +button.dataset.oxid;
-    bottomBox.querySelectorAll('button')
-        .forEach(b => b.classList.remove('active'));
+    clearOxidStatesButtons();
     button.classList.add('active');
     fillResults();
 }
@@ -198,7 +198,8 @@ function init() {
     elem = ELEMENTS[78];
     oxidState = 3;
     kindButtons[1].classList.add('active');
-    elemsButtons[78].classList.add('active');
+    const AuButton = elemsButtons.find(button => button.dataset.elem === "Au");
+    AuButton.classList.add('active');
     fillElem(elem);
     fillResults();
 }

@@ -2356,7 +2356,7 @@ const ELEMENTS = [
     {
         "AtomicNumber": "108",
         "Symbol": "Hs",
-        "Name_es": "Hassio",
+        "Name_es": "Hasio",
         "Name_en": "Hassium",
         "OxidationStates": "8, 6, 5, 4, 3, 2",
         "GroupBlock": "Transition metal",
