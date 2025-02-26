@@ -1,4 +1,4 @@
-export const PREFIXES = {
+const PREFIXES = {
     "": "mono",
     "1": "mono",
     "mono": "1",
@@ -22,7 +22,7 @@ export const PREFIXES = {
     "deca": "10"
 };
 
-export const ROMANS = {
+const ROMANS = {
     "1": "(I)",
     "2": "(II)",
     "3": "(III)",

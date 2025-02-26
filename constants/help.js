@@ -1,4 +1,4 @@
-export const HELP = {
+const HELP = {
     "es-1-1-1": {
         "id": "es-1-1-1",
         "lang": "es",

@@ -1,4 +1,4 @@
-export const ELEMENTS = [
+const ELEMENTS = [
     {
         "AtomicNumber": "1",
         "Symbol": "H",

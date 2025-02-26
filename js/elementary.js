@@ -1,6 +1,3 @@
-import { HELP } from "../constants/help.js";
-import { PREFIXES } from "../constants/prefixes.js";
-
 function getElementarySubstanceUtils(elem) {
     let subindex = "";
     if (elem.GroupBlock === "Noble gas") { subindex = ""; }
@@ -115,7 +112,7 @@ function getElementarySubstanceNumOxNF(elem) {
     return { title, lines };
 }
 
-export function createElementarySubstances(elem) {
+function createElementarySubstances(elem) {
     const cards = []
     cards.push(getElementarySubstancePrefixesFN(elem));
     cards.push(getElementarySubstancePrefixesNF(elem));

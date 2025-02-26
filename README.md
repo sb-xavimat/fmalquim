@@ -26,6 +26,7 @@
 
 
 ## FETES
+### 2025-02-25
 * Substàncies elementals
     * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg9
     * Prefixes, F>N
@@ -38,3 +39,7 @@
     * Prefixes, N>F
     * Num Oxidació, F>N
     * Num Oxidació, N>F
+
+### 2025-02-26
+* Eliminar el sistema d'importació.
+    * Tornar al sistema de càrrega de tots els scripts des de l'html.

@@ -1,6 +1,4 @@
-// Fill an HTML table with the elements of the periodic table
-
-import { ELEMENTS } from "../constants/elements.js";
+// Periodic table
 const BG_COLORS = {
     "Alkali metal": "#FFD700",
     "Alkaline earth metal": "#FFA500",
@@ -14,8 +12,7 @@ const BG_COLORS = {
     "Nonmetal": "#66FF66",
 }
 
-
-export function createPeriodicTable(selectElement, elemsButtons) {
+function createPeriodicTable(selectElement, elemsButtons) {
     const table = document.createElement('table');
     table.classList.add('periodic');
 

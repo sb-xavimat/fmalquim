@@ -1,4 +1,4 @@
-export const KINDS = {
+const KINDS = {
     "4": {
         "id": 4,
         "kind": "óxidos metálicos"

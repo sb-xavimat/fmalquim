@@ -1,13 +1,4 @@
 "use strict";
-// MARK: Imports
-import { KINDS } from '../constants/kinds.js';
-import { ELEMENTS } from '../constants/elements.js';
-import { COLOR } from '../constants/colors.js';
-import { createPeriodicTable } from './periodic.js';
-import { createElementarySubstances } from './elementary.js';
-import { createMetallicHidrures } from './methidrures.js';
-import { log } from './utils.js';
-
 
 // MARK: Elems
 const mainBox = document.querySelector('main');
@@ -94,7 +85,17 @@ function fillResults() {
         resultsBox.innerHTML += buildCard(card);
     });
     resultsBox.innerHTML += `<pre>${JSON.stringify(cards, null, 2)}</pre>`;
+
+    // Reduïr la info de left a arrays
+    const left1 = cards
+        .map(card => card.lines
+            .map(line =>  line.left
+                .map(part => part.text).join("|")
+            ));
+
+    resultsBox.innerHTML += `<pre>${JSON.stringify(left1, null, 2)}</pre>`;
 }
+
 function createSwitcher() {
     switch (kind) {
         case "1": return createElementarySubstances(elem);

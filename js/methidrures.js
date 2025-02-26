@@ -1,7 +1,5 @@
-import { HELP } from "../constants/help.js";
-import { PREFIXES, ROMANS } from "../constants/prefixes.js";
-
-function getConstants(elem, oxidState) {
+// Hidrurs metàl·lics
+function getMetHidrConstants(elem, oxidState) {
     let subindex = oxidState;
     let roman = ROMANS[oxidState];
     const name = elem.Name_es.toLowerCase();
@@ -22,7 +20,7 @@ function getMetallicHidrurePrefixesFN(elem, oxidState) {
         title: "PREFIXES. Fórmula > Nombre",
         lines: []
     };
-    const { subindex, name, prefix } = getConstants(elem, oxidState);
+    const { subindex, name, prefix } = getMetHidrConstants(elem, oxidState);
     const help = HELP["es-2-1-1"].steps;
 
     card.lines.push({
@@ -67,7 +65,7 @@ function getMetallicHidrurePrefixesNF(elem, oxidState) {
         title: "PREFIXES. Nombre > Fórmula",
         lines: [],
     }
-    const { subindex, name, prefix } = getConstants(elem, oxidState);
+    const { subindex, name, prefix } = getMetHidrConstants(elem, oxidState);
     const help = HELP["es-2-1-2"].steps;
 
     card.lines.push({
@@ -110,7 +108,7 @@ function getMetallicHidrureNumOxFN(elem, oxidState) {
         title: "NÚMEROS DE OXIDACIÓN. Fórmula > Nombre",
         lines: [],
     }
-    const { subindex, name, roman } = getConstants(elem, oxidState);
+    const { subindex, name, roman } = getMetHidrConstants(elem, oxidState);
     const help = HELP["es-2-2-1"].steps;
 
     card.lines.push({
@@ -157,7 +155,7 @@ function getMetallicHidrureNumOxNF(elem, oxidState) {
         title: "NÚMEROS DE OXIDACIÓN. Nombre > Fórmula",
         lines: [],
     }
-    const { subindex, name, roman } = getConstants(elem, oxidState);
+    const { subindex, name, roman } = getMetHidrConstants(elem, oxidState);
     const help = HELP["es-2-2-2"].steps;
 
     card.lines.push({
@@ -197,7 +195,7 @@ function getMetallicHidrureNumOxNF(elem, oxidState) {
     return card;
 }
 
-export function createMetallicHidrures(elem, oxidState) {
+function createMetallicHidrures(elem, oxidState) {
     const cards = []
     cards.push(getMetallicHidrurePrefixesFN(elem, oxidState));
     cards.push(getMetallicHidrurePrefixesNF(elem, oxidState));

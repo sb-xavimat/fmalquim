@@ -1,1 +1,1 @@
-export function log(...t) { console.log(...t); }
+function log(...t) { console.log(...t); }
