@@ -17,6 +17,9 @@ Segona versió, a partir de les instruccions d'Albert.
     * (FET) Hidrurs metàl·lics
     * (CAL CREAR LA FITXA D'AJUDA) Hidràcids
     * Òxids metàl·lics
+        * FENT: TODO: genenitiu català que depén de:
+            * Si hi ha prefix: prefix apostrofable
+            * Si no hi ha prefix: elem apostrofable
     * Òxids no-metàl·lics
     * Halogenurs d’oxigen
     * Altres covalents
