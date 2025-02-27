@@ -6,13 +6,23 @@ Segona versió, a partir de les instruccions d'Albert.
     * TODO: que funcione per als peròxids
     * TODO: parèntesis
     * TODO: grups sense parèntesis "OH", ...
+* Convertir el array ELEMENTS en un objecte on les claus siguen els symbols dels elements.
 
 ## TODO
 
 
 ## DOING
-* Construint les substàncies elementals
-    * Usant les instruccions d'Albert i el codi ja fet de v1.
+* Sistema PRE. F>N:
+    * (FET) Substàncies elementals
+    * Hidrurs metàl·lics
+    * Hidràcids
+    * Òxids metàl·lics
+    * Òxids no-metàl·lics
+    * Halogenurs d’oxigen
+    * Altres covalents
+    * Sals binàries
+    * Peròxids
+    * Hidròxids
 
 
 ## DOCS
@@ -36,3 +46,5 @@ https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pET
 ### 2025-02-27
 * Transfromar l'objecte d'ajuda per posar ids i keys més entenedores
     * Usar el `namesys` i  la `id` amb text en compte de numèriques.
+* Construir usant les instruccions d'Albert i el codi ja fet de v1.
+
