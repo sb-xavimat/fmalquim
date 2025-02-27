@@ -1,5 +1,4 @@
 const PREFIXES = {
-    "": "mono",
     "1": "mono",
     "mono": "1",
     "2": "di",
@@ -32,5 +31,4 @@ const ROMANS = {
     "7": "(VII)",
     "8": "(VIII)",
     "9": "(IX)",
-    "10": "(X)",
-}
+};

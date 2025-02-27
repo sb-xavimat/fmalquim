@@ -9,15 +9,18 @@ Segona versió, a partir de les instruccions d'Albert.
 
 ## TODO
 
+
 ## DOING
 * Construint les substàncies elementals
     * Usant les instruccions d'Albert i el codi ja fet de v1.
+
 
 ## DOCS
 * Instruccions Albert
 https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ/edit?tab=t.0#heading=h.3z5xqoph7zde
 * Elements (Albert)
 https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pETSoY/edit?gid=0#gid=0
+
 
 ## DONE
 ### 2025-02-26
@@ -29,3 +32,7 @@ https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pET
         * En qualsevol altre cas: continua amb el que estava parsejant
         * Inicialment, parseja un element
 * Preparar versió 2
+
+### 2025-02-27
+* Transfromar l'objecte d'ajuda per posar ids i keys més entenedores
+    * Usar el `namesys` i  la `id` amb text en compte de numèriques.
