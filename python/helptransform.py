@@ -1292,6 +1292,18 @@ HELP = {
     }
 }
 
+NAMESYS = {
+    1: "PRE",
+    2: "NOX",
+    3: "TRA",
+    4: "SIS"
+}
+MODE = {
+    1: "FN",
+    2: "NF"
+}
+
+
 
 # Transformar el diccionari HELP:
 # Les key i la propietat id estan formats per quatre parts separades per guions:
@@ -1307,17 +1319,8 @@ HELP = {
 # - Els `mode` siguin text (1=FN, 2=NF).
 # - Els 'id' es transformen de la mateixa forma.
 # - Les 'key' es transformen de la mateixa forma.
-
-NAMESYS = {
-    1: "PRE",
-    2: "NOX",
-    3: "TRA",
-    4: "SIS"
-}
-MODE = {
-    1: "FN",
-    2: "NF"
-}
+# I també
+# - Esborrar la propietat 'namesys_full', perquè ja no caldrà.
 
 def transform_help():
     new_help = {}
@@ -1325,6 +1328,7 @@ def transform_help():
         item["namesys"] = NAMESYS[item["namesys"]]
         item["mode"] = MODE[item["mode"]]
         item["id"] = f"{item['lang']}-{item['kind']}-{item['namesys']}-{item['mode']}"
+        del item["namesys_full"]
         new_help[item["id"]] = item
 
     with open("helptransform.json", "w", encoding="utf-8") as f:

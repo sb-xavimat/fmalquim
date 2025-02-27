@@ -31,7 +31,6 @@ function getElementarySubstancePrefixesFN(elem) {
         right: "",
     });
 
-
     lines.push({
         left: [{ text: prefix, color: 2 }],
         right: help[0],

@@ -41,6 +41,7 @@ function buildTable(lines) {
 
     let inn = "<table>";
     lines.forEach(line => {
+        log(line);
         let rightText = line.right.split('|').join('<br>');
         if (rightText.includes("_")) {
             // Convertir el primer "_" en <i> y el segundo en </i>
