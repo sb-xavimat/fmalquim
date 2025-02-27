@@ -14,8 +14,8 @@ Segona versió, a partir de les instruccions d'Albert.
 ## DOING
 * Sistema PRE. F>N:
     * (FET) Substàncies elementals
-    * Hidrurs metàl·lics
-    * Hidràcids
+    * (FET) Hidrurs metàl·lics
+    * (CAL CREAR LA FITXA D'AJUDA) Hidràcids
     * Òxids metàl·lics
     * Òxids no-metàl·lics
     * Halogenurs d’oxigen
