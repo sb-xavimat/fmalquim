@@ -27,9 +27,11 @@ Segona versió, a partir de les instruccions d'Albert.
 
 ## DOCS
 * Instruccions Albert
-https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ/edit?tab=t.0#heading=h.3z5xqoph7zde
+https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ
 * Elements (Albert)
 https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pETSoY/edit?gid=0#gid=0
+* Totes substàncies:
+https://docs.google.com/spreadsheets/d/1O8kvqDk8KlTeuc65Y55WfPjs5MaBuha43y3AOy8OsPA/edit?gid=0#gid=0
 
 
 ## DONE

@@ -3,6 +3,7 @@
 // MARK: Elems
 const inputDataBox = document.querySelector('#input-data');
 const mainBox = document.querySelector('main');
+const form = document.querySelector('form');
 
 // MARK: GUI
 function refreshInputData(data) {
@@ -105,3 +106,6 @@ function gatherData(form) {
         });
     });
 }
+
+// MARK: Inint
+gatherData(form);
