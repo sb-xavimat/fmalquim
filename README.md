@@ -17,7 +17,7 @@ Segona versió, a partir de les instruccions d'Albert.
 * Sistema NOX
     * F>N:
         * 2. Hidrurs metàl·lics
-        * ❌ 3. Hidràcids
+        * 3. Hidràcids
         * ❌ 4. Òxids metàl·lics
         * ❌ 5. Òxids no-metàl·lics
         * ❌ 7. Altres covalents
@@ -33,6 +33,8 @@ https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ
 https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pETSoY/edit?gid=0#gid=0
 * Totes substàncies:
 https://docs.google.com/spreadsheets/d/1O8kvqDk8KlTeuc65Y55WfPjs5MaBuha43y3AOy8OsPA/edit?gid=0#gid=0
+* Recurs
+https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l1h63ew_es&modo=3&Apag=l1h63ew_pg1
 * Totes fitxes
 * NOMENCLATURA NOVA (pàgines 6164 i no 6163)
     * Substàncies elementals

@@ -51,7 +51,7 @@ table {
 }
 
 td:first-child {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
     font-weight: bold;
 }
 tr:last-child td:first-child {

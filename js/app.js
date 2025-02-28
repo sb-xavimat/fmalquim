@@ -87,6 +87,7 @@ function gatherData(form) {
     const kind = form[3].value;
     const fmla = form[4].value;
     const fmlaData = parseFmla(fmla, lang, kind);
+    log({ fmlaData });
     refreshInputData(fmlaData);
     clearCards();
 
