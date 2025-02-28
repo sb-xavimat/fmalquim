@@ -42,7 +42,14 @@ function buildTable(lines) {
 
     let inn = "<table>";
     lines.forEach(line => {
-        let rightText = line.right.split('|').join('<br>');
+        let rightText;
+        try {
+            rightText = line.right.split('|').join('<br>');
+
+        } catch (error) {
+            console.log({line});
+            throw error;
+        }
         if (rightText.includes("_")) {
             // Coloregem els "_-uro_" o "_-ur_".
             const lilac = COLOR.lilac;

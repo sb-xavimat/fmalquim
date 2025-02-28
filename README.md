@@ -20,7 +20,7 @@ Segona versió, a partir de les instruccions d'Albert.
     * Hidràcids (CAL CREAR LA FITXA D'AJUDA)
     * (FET) Òxids metàl·lics
     * (FET) Òxids no-metàl·lics
-    * Halogenurs d’oxigen
+    * (FET) Halogenurs d’oxigen
     * Altres covalents
     * Sals binàries
     * Peròxids
