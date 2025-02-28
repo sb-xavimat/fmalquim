@@ -7,6 +7,8 @@ Segona versió, a partir de les instruccions d'Albert.
     * TODO: parèntesis
     * TODO: grups sense parèntesis "OH", ...
 * Convertir el array ELEMENTS en un objecte on les claus siguen els symbols dels elements.
+* ELEMENTS: triar el nom preferit en els elements que tenen dos noms
+    * Ex.: Zinc / Cinc, Plata / Argent...
 
 ## TODO
 
@@ -15,11 +17,8 @@ Segona versió, a partir de les instruccions d'Albert.
 * Sistema PRE. F>N:
     * (FET) Substàncies elementals
     * (FET) Hidrurs metàl·lics
-    * (CAL CREAR LA FITXA D'AJUDA) Hidràcids
-    * Òxids metàl·lics
-        * FENT: TODO: genenitiu català que depén de:
-            * Si hi ha prefix: prefix apostrofable
-            * Si no hi ha prefix: elem apostrofable
+    * Hidràcids (CAL CREAR LA FITXA D'AJUDA)
+    * (FET) Òxids metàl·lics
     * Òxids no-metàl·lics
     * Halogenurs d’oxigen
     * Altres covalents
@@ -35,6 +34,27 @@ https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ
 https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pETSoY/edit?gid=0#gid=0
 * Totes substàncies:
 https://docs.google.com/spreadsheets/d/1O8kvqDk8KlTeuc65Y55WfPjs5MaBuha43y3AOy8OsPA/edit?gid=0#gid=0
+* Totes fitxes
+* NOMENCLATURA NOVA (pàgines 6164 i no 6163)
+    * Substàncies elementals
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg9
+    * Hidrurs metàl·lics
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg14
+    * Hidràcids (STOCK i TRADICIONAL)
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg15
+    * Òxids metàl·lics
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg12
+    * Òxids no metàl·lics
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg13
+    * Compostos covalents no metàl·lics
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg11
+    * Sals binàries
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg10
+    * Hidròxids
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg16
+    * FULL:
+        * https://docs.google.com/spreadsheets/d/17Fq-XNF-SITZA2D9gfGM2ICwqePq1pA7K_-Zn_25I0s/edit?gid=0#gid=0
+
 
 
 ## DONE
