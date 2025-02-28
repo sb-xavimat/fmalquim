@@ -21,10 +21,11 @@ Segona versió, a partir de les instruccions d'Albert.
     * (FET) Òxids metàl·lics
     * (FET) Òxids no-metàl·lics
     * (FET) Halogenurs d’oxigen
-    * Altres covalents
-    * Sals binàries
-    * Peròxids
+    * (FET) Altres covalents
+    * (FET) Sals binàries
+    * (FET) Peròxids
     * Hidròxids
+        * Cal modificar `parseFmla`, perquè ara tenim tres elements (un grup peròxid OH, que pot tindre parèntesi)
 
 
 ## DOCS
