@@ -10,22 +10,11 @@ Segona versió, a partir de les instruccions d'Albert.
 * ELEMENTS: triar el nom preferit en els elements que tenen dos noms
     * Ex.: Zinc / Cinc, Plata / Argent...
 
+
 ## TODO
 
 
 ## DOING
-* Sistema PRE. F>N:
-    * (FET) Substàncies elementals
-    * (FET) Hidrurs metàl·lics
-    * Hidràcids (CAL CREAR LA FITXA D'AJUDA)
-    * (FET) Òxids metàl·lics
-    * (FET) Òxids no-metàl·lics
-    * (FET) Halogenurs d’oxigen
-    * (FET) Altres covalents
-    * (FET) Sals binàries
-    * (FET) Peròxids
-    * Hidròxids
-        * Cal modificar `parseFmla`, perquè ara tenim tres elements (un grup peròxid OH, que pot tindre parèntesi)
 
 
 ## DOCS
@@ -74,3 +63,15 @@ https://docs.google.com/spreadsheets/d/1O8kvqDk8KlTeuc65Y55WfPjs5MaBuha43y3AOy8O
     * Usar el `namesys` i  la `id` amb text en compte de numèriques.
 * Construir usant les instruccions d'Albert i el codi ja fet de v1.
 
+### 2025-02-28
+* modificar `parseFmla`, perquè ara tenim tres elements (un grup peròxid OH, que pot tindre parèntesi)
+* Sistema PRE. F>N:
+    * (FET) Substàncies elementals
+    * (FET) Hidrurs metàl·lics
+    * (FET) Òxids metàl·lics
+    * (FET) Òxids no-metàl·lics
+    * (FET) Halogenurs d’oxigen
+    * (FET) Altres covalents
+    * (FET) Sals binàries
+    * (FET) Peròxids
+    * (FET) Hidròxids
