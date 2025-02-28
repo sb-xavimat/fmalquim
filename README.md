@@ -3,9 +3,8 @@ Segona versió, a partir de les instruccions d'Albert.
 
 ## BACKLOG
 * Funció per extraure la info de la fórmula
-    * TODO: que funcione per als peròxids
-    * TODO: parèntesis
-    * TODO: grups sense parèntesis "OH", ...
+    * que funcione per als peròxids amb parèntesis com Fe2(O2)3
+
 * Convertir el array ELEMENTS en un objecte on les claus siguen els symbols dels elements.
 * ELEMENTS: triar el nom preferit en els elements que tenen dos noms
     * Ex.: Zinc / Cinc, Plata / Argent...
@@ -15,6 +14,16 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING
+* Sistema NOX
+    * F>N:
+        * ❌ 2. Hidrurs metàl·lics
+        * ❌ 3. Hidràcids
+        * ❌ 4. Òxids metàl·lics
+        * ❌ 5. Òxids no-metàl·lics
+        * ❌ 7. Altres covalents
+        * ❌ 8. Sals binàries
+        * ❌ 9. Peròxids
+        * ❌ 10. Hidròxids
 
 
 ## DOCS
