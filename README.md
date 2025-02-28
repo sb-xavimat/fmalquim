@@ -16,7 +16,7 @@ Segona versió, a partir de les instruccions d'Albert.
 ## DOING
 * Sistema NOX
     * F>N:
-        * ❌ 2. Hidrurs metàl·lics
+        * 2. Hidrurs metàl·lics
         * ❌ 3. Hidràcids
         * ❌ 4. Òxids metàl·lics
         * ❌ 5. Òxids no-metàl·lics
