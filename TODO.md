@@ -29,10 +29,10 @@ La marca ❌ indica els que falten.
     * F>N:
         * 2. Hidrurs metàl·lics
         * 3. Hidràcids
-        * ❌ 4. Òxids metàl·lics
-        * ❌ 5. Òxids no-metàl·lics
-        * ❌ 7. Altres covalents
-        * ❌ 8. Sals binàries
+        * 4. Òxids metàl·lics
+        * 5. Òxids no-metàl·lics
+        * 7. Altres covalents
+        * 8. Sals binàries
         * ❌ 9. Peròxids
         * ❌ 10. Hidròxids
     * N>F:
