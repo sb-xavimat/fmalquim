@@ -11,6 +11,8 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## TODO
+* Comprovar, en els òxids NOX, què vol dir "si té més d'una valència". ¿Parlem només de les positives? ¿Per què?
+    * El problema ix perquè 'SiO2' és 'óxido de silicio' i no 'óxido de silicio(IV)'
 
 
 ## DOING
@@ -86,3 +88,5 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l1h63ew_es&modo
     * (FET) Sals binàries
     * (FET) Peròxids
     * (FET) Hidròxids
+* Comprovar quants elements tenen només una valència positiva i una negativa.
+    * hidrogen, silici i àstat
