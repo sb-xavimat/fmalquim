@@ -44,6 +44,11 @@ function buildTable(lines) {
     lines.forEach(line => {
         let rightText = line.right.split('|').join('<br>');
         if (rightText.includes("_")) {
+            // Coloregem els "_-uro_" o "_-ur_".
+            const lilac = COLOR.lilac;
+            rightText = rightText
+                .replace("_-uro_", `<span style='color:${lilac}'><i>-uro</i></span>`)
+                .replace("_-ur_", `<span style='color:${lilac}'><i>-ur</i></span>`);
             // Convertir el primer "_" en <i> y el segundo en </i>
             rightText = rightText.replace("_", "<i>").replace("_", "</i>");
         }

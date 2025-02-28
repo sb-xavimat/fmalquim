@@ -89,7 +89,7 @@ function fillResults() {
     // Reduïr la info de left a arrays
     const left1 = cards
         .map(card => card.lines
-            .map(line =>  line.left
+            .map(line => line.left
                 .map(part => part.text).join("|")
             ));
 
