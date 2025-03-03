@@ -37,7 +37,7 @@ La marca ❌ indica els que falten.
         * 10. Hidròxids
     * N>F:
         * 2. Hidrurs metàl·lics
-        * ❌ 3. Hidràcids
+        * 3. Hidràcids
         * ❌ 4. Òxids metàl·lics
         * ❌ 5. Òxids no-metàl·lics
         * ❌ 7. Altres covalents
