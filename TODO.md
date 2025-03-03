@@ -18,7 +18,7 @@ La marca ❌ indica els que falten.
         * 1. Substàncies elementals
         * 2. Hidrurs metàl·lics
         * ❌ 3. Hidràcids (CAL CREAR LA FITXA D'AJUDA)
-        * ❌ 4. Òxids metàl·lics
+        * 4. Òxids metàl·lics
         * ❌ 5. Òxids no-metàl·lics
         * ❌ 6. Halogenurs d’oxigen
         * ❌ 7. Altres covalents

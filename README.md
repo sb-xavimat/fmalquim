@@ -25,11 +25,9 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING
+* SEGUIR ACÍ: chemhelpjs línia 868
 * Sistema PRE.
     * N>F:
-        * 1. Substàncies elementals
-        * 2. Hidrurs metàl·lics
-        * ❌ 4. Òxids metàl·lics
         * ❌ 5. Òxids no-metàl·lics
         * ❌ 6. Halogenurs d’oxigen
         * ❌ 7. Altres covalents
@@ -38,8 +36,6 @@ Segona versió, a partir de les instruccions d'Albert.
         * ❌ 10. Hidròxids
 * Sistema NOX
     * N>F:
-        * 2. Hidrurs metàl·lics
-        * 3. Hidràcids
         * ❌ 4. Òxids metàl·lics
         * ❌ 5. Òxids no-metàl·lics
         * ❌ 7. Altres covalents
@@ -138,3 +134,12 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
     * F>N:
         * 9. Peròxids
         * 10. Hidròxids
+* Sistema PRE.
+    * N>F:
+        * 1. Substàncies elementals
+        * 2. Hidrurs metàl·lics
+        * 4. Òxids metàl·lics
+* Sistema NOX
+    * N>F:
+        * 2. Hidrurs metàl·lics
+        * 3. Hidràcids
