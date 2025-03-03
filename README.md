@@ -24,7 +24,7 @@ Segona versió, a partir de les instruccions d'Albert.
         * 5. Òxids no-metàl·lics
         * 7. Altres covalents
         * 8. Sals binàries
-        * ❌ 9. Peròxids
+        * 9. Peròxids
         * ❌ 10. Hidròxids
 
 
@@ -41,21 +41,25 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l1h63ew_es&modo
 https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg19
 * Totes fitxes
 * NOMENCLATURA NOVA (pàgines 6164 i no 6163)
-    * Substàncies elementals
+    * 1.Substàncies elementals
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg9
-    * Hidrurs metàl·lics
+    * 2.Hidrurs metàl·lics
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg14
-    * Hidràcids (STOCK i TRADICIONAL)
+    * 3.Hidràcids (STOCK i TRADICIONAL)
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg15
-    * Òxids metàl·lics
+    * 4.Òxids metàl·lics
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg12
-    * Òxids no metàl·lics
+    * 5.Òxids no metàl·lics
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg13
-    * Compostos covalents no metàl·lics
+    * 6-Halogenurs d'oxigen
+        *
+    * 7.Compostos covalents no metàl·lics
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg11
-    * Sals binàries
+    * 8.Sals binàries
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg10
-    * Hidròxids
+    * 9.Peròxids
+        * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg31
+    * 10.Hidròxids
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg16
     * FULL:
         * https://docs.google.com/spreadsheets/d/17Fq-XNF-SITZA2D9gfGM2ICwqePq1pA7K_-Zn_25I0s/edit?gid=0#gid=0
@@ -92,3 +96,13 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
     * (FET) Hidròxids
 * Comprovar quants elements tenen només una valència positiva i una negativa.
     * hidrogen, silici i àstat
+
+### 2025-03-03
+* 9.Peròxids
+    * Cal una informació extra: si porta parèntesis o no.
+        * Per poder distingir fórmules com Au2(O2)3
+* `getNox`:
+    * Pareix que quan es diu "si té més d'un nox", en realitat vol dir "si té més d'un nox positiu".
+    * Si este és el cas, aleshores la funció getNox ha de tornar "" per a l'hidrogen, el silici i l'àstat, encara que tinguen una "/" en el nox.
+* `getPeroxidesNOX_FN`:
+    * S'ha intentat revertir l'eventual simplificació.
