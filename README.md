@@ -15,15 +15,16 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING
-* Sistema NOX
-    * F>N:
-        * 2. Hidrurs metàl·lics
-        * 3. Hidràcids
-        * 4. Òxids metàl·lics
-        * 5. Òxids no-metàl·lics
-        * 7. Altres covalents
-        * 8. Sals binàries
-        * 9. Peròxids
+* Sistema PRE.
+    * N>F:
+        * ❌ 1. Substàncies elementals
+        * ❌ 2. Hidrurs metàl·lics
+        * ❌ 4. Òxids metàl·lics
+        * ❌ 5. Òxids no-metàl·lics
+        * ❌ 6. Halogenurs d’oxigen
+        * ❌ 7. Altres covalents
+        * ❌ 8. Sals binàries
+        * ❌ 9. Peròxids
         * ❌ 10. Hidròxids
 
 
@@ -95,6 +96,14 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
     * (FET) Hidròxids
 * Comprovar quants elements tenen només una valència positiva i una negativa.
     * hidrogen, silici i àstat
+* Sistema NOX
+    * F>N:
+        * 2. Hidrurs metàl·lics
+        * 3. Hidràcids
+        * 4. Òxids metàl·lics
+        * 5. Òxids no-metàl·lics
+        * 7. Altres covalents
+        * 8. Sals binàries
 
 ### 2025-03-03
 * 9.Peròxids
@@ -105,3 +114,7 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
     * Si este és el cas, aleshores la funció getNox ha de tornar "" per a l'hidrogen, el silici i l'àstat, encara que tinguen una "/" en el nox.
 * `getPeroxidesNOX_FN`:
     * S'ha intentat revertir l'eventual simplificació.
+* Sistema NOX
+    * F>N:
+        * 9. Peròxids
+        * 10. Hidròxids
