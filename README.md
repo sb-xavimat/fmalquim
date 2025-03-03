@@ -11,6 +11,16 @@ Segona versió, a partir de les instruccions d'Albert.
 
 * On escriure la info: "abans del paréntesis no hi ha cap espai".
 
+* Gran full de substàncies (preguntes)
+    * localitzar els noms que cal revisar:
+        * ES:
+            * zinc/cinc
+            * selenur/seleniuro
+        * CA:
+            * plata/argent
+    * Revisar els noms que cal, completant els que falten.
+
+
 ## TODO
 
 
