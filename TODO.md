@@ -15,7 +15,7 @@ La marca ❌ indica els que falten.
         * 9. Peròxids
         * 10. Hidròxids
     * N>F:
-        * ❌ 1. Substàncies elementals
+        * 1. Substàncies elementals
         * ❌ 2. Hidrurs metàl·lics
         * ❌ 3. Hidràcids (CAL CREAR LA FITXA D'AJUDA)
         * ❌ 4. Òxids metàl·lics

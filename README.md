@@ -17,7 +17,7 @@ Segona versió, a partir de les instruccions d'Albert.
 ## DOING
 * Sistema PRE.
     * N>F:
-        * ❌ 1. Substàncies elementals
+        * 1. Substàncies elementals
         * ❌ 2. Hidrurs metàl·lics
         * ❌ 4. Òxids metàl·lics
         * ❌ 5. Òxids no-metàl·lics
