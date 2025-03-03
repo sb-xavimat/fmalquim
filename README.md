@@ -18,10 +18,20 @@ Segona versió, a partir de les instruccions d'Albert.
 * Sistema PRE.
     * N>F:
         * 1. Substàncies elementals
-        * ❌ 2. Hidrurs metàl·lics
+        * 2. Hidrurs metàl·lics
         * ❌ 4. Òxids metàl·lics
         * ❌ 5. Òxids no-metàl·lics
         * ❌ 6. Halogenurs d’oxigen
+        * ❌ 7. Altres covalents
+        * ❌ 8. Sals binàries
+        * ❌ 9. Peròxids
+        * ❌ 10. Hidròxids
+* Sistema NOX
+    * N>F:
+        * 2. Hidrurs metàl·lics
+        * ❌ 3. Hidràcids
+        * ❌ 4. Òxids metàl·lics
+        * ❌ 5. Òxids no-metàl·lics
         * ❌ 7. Altres covalents
         * ❌ 8. Sals binàries
         * ❌ 9. Peròxids
