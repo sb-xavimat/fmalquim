@@ -19,11 +19,13 @@ Segona versió, a partir de les instruccions d'Albert.
             * pentaóxido/pentóxido
             * penta + ?/ pent + ?
             * quan "mono" és prescindible?
+            * wolframio/tungsteno
         * CA:
             * plata/argent
             * pentaòxid/pentòxid
             * penta + ?/ pent + ?
             * quan "mono" és prescindible?
+            * wolframi/tungstè
     * Revisar els noms que cal, completant els que falten.
 
 * En chemhelp, revisar si cal contraure pentaòxid a pentòxid en ES i CA.
@@ -37,16 +39,16 @@ Segona versió, a partir de les instruccions d'Albert.
     * N>F:
         * 5. Òxids no-metàl·lics
         * 6. Halogenurs d’oxigen
-        * ❌ 7. Altres covalents
-        * ❌ 8. Sals binàries
+        * 7. Altres covalents
+        * 8. Sals binàries
         * ❌ 9. Peròxids
         * ❌ 10. Hidròxids
 * Sistema NOX
     * N>F:
         * 4. Òxids metàl·lics
         * 5. Òxids no-metàl·lics
-        * ❌ 7. Altres covalents
-        * ❌ 8. Sals binàries
+        * 7. Altres covalents
+        * 8. Sals binàries
         * ❌ 9. Peròxids
         * ❌ 10. Hidròxids
 
