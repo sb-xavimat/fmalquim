@@ -1,7 +1,7 @@
 "use strict";
 
 // MARK: Imports
-import { getHelpCard, parseFmla } from "../lib/chemhelp.js";
+// import { getHelpCard, parseFmla } from "../lib/chemhelp.js";
 
 // MARK: Elems
 const inputDataBox = document.querySelector('#input-data');

@@ -3,6 +3,6 @@
     "esbuild": "0.25.0"
   },
   "scripts": {
-    "build": "esbuild lib/*.js --bundle --outdir=out --minify --format=iife"
+    "build": "esbuild lib/chemhelp.js --bundle --minify --outdir=out --charset=utf8"
   }
 }

@@ -17,16 +17,21 @@
   <script src="./lib/help.js"></script>
   <script src="./lib/literals.js"></script>
   <script src="./lib/chemhelp.js"></script> -->
+
   <!-- imports - llibreria com a mòdul-->
-  <script type="module" src="./lib/chemhelp.js"></script>
+  <!-- <script type="module" src="./lib/chemhelp.js"></script> -->
+
+  <!-- imports - llibreria com a iife generat -->
+  <script src="./out/chemhelp.js"></script>
+
   <!-- app -->
-  <script defer type="module" src="./js/app.js"></script>
+  <script defer src="./js/app.js"></script>
 </head>
 
 <body>
   <header>
     <form onkeydown="return event.key != 'Enter';">
-      <small>v10</small>
+      <small>v11</small>
       <select id="select-lang">
         <option value="es">Español</option>
         <option value="ca">Català</option>
