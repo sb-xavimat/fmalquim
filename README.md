@@ -31,6 +31,32 @@ Segona versió, a partir de les instruccions d'Albert.
 
 * En chemhelp, revisar si cal contraure pentaòxid a pentòxid en ES i CA.
 
+* Ampliar la llibreria per generar les taules d'info.
+
+* Memoizatzió de getHelpCard
+* Es podrien fer funcions específiques que només obtenen les fórmules i els noms complets.
+    * I altres funcions per als passos intermedis, que aprofiten les primeres.
+
+* Generar totes les variants dels noms:
+    * Amb diversos noms dels elements (Zinc/Cinc, Plata/Argent, etc.)
+    * Amb variants de contraccions (pentaòxid/pentòxid, etc.)
+    * Amb variants d'opcionalitat (alguns "mono-", etc.)
+
+* Amb les funcions que generen totes les variants, es pot generar el full de substàncies/preguntes automàticament amb mínimes infos:
+    * Mínimes infos:
+        * `fmla` Fórmula
+        * `kind_id` Tipus de substància
+        * `years`Curs (3/4/3+4)
+    * Les infos que no cal donar:
+        * `id` (autogenerada per posició)
+        * `idstr` (autogenerada per id+sistema)
+        * `namesys` i `namesys_id`: ja sabem tots els sistemes vàlids segons el `kinds_id` (Tipus de substancia)
+        * `names_es`, `names_ca` Generat, si fem una funció que genere totes les variants. Ara mateix ja generem la versió preferida del nom
+        * `names_eu` Per estudiar
+        * `kind`: derivada del `kind_id`
+        * `pags`: queda com info no rellevant
+
+
 ## TODO
 
 
@@ -157,4 +183,4 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         * 9. Peròxids
         * 10. Hidròxids
 * Usar `esbuildjs` per a fer el build del projecte.
-    * Usar iiefe i global-name per crear un objecte que pot posar-se en una llibreria carregada pel fla, o dins del mateix fla.
+    * Usar iiefe i global-name per crear un objecte que pot posar-se en una llibreria carregada pel fla, o dins del mateix fla (i així no contamina l'espai global).
