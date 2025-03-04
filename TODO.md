@@ -12,7 +12,8 @@ La marca ❌ indica els que falten.
         * 6. Halogenurs d’oxigen
         * 7. Altres covalents
         * 8. Sals binàries
-        * 9. Peròxids
+        * 9. Peròxids (sense parèntesis)
+        * ❌ 9. Peròxids (amb parèntesis)
         * 10. Hidròxids
     * N>F:
         * 1. Substàncies elementals
@@ -23,7 +24,8 @@ La marca ❌ indica els que falten.
         * 6. Halogenurs d’oxigen
         * 7. Altres covalents
         * 8. Sals binàries
-        * ❌ 9. Peròxids
+        * 9. Peròxids (sense parèntesis)
+        * ❌ 9. Peròxids (amb parèntesis)
         * ❌ 10. Hidròxids
 * Sistema NOX
     * F>N:
@@ -42,7 +44,7 @@ La marca ❌ indica els que falten.
         * 5. Òxids no-metàl·lics
         * 7. Altres covalents
         * 8. Sals binàries
-        * ❌ 9. Peròxids
+        * 9. Peròxids
         * ❌ 10. Hidròxids
 * Sistema TRA:
     * F>N:

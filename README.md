@@ -7,7 +7,7 @@ Segona versió, a partir de les instruccions d'Albert.
 
 * Convertir el array ELEMENTS en un objecte on les claus siguen els symbols dels elements.
 * ELEMENTS: triar el nom preferit en els elements que tenen dos noms
-    * Ex.: Zinc / Cinc, Plata / Argent...
+    * Ex.: Zinc / Cinc, Plata / Argent, Wolframi / Tungstè
 
 * On escriure la info: "abans del paréntesis no hi ha cap espai".
 
@@ -41,7 +41,7 @@ Segona versió, a partir de les instruccions d'Albert.
         * 6. Halogenurs d’oxigen
         * 7. Altres covalents
         * 8. Sals binàries
-        * ❌ 9. Peròxids
+        * 9. Peròxids (sense paréntesis)
         * ❌ 10. Hidròxids
 * Sistema NOX
     * N>F:
@@ -49,7 +49,7 @@ Segona versió, a partir de les instruccions d'Albert.
         * 5. Òxids no-metàl·lics
         * 7. Altres covalents
         * 8. Sals binàries
-        * ❌ 9. Peròxids
+        * 9. Peròxids
         * ❌ 10. Hidròxids
 
 
