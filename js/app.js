@@ -1,8 +1,4 @@
 "use strict";
-
-// MARK: Imports
-// import { getHelpCard, parseFmla } from "../lib/chemhelp.js";
-
 // MARK: Elems
 const inputDataBox = document.querySelector('#input-data');
 const mainBox = document.querySelector('main');
@@ -89,7 +85,7 @@ function gatherData(form) {
     // const mode = form[2].value;
     const kind = form[3].value;
     const fmla = form[4].value;
-    const fmlaData = parseFmla(fmla, lang, kind);
+    const fmlaData = chemHelpLib.parseFmla(fmla, lang, kind);
     // Object.entries(fmlaData).forEach(([key, value]) => log({ [key]: value }));
     console.table(fmlaData);
     refreshInputData(fmlaData);
@@ -118,7 +114,7 @@ function gatherData(form) {
     const systems = VALID_SYSTEMS[kind];
     systems.forEach(system => {
         ALL_MODES.forEach(mode => {
-            const card = getHelpCard({ lang, system, mode, kind, fmla });
+            const card = chemHelpLib.getHelpCard({ lang, system, mode, kind, fmla });
             addCard(card);
         });
     });
