@@ -20,12 +20,16 @@ Segona versió, a partir de les instruccions d'Albert.
             * penta + ?/ pent + ?
             * quan "mono" és prescindible?
             * wolframio/tungsteno
+            * en els hidròxids, és vàlid posar "monohidróxido"?
+
         * CA:
             * plata/argent
             * pentaòxid/pentòxid
             * penta + ?/ pent + ?
             * quan "mono" és prescindible?
             * wolframi/tungstè
+            * en els hidròxids, és vàlid posar "monohidròxid"?
+
     * Revisar els noms que cal, completant els que falten.
 
 * En chemhelp, revisar si cal contraure pentaòxid a pentòxid en ES i CA.
@@ -34,23 +38,6 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING
-* SEGUIR ACÍ: chemhelpjs línia 868
-* Sistema PRE.
-    * N>F:
-        * 5. Òxids no-metàl·lics
-        * 6. Halogenurs d’oxigen
-        * 7. Altres covalents
-        * 8. Sals binàries
-        * 9. Peròxids (sense paréntesis)
-        * 10. Hidròxids
-* Sistema NOX
-    * N>F:
-        * 4. Òxids metàl·lics
-        * 5. Òxids no-metàl·lics
-        * 7. Altres covalents
-        * 8. Sals binàries
-        * 9. Peròxids
-        * 10. Hidròxids
 
 
 ## DOCS
@@ -152,3 +139,21 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
     * N>F:
         * 2. Hidrurs metàl·lics
         * 3. Hidràcids
+
+### 2025-02-04
+* Sistema PRE.
+    * N>F:
+        * 5. Òxids no-metàl·lics
+        * 6. Halogenurs d’oxigen
+        * 7. Altres covalents
+        * 8. Sals binàries
+        * 9. Peròxids (sense paréntesis)
+        * 10. Hidròxids
+* Sistema NOX
+    * N>F:
+        * 4. Òxids metàl·lics
+        * 5. Òxids no-metàl·lics
+        * 7. Altres covalents
+        * 8. Sals binàries
+        * 9. Peròxids
+        * 10. Hidròxids
