@@ -26,7 +26,7 @@ La marca ❌ indica els que falten.
         * 8. Sals binàries
         * 9. Peròxids (sense parèntesis)
         * ❌ 9. Peròxids (amb parèntesis)
-        * ❌ 10. Hidròxids
+        * 10. Hidròxids
 * Sistema NOX
     * F>N:
         * 2. Hidrurs metàl·lics
@@ -45,7 +45,7 @@ La marca ❌ indica els que falten.
         * 7. Altres covalents
         * 8. Sals binàries
         * 9. Peròxids
-        * ❌ 10. Hidròxids
+        * 10. Hidròxids
 * Sistema TRA:
     * F>N:
         * ❌ 3. Hidràcids

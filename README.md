@@ -42,7 +42,7 @@ Segona versió, a partir de les instruccions d'Albert.
         * 7. Altres covalents
         * 8. Sals binàries
         * 9. Peròxids (sense paréntesis)
-        * ❌ 10. Hidròxids
+        * 10. Hidròxids
 * Sistema NOX
     * N>F:
         * 4. Òxids metàl·lics
@@ -50,7 +50,7 @@ Segona versió, a partir de les instruccions d'Albert.
         * 7. Altres covalents
         * 8. Sals binàries
         * 9. Peròxids
-        * ❌ 10. Hidròxids
+        * 10. Hidròxids
 
 
 ## DOCS
