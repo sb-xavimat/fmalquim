@@ -1,5 +1,31 @@
 "use strict";
-(() => {
+var chemHelpLib = (() => {
+  var __defProp = Object.defineProperty;
+  var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
+  var __getOwnPropNames = Object.getOwnPropertyNames;
+  var __hasOwnProp = Object.prototype.hasOwnProperty;
+  var __export = (target, all) => {
+    for (var name in all)
+      __defProp(target, name, { get: all[name], enumerable: true });
+  };
+  var __copyProps = (to, from, except, desc) => {
+    if (from && typeof from === "object" || typeof from === "function") {
+      for (let key of __getOwnPropNames(from))
+        if (!__hasOwnProp.call(to, key) && key !== except)
+          __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
+    }
+    return to;
+  };
+  var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
+
+  // lib/chemhelplib.js
+  var chemhelplib_exports = {};
+  __export(chemhelplib_exports, {
+    VERSION: () => VERSION,
+    getHelpCard: () => getHelpCard,
+    parseFmla: () => parseFmla
+  });
+
   // lib/constants.js
   var COL = {
     red: "red",
@@ -3216,6 +3242,7 @@
   };
 
   // lib/chemhelplib.js
+  var VERSION = "0.13.0";
   function getElem(symb) {
     return ELEMENTS[symb] || ELEMENTS.find((elem) => elem.symb === symb);
   }
@@ -4650,12 +4677,5 @@
     });
     return lines;
   }
-  function addLibToGlobal() {
-    globalThis.chemHelpLib = {
-      version: "0.1.0",
-      parseFmla,
-      getHelpCard
-    };
-  }
-  addLibToGlobal();
+  return __toCommonJS(chemhelplib_exports);
 })();

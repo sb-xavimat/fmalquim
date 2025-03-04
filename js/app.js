@@ -3,6 +3,7 @@
 const inputDataBox = document.querySelector('#input-data');
 const mainBox = document.querySelector('main');
 const form = document.querySelector('form');
+const versionTag = document.querySelector('#version-tag');
 
 // MARK: GUI
 function refreshInputData(data) {
@@ -123,6 +124,7 @@ function gatherData(form) {
 // MARK: Inint
 function init() {
     form.oninput = (ev) => changeForm(ev, form);
+    versionTag.textContent = chemHelpLib.VERSION;
     gatherData(form);
 }
 init();
