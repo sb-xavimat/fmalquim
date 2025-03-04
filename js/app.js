@@ -1,5 +1,8 @@
 "use strict";
 
+// MARK: Imports
+import { getHelpCard, parseFmla } from "../lib/chemhelp.js";
+
 // MARK: Elems
 const inputDataBox = document.querySelector('#input-data');
 const mainBox = document.querySelector('main');
@@ -122,4 +125,8 @@ function gatherData(form) {
 }
 
 // MARK: Inint
-gatherData(form);
+function init() {
+    form.oninput = (ev) => changeForm(ev, form);
+    gatherData(form);
+}
+init();
