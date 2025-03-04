@@ -3,6 +3,6 @@
     "esbuild": "0.25.0"
   },
   "scripts": {
-    "build": "esbuild lib/chemhelplib.js --bundle --outfile=out/chemhelplib.js --charset=utf8 --global-name=chemHelpLib && esbuild lib/chemhelplib.js --bundle --minify --outfile=out/chemhelplib.min.js --charset=utf8 --global-name=chemHelpLib"
+    "build": "esbuild lib/chemhelplib.js --bundle --minify --target=es6 --outfile=out/chemhelplib.min.js --charset=utf8 --global-name=chemHelpLib"
   }
 }

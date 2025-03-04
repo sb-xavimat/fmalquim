@@ -2,9 +2,6 @@
 Segona versió, a partir de les instruccions d'Albert.
 
 ## BACKLOG
-* Funció per extraure la info de la fórmula
-    * que funcione per als peròxids amb parèntesis com Fe2(O2)3
-
 * Convertir el array ELEMENTS en un objecte on les claus siguen els symbols dels elements.
 * ELEMENTS: triar el nom preferit en els elements que tenen dos noms
     * Ex.: Zinc / Cinc, Plata / Argent, Wolframi / Tungstè
@@ -118,6 +115,8 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         * 8. Sals binàries
 
 ### 2025-03-03
+* Funció per extraure la info de la fórmula
+    * que funcione per als peròxids amb parèntesis com Fe2(O2)3
 * 9.Peròxids
     * Cal una informació extra: si porta parèntesis o no.
         * Per poder distingir fórmules com Au2(O2)3
