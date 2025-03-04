@@ -16,8 +16,14 @@ Segona versió, a partir de les instruccions d'Albert.
         * ES:
             * zinc/cinc
             * selenur/seleniuro
+            * pentaóxido/pentóxido
+            * penta + ?/ pent + ?
+            * quan "mono" és prescindible?
         * CA:
             * plata/argent
+            * pentaòxid/pentòxid
+            * penta + ?/ pent + ?
+            * quan "mono" és prescindible?
     * Revisar els noms que cal, completant els que falten.
 
 

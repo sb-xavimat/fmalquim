@@ -47,7 +47,7 @@ function buildTable(lines) {
             rightText = line.right.split('|').join('<br>');
 
         } catch (error) {
-            console.log({line});
+            console.log({ line });
             throw error;
         }
         if (rightText.includes("_")) {
@@ -87,7 +87,8 @@ function gatherData(form) {
     const kind = form[3].value;
     const fmla = form[4].value;
     const fmlaData = parseFmla(fmla, lang, kind);
-    log(fmlaData);
+    // Object.entries(fmlaData).forEach(([key, value]) => log({ [key]: value }));
+    console.table(fmlaData);
     refreshInputData(fmlaData);
     clearCards();
 
