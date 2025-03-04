@@ -26,6 +26,7 @@ Segona versió, a partir de les instruccions d'Albert.
             * quan "mono" és prescindible?
     * Revisar els noms que cal, completant els que falten.
 
+* En chemhelp, revisar si cal contraure pentaòxid a pentòxid en ES i CA.
 
 ## TODO
 
@@ -34,16 +35,16 @@ Segona versió, a partir de les instruccions d'Albert.
 * SEGUIR ACÍ: chemhelpjs línia 868
 * Sistema PRE.
     * N>F:
-        * ❌ 5. Òxids no-metàl·lics
-        * ❌ 6. Halogenurs d’oxigen
+        * 5. Òxids no-metàl·lics
+        * 6. Halogenurs d’oxigen
         * ❌ 7. Altres covalents
         * ❌ 8. Sals binàries
         * ❌ 9. Peròxids
         * ❌ 10. Hidròxids
 * Sistema NOX
     * N>F:
-        * ❌ 4. Òxids metàl·lics
-        * ❌ 5. Òxids no-metàl·lics
+        * 4. Òxids metàl·lics
+        * 5. Òxids no-metàl·lics
         * ❌ 7. Altres covalents
         * ❌ 8. Sals binàries
         * ❌ 9. Peròxids

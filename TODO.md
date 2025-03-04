@@ -19,8 +19,8 @@ La marca ❌ indica els que falten.
         * 2. Hidrurs metàl·lics
         * ❌ 3. Hidràcids (CAL CREAR LA FITXA D'AJUDA)
         * 4. Òxids metàl·lics
-        * ❌ 5. Òxids no-metàl·lics
-        * ❌ 6. Halogenurs d’oxigen
+        * 5. Òxids no-metàl·lics
+        * 6. Halogenurs d’oxigen
         * ❌ 7. Altres covalents
         * ❌ 8. Sals binàries
         * ❌ 9. Peròxids
@@ -38,8 +38,8 @@ La marca ❌ indica els que falten.
     * N>F:
         * 2. Hidrurs metàl·lics
         * 3. Hidràcids
-        * ❌ 4. Òxids metàl·lics
-        * ❌ 5. Òxids no-metàl·lics
+        * 4. Òxids metàl·lics
+        * 5. Òxids no-metàl·lics
         * ❌ 7. Altres covalents
         * ❌ 8. Sals binàries
         * ❌ 9. Peròxids
