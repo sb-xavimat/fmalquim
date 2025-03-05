@@ -11,7 +11,7 @@ import json
 def process_substances_csv(csv_filepath, json_filepath):
     """
     Loads 'substances.csv', processes it to create a dictionary of sets,
-    and exports the dictionary to 'exemples.json'.
+    and exports the dictionary to 'exemples.json'. Converts sets to lists before JSON export.
 
     Args:
         csv_filepath (str): The path to the input CSV file ('substances.csv').
@@ -40,9 +40,14 @@ def process_substances_csv(csv_filepath, json_filepath):
         print(f"An unexpected error occurred while processing the CSV file: {e}")
         return
 
+    # Convert sets to lists for JSON serialization
+    serializable_dict = {}
+    for key, value in substances_dict.items():
+        serializable_dict[key] = list(value)
+
     try:
         with open(json_filepath, mode='w', encoding='utf-8') as jsonfile:
-            json.dump(substances_dict, jsonfile, indent=2)  # indent for pretty printing
+            json.dump(serializable_dict, jsonfile, indent=2)  # indent for pretty printing
         print(f"Successfully exported dictionary to '{json_filepath}'.")
     except Exception as e:
         print(f"Error exporting to JSON file '{json_filepath}': {e}")
