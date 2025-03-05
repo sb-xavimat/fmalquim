@@ -4,6 +4,7 @@ const inputDataBox = document.querySelector('#input-data');
 const mainBox = document.querySelector('main');
 const form = document.querySelector('form');
 const versionTag = document.querySelector('#version-tag');
+const examplesBox = document.querySelector('#examples');
 
 // MARK: GUI
 function refreshInputData(data) {
@@ -14,6 +15,24 @@ function refreshInputData(data) {
         span.innerHTML = `<small>${key}:</small><b>${data[key]}</b>`;
         inputDataBox.appendChild(span);
     });
+}
+
+function showFmlaExamples(kind) {
+    if (EXAMPLES[kind]) {
+        const examplesStr = EXAMPLES[kind].join(", ");
+        examplesBox.innerHTML = `<b>Exemples:</b> `;
+
+        EXAMPLES[kind].forEach(fmla => {
+            const btn = document.createElement('button');
+            btn.classList.add('example');
+            btn.textContent = fmla;
+            btn.onclick = () => {
+                form[4].value = fmla;
+                gatherData(form);
+            };
+            examplesBox.appendChild(btn);
+        });
+    }
 }
 
 function clearCards() { mainBox.innerHTML = ''; }
@@ -90,6 +109,7 @@ function gatherData(form) {
     // Object.entries(fmlaData).forEach(([key, value]) => log({ [key]: value }));
     console.table(fmlaData);
     refreshInputData(fmlaData);
+    showFmlaExamples(kind);
     clearCards();
 
     const VALID_SYSTEMS = {

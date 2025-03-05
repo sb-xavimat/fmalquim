@@ -43,11 +43,11 @@ def process_substances_csv(csv_filepath, json_filepath):
     # Convert sets to lists for JSON serialization
     serializable_dict = {}
     for key, value in substances_dict.items():
-        serializable_dict[key] = list(value)
+        serializable_dict[key] = sorted(list(value))
 
     try:
         with open(json_filepath, mode='w', encoding='utf-8') as jsonfile:
-            json.dump(serializable_dict, jsonfile, indent=2)  # indent for pretty printing
+            json.dump(serializable_dict, jsonfile)  # indent for pretty printing
         print(f"Successfully exported dictionary to '{json_filepath}'.")
     except Exception as e:
         print(f"Error exporting to JSON file '{json_filepath}': {e}")
