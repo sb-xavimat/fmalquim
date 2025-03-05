@@ -1,0 +1,605 @@
+id,idstr,fmla,namesys,names_es,names_ca,names_eu,kind,kind_id,namesys_id,pags,years,
+1,Ag2O_sys1,Ag2O,prefijos,Óxido de diplata,Òxid de diplata,Dizilar oxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap2|l5e6165_ac17_ap2,3|4,
+3,Ag2O_sys2,Ag2O,números ox,Óxido de plata,Òxid de plata|Òxid d'argent,Zilar oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1|l5e6165_ac18_ap1,3|4,
+5,Ag2O2_sys1,Ag2O2,prefijos,Dióxido de diplata,Diòxid de diplata,Dizilar dioxidoa,peróxidos,9,1,l5e6164_ac56_ap2|l5e6165_ac33_ap2,3|4,
+7,Ag2O2_sys2,Ag2O2,números ox,Peróxido de plata,Peròxid de plata|Peròxid d'argent,,peróxidos,9,2,l5e6165_ac34_ap1,4,
+9,AgCl_sys1,AgCl,prefijos,Cloruro de plata,Clorur de plata,,sales binarias,8,1,l5e6165_ac29_ap2,4,
+11,AgCl_sys2,AgCl,números ox,Cloruro de plata,Clorur de plata|Clorur d'argent,Zilar kloruroa,sales binarias,8,2,l5e6164_ac6_ap1|l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,
+13,AgClO3_sys3,AgClO3,tradicional,Clorato de plata,Clorat de plata|Clorat d'argent,,oxosales,13,3,l5e6164_ac48_ap1,4,
+15,AgClO3_sys4,AgClO3,sistemática,Trioxidoclorato de plata,Trioxidoclorat de plata|Trioxidclorat de plata|Trioxidoclorat d'argent|Trioxidclorat d'argent,,oxosales,13,4,l5e6164_ac49_ap1,4,
+17,AgH_sys1,AgH,prefijos,Hidruro de plata,Hidrur de plata|Hidrur d'argent,Zilar hidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1|l5e6165_ac9_ap1,3|4,
+19,AgH_sys2,AgH,números ox,Hidruro de plata,Hidrur de plata,Zilar hidruroa,hidruros metálicos,2,2,l1h63ex_pg6_ap2,3,
+21,AgHSO3_sys3,AgHSO3,tradicional,Hidrogenosulfito de plata,Hidrogensulfit de plata,,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,falta SIS
+23,AgHSO4_sys4,AgHSO4,sistemática,Hidrogeno(tetraoxidosulfato) de plata,Hidrogen(tetraoxidosulfat) de plata|Hidrogen(tetraoxidsulfat) de plata|Hidrogen(tetraoxidosulfat) d'argent|Hidrogen(tetraoxidsulfat) d'argent,,oxosales ácidas,14,4,l5e6164_ac53_ap1,4,falta TRA
+25,AgIO4_sys3,AgIO4,tradicional,Peryodato de plata,Periodat de plata,,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+27,AgOH_sys1,AgOH,prefijos,Hidróxido de plata,Hidròxid de plata|Hidròxid d'argent,Zilar hidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1,3,
+29,AgOH_sys2,AgOH,números ox,Hidróxido de plata,Hidròxid de plata,,hidróxidos,10,2,l5e6165_ac37_ap2,4,
+31,Al(OH)3_sys1,Al(OH)3,prefijos,Trihidróxido de aluminio,Trihidròxid d'alumini,Aluminio trihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1|l5e6165_ac36_ap1,3|4,
+33,Al(OH)3_sys2,Al(OH)3,números ox,Hidróxido de aluminio,Hidròxid d'alumini,Aluminio hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2|l5e6165_ac37_ap2,3|4,
+35,Al2O3_sys1,Al2O3,prefijos,Trióxido de dialuminio,Triòxid de dialumini,Dialuminio trioxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1|l5e6165_ac17_ap2,3|4,
+37,Al2O3_sys2,Al2O3,números ox,Óxido de aluminio,Òxid d'alumini,Aluminio oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1|l1h63ex_pg6_ap2|l5e6165_ac18_ap2,3|4,
+39,AlBr3_sys1,AlBr3,prefijos,Tribromuro de aluminio,Tribromur d'alumini,Aluminio tribromuroa,sales binarias,8,1,l5e6164_ac5_ap2|l5e6165_ac29_ap2,3|4,
+41,AlBr3_sys2,AlBr3,números ox,Bromuro de aluminio,Bromur d'alumini,Aluminio bromuroa,sales binarias,8,2,l5e6164_ac6_ap1|l5e6165_ac30_ap1,3|4,
+43,AlCl3_sys1,AlCl3,prefijos,Tricloruro de aluminio,Triclorur d'alumini,Aluminio trikloruroa,sales binarias,8,1,l5e6164_ac39_ap1|l5e6165_ac38_ap1,3|4,falta NOX
+45,AlH3_sys1,AlH3,prefijos,Trihidruro de aluminio,Trihidrur d'alumini,,hidruros metálicos,2,1,l5e6165_ac9_ap1,4,
+47,AlH3_sys2,AlH3,números ox,Hidruro de aluminio,Hidrur d'alumini,Aluminio hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,
+49,AlPO4_sys3,AlPO4,tradicional,Fosfato de aluminio,Fosfat d'alumini,,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+51,As2O3_sys1,As2O3,prefijos,Trióxido de diarsénico,Triòxid de diarsènic,Diartseniko trioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap2,3|4,
+53,As2O3_sys2,As2O3,números ox,Óxido de arsénico(III),Òxid d'arsènic(III),Artseniko(III) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1,3|4,
+55,As2O5_sys1,As2O5,prefijos,Pentaóxido de diarsénico,Pentaòxid de diarsènic,Diartseniko pentaoxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap2|l1h63ex_pg5_ap2,3|4,falta NOX
+57,AsH3_sys1,AsH3,prefijos,Trihidruro de arsénico,Trihidrur d'arsènic,,hidruros metálicos,2,1,l5e6165_ac9_ap2,4,falta NOX
+59,Au(OH)3_sys1,Au(OH)3,prefijos,Trihidróxido de oro,Trihidròxid d'or,,hidróxidos,10,1,l5e6165_ac36_ap1,4,
+61,Au(OH)3_sys2,Au(OH)3,números ox,Hidróxido de oro(III),Hidròxid d'or(III),Urre(III) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2|l1h63ex_pg2_ap3,3,
+63,Au2(O2)3_sys2,Au2(O2)3,números ox,Peróxido de oro(III),Peròxid d'or(III),Urre(III) peroxidoa,peróxidos,9,2,l5e6164_ac57_ap1|l5e6164_ac57_ap2,3,falta PRE*
+65,Au2O_sys2,Au2O,números ox,Óxido de oro(I),Òxid d'or(I),Urre(I) oxidoa,óxidos metálicos,4,2,l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,falta PRE
+67,Au2O2_sys1,Au2O2,prefijos,Dióxido de dioro,Diòxid de dior,,peróxidos,9,1,l5e6165_ac33_ap2,4,
+69,Au2O2_sys2,Au2O2,números ox,Peróxido de oro(I),Peròxid d'or(I),Urre(I) peroxidoa,peróxidos,9,2,l5e6164_ac57_ap1|l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,
+71,Au2O3_sys1,Au2O3,prefijos,Trióxido de dioro,Triòxid de dior,,óxidos metálicos,4,1,l5e6165_ac17_ap1,4,
+73,Au2O3_sys2,Au2O3,números ox,Óxido de oro(III),Òxid d'or(III),Urre(III) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2,3,
+75,Au2S3_sys1,Au2S3,prefijos,Trisulfuro de dioro,Trisulfur de dior,Diurre trisulfuroa,sales binarias,8,1,l1h63ex_pg5_ap2,3,falta NOX
+77,AuBr_sys2,AuBr,números ox,Bromuro de oro(I),Bromur d'or(I),,sales binarias,8,2,l5e6165_ac30_ap1,4,falta PRE
+79,AuBr3_sys1,AuBr3,prefijos,Tribromuro de oro,Tribromur d'or,Urre tribromuroa,sales binarias,8,1,l5e6164_ac39_ap1|l5e6165_ac38_ap1,3|4,falta NOX
+81,AuF_sys1,AuF,prefijos,Fluoruro de oro,Fluorur d'or,,sales binarias,8,1,l5e6165_ac29_ap1,4,
+83,AuF_sys2,AuF,números ox,Fluoruro de oro(I),Fluorur d'or(I),Urre(I) fluoruroa,sales binarias,8,2,l5e6164_ac6_ap2,3,
+85,AuH_sys2,AuH,números ox,Hidruro de oro(I),Hidrur d'or(I),Urre(I) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,falta PRE
+87,AuH3_sys1,AuH3,prefijos,Trihidruro de oro,Trihidrur d'or,,hidruros metálicos,2,1,l5e6165_ac9_ap1,4,
+89,AuH3_sys2,AuH3,números ox,Hidruro de oro(III),Hidrur d'or(III),,hidruros metálicos,2,2,l5e6165_ac10_ap2,4,
+91,AuI3_sys2,AuI3,números ox,Yoduro de oro(III),Iodur d'or(III),,sales binarias,8,2,l1h63dx_pg5_ap1,4,falta PRE
+93,AuOH_sys1,AuOH,prefijos,Hidróxido de oro,Hidròxid d'or,Urre hidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2,3,
+95,AuOH_sys2,AuOH,números ox,Hidróxido de oro(I),Hidròxid d'or(I),,hidróxidos,10,2,l5e6165_ac37_ap1,4,
+97,B2O3_sys1,B2O3,prefijos,Trióxido de diboro,Triòxid de dibor,Diboro trioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1|l5e6165_ac21_ap2,3|4,falta NOX
+99,Ba(OH)2_sys2,Ba(OH)2,números ox,Hidróxido de bario,Hidròxid de bari,Bario hidroxidoa,hidróxidos,10,2,l1h63ex_pg6_ap2,3,falta PRE
+101,BaF2_sys2,BaF2,números ox,Fluoruro de bario,Fluorur de bari,,sales binarias,8,2,l5e6165_ac30_ap1,4,falta PRE
+103,BaH2_sys1,BaH2,prefijos,Dihidruro de bario,Dihidrur de bari,Bario dihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2,3,
+105,BaH2_sys2,BaH2,números ox,Hidruro de bario,Hidrur de bari,,hidruros metálicos,2,2,l5e6165_ac10_ap2,4,
+107,BaI2_sys1,BaI2,prefijos,Diyoduro de bario,Diiodur de bari,,sales binarias,8,1,l5e6165_ac29_ap2,4,
+109,BaI2_sys2,BaI2,números ox,Yoduro de bario,Iodur de bari,Bario ioduroa,sales binarias,8,2,l5e6164_ac6_ap1,3,
+111,BaO2_sys1,BaO2,prefijos,Dióxido de bario,Diòxid de bari,Bario dioxidoa,peróxidos,9,1,l5e6164_ac56_ap1|l5e6165_ac33_ap1,3|4,
+113,BaO2_sys2,BaO2,números ox,Peróxido de bario,Peròxid de bari,Bario peroxidoa,peróxidos,9,2,l5e6164_ac57_ap2|l5e6165_ac34_ap2,3|4,
+115,Be(OH)2_sys1,Be(OH)2,prefijos,Dihidróxido de berilio,Dihidròxid de beril·li,,hidróxidos,10,1,l5e6165_ac36_ap2,4,
+117,Be(OH)2_sys2,Be(OH)2,números ox,Hidróxido de berilio,Hidròxid de beril·li,Berilio hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1,3,
+119,BeH2_sys2,BeH2,números ox,Hidruro de berilio,Hidrur de beril·li,Berilio hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1|l5e6165_ac39_ap1|l5e6165_ac10_ap1,3|4,falta PRE
+121,BeO_sys1,BeO,prefijos,Óxido de berilio|Monóxido de berilio,Òxid de beril·li|Monòxid de beril·li,,óxidos metálicos,4,1,l5e6165_ac17_ap1,4,
+123,BeO_sys2,BeO,números ox,Óxido de berilio,Òxid de beril·li,Berilio oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2,3,
+125,BH3_sys1,BH3,prefijos,Trihidruro de boro,Trihidrur de bor,,hidruros metálicos,2,1,l5e6165_ac9_ap2,4,falta NOX
+127,Bi(OH)3_sys1,Bi(OH)3,prefijos,Trihidróxido de bismuto,Trihidròxid de bismut,Bismuto trihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2,3,
+129,Bi(OH)3_sys2,Bi(OH)3,números ox,Hidróxido de bismuto(III),Hidròxid de bismut(III),,hidróxidos,10,2,l5e6165_ac37_ap1,4,
+131,Bi(OH)5_sys1,Bi(OH)5,prefijos,Pentahidróxido de bismuto,Pentahidròxid de bismut,,hidróxidos,10,1,l5e6165_ac36_ap1,4,
+133,Bi(OH)5_sys2,Bi(OH)5,números ox,Hidróxido de bismuto(V),Hidròxid de bismut(V),Bismuto(V) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2,3,
+135,Bi2O5_sys1,Bi2O5,prefijos,Pentaóxido de dibismuto|Pentóxido de dibismuto,Pentaòxid de dibismut|Pentòxid de dibismut,Dibismuto pentaoxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1|l5e6165_ac17_ap1,3|4,
+137,Bi2O5_sys2,Bi2O5,números ox,Óxido de bismuto(V),Òxid de bismut(V),Bismuto(V) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2,3,
+139,BiH5_sys1,BiH5,prefijos,Pentahidruro de bismuto,Pentahidrur de bismut,Bismuto pentahidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2|l5e6165_ac9_ap2,3|4,
+141,BiH5_sys2,BiH5,números ox,Hidruro de bismuto(V),Hidrur de bismut(V),,hidruros metálicos,2,2,l5e6165_ac10_ap1,4,
+143,Br2_sys2,Br2,números ox,Bromo,Brom,,sustancias elementales,1,2,l5e6165_ac6_ap1,4,falta PRE
+145,Ca(H2PO4)2_sys3,Ca(H2PO4)2,tradicional,Dihidrogenofosfato de calcio,Dihidrogenfosfat de calci,,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,falta SIS
+147,Ca(HSO3)2_sys3,Ca(HSO3)2,tradicional,Hidrogenosulfito de calcio,Hidrogensulfit de calci,,oxosales ácidas,14,3,l5e6164_ac52_ap1|l5e6164_ac52_ap2,4,falta SIS
+149,Ca(MnO4)2_sys4,Ca(MnO4)2,sistemática,Bis(tetraoxidomanganato) de calcio,Bis(tetraoxidomanganat) de calci,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+151,Ca(NO3)2_sys3,Ca(NO3)2,tradicional,Nitrato de calcio,Nitrat de calci,,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+153,CaCl2_sys1,CaCl2,prefijos,Dicloruro de calcio,Diclorur de calci,Kaltzio dikloruroa,sales binarias,8,1,l5e6164_ac5_ap1|l5e6165_ac29_ap2,3|4,
+155,CaCl2_sys2,CaCl2,números ox,Cloruro de calcio,Clorur de calci,Kaltzio kloruroa,sales binarias,8,2,l5e6164_ac6_ap1|l1h63ex_pg2_ap3|l5e6165_ac30_ap2,3|4,
+157,CaCO3_sys3,CaCO3,tradicional,Carbonato de calcio,Carbonat de calci,,oxosales,13,3,l5e6164_ac48_ap1,4,falta SIS
+159,CaH2_sys1,CaH2,prefijos,Dihidruro de calcio,Dihidrur de calci,,hidruros metálicos,2,1,l5e6165_ac9_ap1,4,
+161,CaH2_sys2,CaH2,números ox,Hidruro de calcio,Hidrur de calci,,hidruros metálicos,2,2,l5e6165_ac10_ap1,4,
+163,CaHPO4_sys3,CaHPO4,tradicional,Hidrogenofosfato de calcio,Hidrogenfosfat de calci,,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,falta SIS
+165,CaO_sys1,CaO,prefijos,Óxido de calcio|Monóxido de calcio,Òxid de calci|Monòxid de calci,Kaltzio oxidoa|Kaltzio monoxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1,3,
+167,CaO_sys2,CaO,números ox,Óxido de calcio,Òxid de calci,Kaltzio oxidoa,óxidos metálicos,4,2,l5e6165_ac39_ap1|l5e6165_ac18_ap2,3|4,
+169,CaO2_sys1,CaO2,prefijos,Dióxido de calcio,Diòxid de calci,Kaltzio dioxidoa,peróxidos,9,1,l5e6164_ac56_ap1|l5e6164_ac39_ap1|l5e6165_ac38_ap1,3|4,
+171,CaO2_sys2,CaO2,números ox,Peróxido de calcio,Peròxid de calci,,peróxidos,9,2,l5e6165_ac34_ap2|l1h63dx_pg5_ap2,4,
+173,CaS_sys1,CaS,prefijos,Sulfuro de calcio,Sulfur de calci,Kaltzio sulfuroa,sales binarias,8,1,l5e6164_ac5_ap2,3,
+175,CaS_sys2,CaS,números ox,Sulfuro de calcio,Sulfur de calci,,sales binarias,8,2,l5e6165_ac30_ap1,4,
+177,CaSO4_sys3,CaSO4,tradicional,Sulfato de calcio,Sulfat de calci,,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+179,CBr2_sys1,CBr2,prefijos,Dibromuro de carbono,Dibromur de carboni,Karbono dibromuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1,3,
+181,CBr2_sys2,CBr2,números ox,Bromuro de carbono(II),Bromur de carboni(II),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap2,4,
+183,CBr4_sys1,CBr4,prefijos,Tetrabromuro de carbono,Tetrabromur de carboni,Karbono tetrabromuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1,3,
+185,CBr4_sys2,CBr4,números ox,Bromuro de carbono(IV),Bromur de carboni(IV),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap2,4,
+187,CCl2_sys1,CCl2,prefijos,Dicloruro de carbono,Diclorur de carboni,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap1,4,
+189,CCl2_sys2,CCl2,números ox,Cloruro de carbono(II),Clorur de carboni(II),Karbono(II) kloruroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2,3,
+191,CCl4_sys1,CCl4,prefijos,Tetracloruro de carbono,Tetraclorur de carboni,Karbono tetrakloruroa,compuestos covalentes no metálicos,7,1,l5e6165_ac38_ap2,3|4,falta NOX
+193,Cd(OH)2_sys1,Cd(OH)2,prefijos,Dihidróxido de cadmio,Dihidròxid de cadmi,,hidróxidos,10,1,l5e6165_ac36_ap2,4,
+195,Cd(OH)2_sys2,Cd(OH)2,números ox,Hidróxido de cadmio,Hidròxid de cadmi,Kadmio hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1,3,
+197,CdH2_sys2,CdH2,números ox,Hidruro de cadmio,Hidrur de cadmi,Kadmio hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2|l5e6165_ac10_ap2,3|4,falta PRE
+199,CdO_sys1,CdO,prefijos,Óxido de cadmio,Òxid de cadmi,,óxidos metálicos,4,1,l5e6165_ac17_ap2,4,
+201,CdO_sys2,CdO,números ox,Óxido de cadmio,Òxid de cadmi,Kadmio oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1|l5e6165_ac18_ap2|l1h63dx_pg5_ap1,3|4,
+203,CdO2_sys1,CdO2,prefijos,Dióxido de cadmio,Diòxid de cadmi,Kadmio dioxidoa,peróxidos,9,1,l5e6164_ac56_ap2,3,
+205,CdO2_sys2,CdO2,números ox,Peróxido de cadmio,Peròxid de cadmi,,peróxidos,9,2,l5e6165_ac34_ap1,4,
+207,CF2_sys1,CF2,prefijos,Difluoruro de carbono,Difluorur de carboni,Karbono difluoruroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2|l5e6165_ac25_ap2,3|4,
+209,CF2_sys2,CF2,números ox,Fluoruro de carbono(II),Fluorur de carboni(II),Karbono(II) fluoruroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1|l5e6165_ac26_ap1,3|4,
+211,CI4_sys1,CI4,prefijos,Tetrayoduro de carbono,Tetraiodur de carboni,Karbono tetraioduroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2,3,
+213,CI4_sys2,CI4,números ox,Yoduro de carbono(IV),Iodur de carboni(IV),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap1,4,
+215,Cl2_sys1,Cl2,prefijos,Dicloro,Diclor,Dikloroa,sustancias elementales,1,1,l5e6164_ac37_ap2|l5e6164_ac39_ap1|l5e6165_ac5_ap1|l5e6165_ac38_ap1,3|4,
+217,Cl2_sys2,Cl2,números ox,Cloro,Clor,,sustancias elementales,1,2,l5e6165_ac6_ap2,4,
+219,CO_sys1,CO,prefijos,Monóxido de carbono,Monòxid de carboni,Karbono monoxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1|l1h63ex_pg5_ap2,3|4,
+221,CO_sys2,CO,números ox,Óxido de carbono(II),Òxid de carboni(II),Karbono(II) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap2,3|4,
+223,Co(OH)2_sys1,Co(OH)2,prefijos,Dihidróxido de cobalto,Dihidròxid de cobalt,,hidróxidos,10,1,l5e6165_ac36_ap1,4,
+225,Co(OH)2_sys2,Co(OH)2,números ox,Hidróxido de cobalto(II),Hidròxid de cobalt(II),Kobalto(II) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2,3,
+227,Co(OH)3_sys1,Co(OH)3,prefijos,Trihidróxido de cobalto,Trihidròxid de cobalt,Kobalto trihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2,3,
+229,Co(OH)3_sys2,Co(OH)3,números ox,Hidróxido de cobalto(III),Hidròxid de cobalt(III),,hidróxidos,10,2,l5e6165_ac37_ap1,4,
+231,CO2_sys1,CO2,prefijos,Dióxido de carbono,Diòxid de carboni,Karbono dioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1|l5e6164_ac39_ap1|l5e6165_ac38_ap1,3|4,
+233,CO2_sys2,CO2,números ox,Óxido de carbono(IV),Òxid de carboni(IV),Karbono(IV) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1,3|4,
+235,Co2O3_sys1,Co2O3,prefijos,Trióxido de dicobalto,Triòxid de dicobalt,,óxidos metálicos,4,1,l5e6165_ac17_ap2,4,
+237,Co2O3_sys2,Co2O3,números ox,Óxido de cobalto(III),Òxid de cobalt(III),Kobalto(III) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1|l1h63ex_pg2_ap3,3,
+239,CoBr2_sys1,CoBr2,prefijos,Dibromuro de cobalto,Dibromur de cobalt,Kobalto dibromuroa,sales binarias,8,1,l5e6164_ac5_ap1,3,
+241,CoBr2_sys2,CoBr2,números ox,Bromuro de cobalto(II),Bromur de cobalt(II),,sales binarias,8,2,l5e6165_ac30_ap2,4,
+243,CoCl2_sys1,CoCl2,prefijos,Dicloruro de cobalto,Diclorur de cobalt,,sales binarias,8,1,l5e6165_ac29_ap1,4,
+245,CoCl2_sys2,CoCl2,números ox,Cloruro de cobalto(II),Clorur de cobalt(II),Kobalto(II) kloruroa,sales binarias,8,2,l5e6164_ac6_ap2,3,
+247,CoH2_sys2,CoH2,números ox,Hidruro de cobalto(II),Hidrur de cobalt(II),Kobalto(II) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2|l5e6165_ac10_ap1,3|4,falta PRE
+249,CoH3_sys1,CoH3,prefijos,Trihidruro de cobalto,Trihidrur de cobalt,Kobalto trihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2,3,falta NOX
+251,CoO_sys2,CoO,números ox,Óxido de cobalto(II),Òxid de cobalt(II),Kobalto(II) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1,3,falta PRE
+253,CoO2_sys1,CoO2,prefijos,Dióxido de cobalto,Diòxid de cobalt,Kobalto dioxidoa,peróxidos,9,1,l5e6164_ac56_ap1|l5e6165_ac33_ap1|l5e6165_ac33_ap2,3|4,
+255,CoO2_sys2,CoO2,números ox,Peróxido de cobalto(II),Peròxid de cobalt(II),Kobalto(II) peroxidoa,peróxidos,9,2,l5e6164_ac57_ap1|l5e6164_ac57_ap2|l5e6165_ac34_ap2,3|4,
+257,Cr(OH)6_sys1,Cr(OH)6,prefijos,Hexahidróxido de cromo,Hexahidròxid de crom,,hidróxidos,10,1,l5e6165_ac36_ap2,4,
+259,Cr(OH)6_sys2,Cr(OH)6,números ox,Hidróxido de cromo(VI),Hidròxid de crom(VI),Kromo(VI) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1,3,
+261,Cr2O3_sys1,Cr2O3,prefijos,Trióxido de dicromo,Triòxid de dicrom,Dikromo trioxidoa,óxidos metálicos,4,1,l1h63ex_pg1_ap2,3,
+263,Cr2O3_sys2,Cr2O3,números ox,Óxido de cromo(III),Òxid de crom(III),,óxidos metálicos,4,2,l5e6165_ac18_ap1,4,
+265,Cr2Se3_sys1,Cr2Se3,prefijos,Triselenuro de dicromo|Triseleniuro de dicromo,Triselenur de dicrom,Dikromo triselenuroa|Dikromo triseleniuroa,sales binarias,8,1,l5e6164_ac5_ap1,3,
+267,Cr2Se3_sys2,Cr2Se3,números ox,Selenuro de cromo(III),Selenur de crom(III),,sales binarias,8,2,l5e6165_ac30_ap2,4,
+269,Cr2Te3_sys2,Cr2Te3,números ox,Telururo de cromo(III),Tel·lurur de crom(III),,sales binarias,8,2,l1h63dx_pg5_ap1,4,falta PRE
+271,CrH3_sys2,CrH3,números ox,Hidruro de cromo(III),Hidrur de crom(III),Kromo(III) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,falta PRE
+273,CrH6_sys1,CrH6,prefijos,Hexahidruro de cromo,Hexahidrur de crom,Kromo hexahidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2|l5e6165_ac9_ap2,3|4,falta NOX
+275,CrO3_sys1,CrO3,prefijos,Trióxido de cromo,Triòxid de crom,Kromo trioxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1|l5e6165_ac17_ap2,3|4,
+277,CrO3_sys2,CrO3,números ox,Óxido de cromo(VI),Òxid de crom(VI),Kromo(VI) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1|l1h63ex_pg6_ap2|l5e6165_ac18_ap2,3|4,
+279,CrS3_sys1,CrS3,prefijos,Trisulfuro de cromo,Trisulfur de crom,,sales binarias,8,1,l5e6165_ac29_ap1,4,
+281,CrS3_sys2,CrS3,números ox,Sulfuro de cromo(VI),Sulfur de crom(VI),Kromo(VI) sulfuroa,sales binarias,8,2,l5e6164_ac6_ap2|l5e6165_ac39_ap1,3|4,
+283,CS2_sys1,CS2,prefijos,Disulfuro de carbono,Disulfur de carboni,Karbono disulfuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1|l5e6165_ac25_ap1,3|4,
+285,CS2_sys2,CS2,números ox,Sulfuro de carbono(IV),Sulfur de carboni(IV),Karbono(IV) sulfuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2|l5e6165_ac26_ap2,3|4,
+287,Cs2O2_sys1,Cs2O2,prefijos,Dióxido de dicesio,Diòxid de dicesi,Dizesio dioxidoa,peróxidos,9,1,l5e6164_ac56_ap2,3,
+289,Cs2O2_sys2,Cs2O2,números ox,Peróxido de cesio,Peròxid de cesi,,peróxidos,9,2,l5e6165_ac34_ap1,4,
+291,CSe2_sys1,CSe2,prefijos,Diseleniuro de carbono|Diselenuro de carbono,Diselenur de carboni,Karbono diselenuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2|l5e6165_ac25_ap2,3|4,
+293,CSe2_sys2,CSe2,números ox,Seleniuro de carbono(IV)|Selenuro de carbono(IV),Selenur de carboni(IV),Karbono(IV) selenuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1|l5e6165_ac26_ap1,3|4,
+295,CsH_sys1,CsH,prefijos,Hidruro de cesio,Hidrur de cesi,Zesio hidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2,3,
+297,CsH_sys2,CsH,números ox,Hidruro de cesio,Hidrur de cesi,,hidruros metálicos,2,2,l5e6165_ac10_ap1,4,
+299,CsH2PO4_sys4,CsH2PO4,sistemática,Dihidrogeno(tetraoxidofosfato) de cesio,Dihidrogen(tetraoxidofosfat) de cesi,,oxosales ácidas,14,4,l5e6164_ac53_ap2,4,falta TRA
+301,CsHSO4_sys3,CsHSO4,tradicional,Hidrogenosulfato de cesio,Hidrogensulfat de cesi,,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,falta SIS
+303,Cu(OH)2_sys1,Cu(OH)2,prefijos,Dihidróxido de cobre,Dihidròxid de coure,,hidróxidos,10,1,l5e6165_ac36_ap1,4,
+305,Cu(OH)2_sys2,Cu(OH)2,números ox,Hidróxido de cobre(II),Hidròxid de coure(II),Kobre(II) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2,3,
+307,Cu2O_sys1,Cu2O,prefijos,Monóxido de dicobre,Monòxid de dicoure,,óxidos metálicos,4,1,l5e6165_ac17_ap2,4,
+309,Cu2O_sys2,Cu2O,números ox,Óxido de cobre(I),Òxid de coure(I),Kobre(I) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1,3,
+311,Cu2O2_sys1,Cu2O2,prefijos,Dióxido de dicobre,Diòxid de dicoure,Dikobre dioxidoa,peróxidos,9,1,l5e6164_ac56_ap1|l5e6165_ac33_ap2,3|4,
+313,Cu2O2_sys2,Cu2O2,números ox,Peróxido de cobre(I),Peròxid de coure(I),Kobre(I) peroxidoa,peróxidos,9,2,l5e6164_ac57_ap1|l5e6165_ac34_ap2,3|4,
+315,Cu2SO4_sys4,Cu2SO4,sistemática,Tetraoxidosulfato de dicobre,Tetraoxidosulfat de dicoure|Tetraoxidsulfat de dicoure,,oxosales,13,4,l5e6164_ac49_ap1,4,
+317,CuBr_sys2,CuBr,números ox,Bromuro de cobre(I),Bromur de coure(I),Kobre(I) bromuroa,sales binarias,8,2,l1h63ex_pg2_ap3,3,falta PRE
+319,CuCl2_sys2,CuCl2,números ox,Cloruro de cobre(II),Clorur de coure(II),Kobre(II) kloruroa,sales binarias,8,2,l5e6165_ac39_ap1,3|4,falta PRE
+321,CuCrO4_sys4,CuCrO4,sistemática,Tetraoxidocromato de cobre,Tetraoxidocromat de coure|Tetraoxidcromat de coure,,oxosales,13,4,l5e6164_ac49_ap1,4,
+323,CuH_sys1,CuH,prefijos,Hidruro de cobre,Hidrur de coure,Kobre hidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2,3,
+325,CuH_sys2,CuH,números ox,Hidruro de cobre(I),Hidrur de coure(I),Kobre(I) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2|l5e6165_ac10_ap1,3|4,
+327,CuH2_sys1,CuH2,prefijos,Dihidruro de cobre,Dihidrur de coure,,hidruros metálicos,2,1,l5e6165_ac9_ap2,4,
+329,CuH2_sys2,CuH2,números ox,Hidruro de cobre(II),Hidrur de coure(II),,hidruros metálicos,2,2,l5e6165_ac10_ap2,4,
+331,CuHAsO4_sys4,CuHAsO4,sistemática,Hidrogeno(tetraoxidoarseniato) de cobre,Hidrogen(tetraoxidoarseniat) de coure,,oxosales ácidas,14,4,l5e6164_ac53_ap2,4,falta TRA
+333,CuHCO3_sys3,CuHCO3,tradicional,Hidrogenocarbonato de cobre(I),Hidrogencarbonat de coure(I),,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,falta SIS
+335,CuO_sys2,CuO,números ox,Óxido de cobre(II),Òxid de coure(II),,óxidos metálicos,4,2,l5e6165_ac18_ap2,4,falta PRE
+337,CuO2_sys1,CuO2,prefijos,Dióxido de cobre,Diòxid de coure,Kobre dioxidoa,peróxidos,9,1,l5e6164_ac56_ap1|l5e6165_ac33_ap1,3|4,
+339,CuO2_sys2,CuO2,números ox,Peróxido de cobre(II),Peròxid de coure(II),Kobre(II) peroxidoa,peróxidos,9,2,l5e6164_ac57_ap2|l5e6165_ac34_ap2,3|4,
+341,CuOH_sys1,CuOH,prefijos,Hidróxido de cobre|Monohidróxido de cobre,Hidròxid de coure|Monohidròxid de coure,Kobre hidroxidoa|Kobre monohidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1|l5e6165_ac36_ap2,3|4,
+343,CuOH_sys2,CuOH,números ox,Hidróxido de cobre(I),Hidròxid de coure(I),Kobre(I) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1|l1h63dx_pg5_ap1|l5e6165_ac37_ap2,3|4,
+345,CuSO3_sys3,CuSO3,tradicional,Sulfito de cobre(II),Sulfit de coure(II),,oxosales,13,3,l5e6164_ac48_ap1,4,
+347,CuSO3_sys4,CuSO3,sistemática,Trioxidosulfato de cobre,Trioxidosulfat de coure|Trioxidsulfat de coure,,oxosales,13,4,l5e6164_ac49_ap1,4,
+349,CuSO4_sys3,CuSO4,tradicional,Sulfato de cobre(II),Sulfat de coure(II),,oxosales,13,3,l5e6164_ac48_ap1,4,falta SIS
+351,F2_sys1,F2,prefijos,Diflúor,Difluor,Difluorra,sustancias elementales,1,1,l5e6164_ac37_ap2|l5e6165_ac5_ap1,3|4,
+353,F2_sys2,F2,números ox,Flúor,Fluor,Fluorra,sustancias elementales,1,2,l5e6164_ac38_ap2,3,
+355,Fe_sys2,Fe,números ox,Hierro,Ferro,Burdina,sustancias elementales,1,2,l5e6164_ac38_ap1|l5e6165_ac6_ap2,3|4,falta PRE*
+357,Fe(HSO4)3_sys3,Fe(HSO4)3,tradicional,Hidrogenosulfato de hierro(III),Hidrogensulfat de ferro(III),,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,falta SIS
+359,Fe(NO3)3_sys4,Fe(NO3)3,sistemática,Tris(trioxidonitrato) de hierro,Tris(trioxidonitrat) de ferro,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+361,Fe(OH)2_sys1,Fe(OH)2,prefijos,Dihidróxido de hierro,Dihidròxid de ferro,,hidróxidos,10,1,l5e6165_ac36_ap2,4,
+363,Fe(OH)2_sys2,Fe(OH)2,números ox,Hidróxido de hierro(II),Hidròxid de ferro(II),Burdina(II) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1,3,
+365,Fe(OH)3_sys1,Fe(OH)3,prefijos,Trihidróxido de hierro,Trihidròxid de ferro,Burdina trihidroxidoa|Burdina trioxidoa,hidróxidos,10,1,l5e6164_ac33_ap1|l5e6164_ac39_ap1,3,
+367,Fe(OH)3_sys2,Fe(OH)3,números ox,Hidróxido de hierro(III),Hidròxid de ferro(III),,hidróxidos,10,2,l5e6165_ac37_ap2,4,
+369,Fe2(SO4)3_sys3,Fe2(SO4)3,tradicional,Sulfato de hierro(III),Sulfat de ferro(III),,oxosales,13,3,l5e6164_ac48_ap1,4,
+371,Fe2(SO4)3_sys4,Fe2(SO4)3,sistemática,Tris(tetraoxidosulfato) de dihierro,Tris(tetraoxidosulfat) de diferro|Tris(tetraoxidsulfat) de diferro,,oxosales,13,4,l5e6164_ac49_ap1,4,
+373,Fe2O3_sys1,Fe2O3,prefijos,Trióxido de dihierro,Triòxid de diferro,Diburdina trioxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1|l5e6164_ac17_ap2|l5e6165_ac17_ap1,3|4,
+375,Fe2O3_sys2,Fe2O3,números ox,Óxido de hierro(III),Òxid de ferro(III),Burdina(III) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2|l5e6165_ac18_ap1,3|4,
+377,Fe2S3_sys1,Fe2S3,prefijos,Trisulfuro de dihierro,Trisulfur de diferro,Diburdina trisulfuroa,sales binarias,8,1,l5e6164_ac5_ap1|l5e6165_ac29_ap2,3|4,
+379,Fe2S3_sys2,Fe2S3,números ox,Sulfuro de hierro(III),Sulfur de ferro(III),Burdina(III) sulfuroa,sales binarias,8,2,l5e6164_ac6_ap1|l5e6165_ac30_ap2,3|4,
+381,FeCl3_sys1,FeCl3,prefijos,Tricloruro de hierro,Triclorur de ferro,,sales binarias,8,1,l5e6165_ac29_ap1,4,
+383,FeCl3_sys2,FeCl3,números ox,Cloruro de hierro(III),Clorur de ferro(III),Burdina(III) kloruroa,sales binarias,8,2,l5e6164_ac6_ap2,3,
+385,FeH2_sys1,FeH2,prefijos,Dihidruro de hierro,Dihidrur de ferro,Burdina dihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2,3,
+387,FeH2_sys2,FeH2,números ox,Hidruro de hierro(II),Hidrur de ferro(II),,hidruros metálicos,2,2,l5e6165_ac10_ap2,4,
+389,FeH3_sys1,FeH3,prefijos,Trihidruro de hierro,Trihidrur de ferro,,hidruros metálicos,2,1,l5e6165_ac9_ap1,4,
+391,FeH3_sys2,FeH3,números ox,Hidruro de hierro(III),Hidrur de ferro(III),Burdina(III) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,
+393,FeHBO3_sys3,FeHBO3,tradicional,Hidrogenoborato de hierro(II),Hidrogenborat de ferro(II),,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,falta SIS
+395,FeI3_sys2,FeI3,números ox,Yoduro de hierro(III),Iodur de ferro(III),Burdina(III) ioduroa,sales binarias,8,2,l1h63ex_pg2_ap3,3,falta PRE
+397,FeO_sys1,FeO,prefijos,Óxido de hierro|Monóxido de hierro,Òxid de ferro|Monòxid de ferro,Burdina oxidoa|Burdina monoxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1,3,
+399,FeO_sys2,FeO,números ox,Óxido de hierro(II),Òxid de ferro(II),,óxidos metálicos,4,2,l5e6165_ac18_ap2,4,
+401,FeO2_sys1,FeO2,prefijos,Dióxido de hierro,Diòxid de ferro,,peróxidos,9,1,l5e6165_ac38_ap1,4,falta NOX
+403,FeS_sys1,FeS,prefijos,Sulfuro de hierro,Sulfur de ferro,,sales binarias,8,1,l5e6165_ac29_ap2,4,
+405,FeS_sys2,FeS,números ox,Sulfuro de hierro(II),Sulfur de ferro(II),Burdina(II) sulfuroa,sales binarias,8,2,l5e6164_ac6_ap1|l5e6165_ac39_ap1|l1h63dx_pg5_ap1,3|4,
+407,FrOH_sys1,FrOH,prefijos,Hidróxido de francio,Hidròxid de franci,Frantzio hidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2,3,
+409,FrOH_sys2,FrOH,números ox,Hidróxido de francio,Hidròxid de franci,,hidróxidos,10,2,l5e6165_ac37_ap1,4,
+411,Ga(OH)3_sys1,Ga(OH)3,prefijos,Trihidróxido de galio,Trihidròxid de gal·li,,hidróxidos,10,1,l5e6165_ac36_ap2,4,
+413,Ga(OH)3_sys2,Ga(OH)3,números ox,Hidróxido de galio,Hidròxid de gal·li,Galio hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1,3,
+415,Ga2O3_sys1,Ga2O3,prefijos,Trióxido de digalio,Triòxid de digal·li,,óxidos metálicos,4,1,l5e6165_ac17_ap1,4,
+417,Ga2O3_sys2,Ga2O3,números ox,Óxido de galio,Òxid de gal·li,Galio oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2|l1h63dx_pg5_ap2,3|4,
+419,GaH3_sys1,GaH3,prefijos,Trihidruro de galio,Trihidrur de gal·li,Galio trihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1,3,falta NOX
+421,GeCl4_sys1,GeCl4,prefijos,Tetracloruro de germanio,Tetraclorur de germani,,compuestos covalentes no metálicos,7,1,l1h63dx_pg4_ap2,4,falta NOX
+423,GeO2_sys1,GeO2,prefijos,Dióxido de germanio,Diòxid de germani,Germanio dioxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap2|l5e6165_ac17_ap2,3|4,falta NOX
+425,H2_sys1,H2,prefijos,Dihidrógeno,Dihidrogen,Dihidrogenoa,sustancias elementales,1,1,l5e6164_ac37_ap1|l5e6165_ac5_ap2|l1h63dx_pg4_ap1,3|4,
+427,H2_sys2,H2,números ox,Hidrógeno,Hidrogen,Hidrogenoa,sustancias elementales,1,2,l5e6164_ac38_ap1|l5e6165_ac6_ap2,3|4,
+429,H2CO2_sys4,H2CO2,sistemática,Dihidrogeno(dioxidocarbonato),Dihidrogen(dioxidocarbonat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,falta TRA
+431,H2CO3_sys3,H2CO3,tradicional,Ácido carbónico,Àcid carbònic,,oxoácidos,12,3,l5e6164_ac44_ap2,4,
+433,H2CO3_sys4,H2CO3,sistemática,Dihidrogeno(trioxidocarbonato),Dihidrogen(trioxidocarbonat)|Dihidrogen(trioxidcarbonat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,
+435,H2Cr2O7_sys4,H2Cr2O7,sistemática,Dihidrogeno(heptaoxidodicromato),Dihidrogen(heptaoxidodicromat)|Dihidrogen(heptaoxiddicromat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,falta TRA
+437,H2CrO4_sys3,H2CrO4,tradicional,Ácido crómico,Àcid cròmic,,oxoácidos,12,3,l5e6164_ac44_ap2,4,
+439,H2CrO4_sys4,H2CrO4,sistemática,Dihidrogeno(tetraoxidocromato),Dihidrogen(tetraoxidocromat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,
+441,H2MnO4_sys4,H2MnO4,sistemática,Dihidrogeno(tetraoxidomanganato),Dihidrogen(tetraoxidomanganat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,falta TRA
+443,H2O2_sys1,H2O2,prefijos,Dióxido de dihidrógeno,Diòxid de dihidrogen,Dihidrogeno dioxidoa,peróxidos,9,1,l5e6164_ac56_ap1,3,
+445,H2O2_sys2,H2O2,números ox,Peróxido de hidrógeno,Peròxid d'hidrogen,,peróxidos,9,2,l5e6165_ac34_ap2,4,
+447,H2S_sys1,H2S,prefijos,Sulfuro de hidrógeno|Sulfuro de dihidrógeno,Sulfur d'hidrogen|Sulfur de dihidrogen,Hidrogeno sulfuroa|Dihidrogeno sulfuroa,hidrácidos,3,1,l5e6164_ac29_ap1|l5e6164_ac29_ap2|l5e6165_ac13_ap1|l5e6165_ac13_ap2|l1h63dx_pg4_ap2,3|4,
+449,H2S_sys2,H2S,números ox,Sulfuro de hidrógeno,Sulfur d'hidrogen,Hidrogeno sulfuroa,hidrácidos,3,2,l5e6165_ac39_ap1,3|4,
+451,H2S_sys3,H2S,tradicional,Ácido sulfhídrico,Àcid sulfhídric,Azido sulfhidrikoa,hidrácidos,3,3,l5e6164_ac30_ap1|l5e6164_ac30_ap2|l5e6165_ac14_ap1|l5e6165_ac14_ap2,3|4,
+453,H2Se_sys1,H2Se,prefijos,Selenuro de dihidrógeno|Selenuro de hidrógeno|Seleniuro de dihidrógeno|Seleniuro de hidrógeno,Selenur d'hidrogen|Selenur de dihidrogen,Dihidrogeno selenuroa|Hidrogeno selenuroa,hidrácidos,3,1,l5e6164_ac29_ap1|l5e6164_ac29_ap2|l1h63ex_pg5_ap2|l5e6165_ac13_ap1|l5e6165_ac13_ap2,3|4,
+455,H2Se_sys2,H2Se,números ox,Seleniuro de hidrógeno|Selenuro de hidrógeno,Selenur d'hidrogen,Hidrogeno selenuroa,hidrácidos,3,2,l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,
+457,H2Se_sys3,H2Se,tradicional,Ácido selenhídrico,Àcid selenhídric,Azido selenhidrikoa,hidrácidos,3,3,l5e6164_ac30_ap1|l5e6164_ac30_ap2|l5e6165_ac14_ap1|l5e6165_ac14_ap2,3|4,
+459,H2SO3_sys3,H2SO3,tradicional,Ácido sulfuroso,Àcid sulfurós,,oxoácidos,12,3,l5e6164_ac44_ap1,4,
+461,H2SO3_sys4,H2SO3,sistemática,Dihidrogeno(trioxidosulfato),Dihidrogen(trioxidosulfat)|Dihidrogen(trioxidsulfat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,
+463,H2SO4_sys4,H2SO4,sistemática,Dihidrogeno(tetraoxidosulfato),Dihidrogen(tetraoxidosulfat)|Dihidrogen(tetraoxidsulfat),,oxoácidos,12,4,l5e6164_ac45_ap1|l5e6164_ac45_ap2,4,falta TRA
+465,H2Te_sys1,H2Te,prefijos,Telururo de hidrógeno|Telururo de dihidrógeno,Tel·lurur d'hidrogen|Tel·lurur de dihidrogen,,hidrácidos,3,1,l5e6165_ac13_ap1|l5e6165_ac13_ap2,4,falta NOX
+467,H2Te_sys3,H2Te,tradicional,Ácido telurhídrico,Àcid tel·lurhídric,,hidrácidos,3,3,l5e6165_ac14_ap1|l5e6165_ac14_ap2,4,
+469,H2TeO3_sys3,H2TeO3,tradicional,Ácido teluroso,Àcid tel·lurós,,oxoácidos,12,3,l5e6164_ac44_ap1,4,falta SIS
+471,H3AsO4_sys3,H3AsO4,tradicional,Ácido arsénico,Àcid arsènic,,oxoácidos,12,3,l5e6164_ac44_ap2,4,falta SIS
+473,H3BO3_sys3,H3BO3,tradicional,Ácido bórico,Àcid bòric,,oxoácidos,12,3,l5e6164_ac44_ap2,4,
+475,H3BO3_sys4,H3BO3,sistemática,Trihidrogeno(trioxidoborato),Trihidrogen(trioxidoborat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,
+477,H3PO3_sys3,H3PO3,tradicional,Ácido fosforoso,Àcid fosforós,,oxoácidos,12,3,l5e6164_ac44_ap2,4,
+479,H3PO3_sys4,H3PO3,sistemática,Trihidrogeno(trioxidofosfato),Trihidrogen(trioxidofosfat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,
+481,H3PO4_sys3,H3PO4,tradicional,Ácido fosfórico,Àcid fosfòric,,oxoácidos,12,3,l5e6164_ac44_ap1,4,
+483,H3PO4_sys4,H3PO4,sistemática,Trihidrogeno(tetraoxidofosfato),Trihidrogen(tetraoxidofosfat)|Trihidrogen(tetraoxidfosfat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,
+485,H4SiO4_sys3,H4SiO4,tradicional,Ácido silícico,Àcid silícic,,oxoácidos,12,3,l5e6164_ac44_ap1,4,
+487,H4SiO4_sys4,H4SiO4,sistemática,Tetrahidrogeno(tetraoxidosilicato),Tetrahidrogen(tetraoxidosilicat)|Tetrahidrogen(tetraoxidsilicat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,
+489,HBr_sys1,HBr,prefijos,Bromuro de hidrógeno|Ácido bromhídrico,Bromur d'hidrogen|Àcid bromhídric,Hidrogeno bromuroa|Azido bromhidrikoa,hidrácidos,3,1,l5e6164_ac29_ap1|l5e6164_ac29_ap2|l1h63ex_pg5_ap2|l5e6165_ac13_ap1|l5e6165_ac13_ap2|l1h63dx_pg4_ap1,3|4,falta NOX
+491,HBr_sys3,HBr,tradicional,Ácido bromhídrico,Àcid bromhídric,Azido bromhidrikoa,hidrácidos,3,3,l5e6164_ac30_ap1|l5e6164_ac30_ap2|l5e6165_ac14_ap1|l5e6165_ac14_ap2,3|4,
+493,HBrO_sys3,HBrO,tradicional,Ácido hipobromoso,Àcid hipobromós,,oxoácidos,12,3,l5e6164_ac44_ap1,4,falta SIS
+495,HBrO2_sys4,HBrO2,sistemática,Hidrogeno(dioxidobromato),Hidrogen(dioxidobromat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,falta TRA
+497,HBrO4_sys3,HBrO4,tradicional,Ácido perbrómico,Àcid perbròmic,,oxoácidos,12,3,l5e6164_ac44_ap2,4,falta SIS
+499,HCl_sys1,HCl,prefijos,Cloruro de hidrógeno,Clorur d'hidrogen,Hidrogeno kloruroa,hidrácidos,3,1,l5e6164_ac29_ap1|l5e6164_ac29_ap2|l5e6165_ac38_ap2|l5e6165_ac13_ap1|l5e6165_ac13_ap2,3|4,falta NOX
+501,HCl_sys3,HCl,tradicional,Ácido clorhídrico,Àcid clorhídric,Azido klorhidrikoa,hidrácidos,3,3,l5e6164_ac30_ap1|l5e6164_ac30_ap2|l5e6165_ac14_ap1|l5e6165_ac14_ap2,3|4,
+503,HClO_sys3,HClO,tradicional,Ácido hipocloroso,Àcid hipoclorós,,oxoácidos,12,3,l5e6164_ac44_ap1,4,
+505,HClO_sys4,HClO,sistemática,Hidrogeno(oxidoclorato),Hidrogen(oxidoclorat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,
+507,HClO2_sys3,HClO2,tradicional,Ácido cloroso,Àcid clorós,,oxoácidos,12,3,l5e6164_ac44_ap1,4,
+509,HClO2_sys4,HClO2,sistemática,Hidrogeno(dioxidoclorato),Hidrogen(dioxidoclorat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,
+511,HClO4_sys3,HClO4,tradicional,Ácido perclórico,Àcid perclòric,,oxoácidos,12,3,l5e6164_ac44_ap1,4,
+513,HClO4_sys4,HClO4,sistemática,Hidrogeno(tetraoxidoclorato),Hidrogen(tetraoxidoclorat)|Hidrogen(tetraoxidclorat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,
+515,He_sys2,He,números ox,Helio,Heli,Helioa,sustancias elementales,1,2,l5e6164_ac38_ap2|l5e6165_ac6_ap1,3|4,falta PRE*
+517,HF_sys1,HF,prefijos,Fluoruro de hidrógeno,Fluorur d'hidrogen,Hidrogeno fluoruroa,hidrácidos,3,1,l5e6164_ac29_ap1|l5e6164_ac29_ap2|l5e6165_ac13_ap1|l5e6165_ac13_ap2,3|4,falta NOX
+519,HF_sys3,HF,tradicional,Ácido fluorhídrico,Àcid fluorhídric,Azido fluorhidrikoa,hidrácidos,3,3,l5e6164_ac30_ap1|l5e6164_ac30_ap2|l5e6165_ac14_ap1|l5e6165_ac14_ap2,3|4,
+521,Hg(OH)2_sys1,Hg(OH)2,prefijos,Dihidróxido de mercurio,Dihidròxid de mercuri,Merkurio dihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2|l5e6165_ac36_ap1,3|4,
+523,Hg(OH)2_sys2,Hg(OH)2,números ox,Hidróxido de mercurio(II),Hidròxid de mercuri(II),Merkurio(II) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2|l5e6165_ac37_ap1,3|4,
+525,Hg2SO3_sys3,Hg2SO3,tradicional,Sulfito de mercurio(I),Sulfit de mercuri(I),,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+527,HgBr_sys2,HgBr,números ox,Bromuro de mercurio(I),Bromur de mercuri(I),Merkurio(I) bromuroa,sales binarias,8,2,l1h63ex_pg6_ap2,3,falta PRE
+529,HgF2_sys1,HgF2,prefijos,Difluoruro de mercurio,Difluorur de mercuri,,sales binarias,8,1,l5e6165_ac29_ap2,4,
+531,HgF2_sys2,HgF2,números ox,Fluoruro de mercurio(II),Fluorur de mercuri(II),Merkurio(II) fluoruroa,sales binarias,8,2,l5e6164_ac6_ap1,3,
+533,HgH2_sys2,HgH2,números ox,Hidruro de mercurio(II),Hidrur de mercuri(II),Merkurio(II) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2,3,falta PRE
+535,HgI2_sys1,HgI2,prefijos,Diyoduro de mercurio,Diiodur de mercuri,,sales binarias,8,1,l1h63dx_pg4_ap1,4,falta NOX
+537,HgS_sys2,HgS,números ox,Sulfuro de mercurio(II),Sulfur de mercuri(II),Merkurio(II) sulfuroa,sales binarias,8,2,l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,falta PRE
+539,HgSO3_sys3,HgSO3,tradicional,Sulfito de mercurio(II),Sulfit de mercuri(II),,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+541,HI_sys1,HI,prefijos,Yoduro de hidrógeno|Ácido yodhídrico,Iodur d'hidrogen|Àcid iodhídric,Hidrogeno ioduroa,hidrácidos,3,1,l5e6164_ac29_ap1|l5e6164_ac29_ap2|l1h63ex_pg1_ap2|l5e6165_ac13_ap1|l5e6165_ac13_ap2|l1h63dx_pg4_ap2,3|4,falta NOX
+543,HI_sys3,HI,tradicional,Ácido yodhídrico,Àcid iodhídric,Azido iodhidrikoa,hidrácidos,3,3,l5e6164_ac30_ap1|l5e6164_ac30_ap2|l5e6165_ac14_ap1|l5e6165_ac14_ap2,3|4,
+545,HIO_sys3,HIO,tradicional,Ácido hipoyodoso,Àcid hipoiodós,,oxoácidos,12,3,l5e6164_ac44_ap2,4,falta SIS
+547,HIO3_sys3,HIO3,tradicional,Ácido yódico,Àcid iòdic,,oxoácidos,12,3,l5e6164_ac44_ap1,4,
+549,HIO3_sys4,HIO3,sistemática,Hidrogeno(trioxidoyodato),Hidrogen(trioxidoiodat)|Hidrogen(trioxidiodat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,
+551,HIO4_sys3,HIO4,tradicional,Ácido peryódico,Àcid periòdic,,oxoácidos,12,3,l5e6164_ac44_ap2,4,falta SIS
+553,HMnO4_sys3,HMnO4,tradicional,Ácido permangánico,Àcid permangànic,,oxoácidos,12,3,l5e6164_ac44_ap1,4,
+555,HMnO4_sys4,HMnO4,sistemática,Hidrogeno(tetraoxidomanganato),Hidrogen(tetraoxidomanganat)|Hidrogen(tetraoxidmanganat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,
+557,HNO2_sys3,HNO2,tradicional,Ácido nitroso,Àcid nitrós,,oxoácidos,12,3,l5e6164_ac44_ap2,4,
+559,HNO2_sys4,HNO2,sistemática,Hidrogeno(dioxidonitrato),Hidrogen(dioxidonitrat)|Hidrogen(dioxidnitrat),,oxoácidos,12,4,l5e6164_ac45_ap1,4,
+561,HNO3_sys4,HNO3,sistemática,Hidrogeno(trioxidonitrato),Hidrogen(trioxidonitrat),,oxoácidos,12,4,l5e6164_ac45_ap2,4,falta TRA
+563,I2_sys1,I2,prefijos,Diyodo,Diiode,Diiodoa,sustancias elementales,1,1,l5e6164_ac37_ap1|l5e6165_ac5_ap2,3|4,
+565,I2_sys2,I2,números ox,Yodo,Iode,Iodoa,sustancias elementales,1,2,l5e6164_ac38_ap2,3,
+567,In(OH)3_sys1,In(OH)3,prefijos,Trihidróxido de indio,Trihidròxid d'indi,Indio trihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2,3,
+569,In(OH)3_sys2,In(OH)3,números ox,Hidróxido de indio,Hidròxid d'indi,,hidróxidos,10,2,l5e6165_ac37_ap1,4,
+571,InH3_sys1,InH3,prefijos,Trihidruro de indio,Trihidrur d'indi,Indio trihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2|l5e6165_ac9_ap2,3|4,falta NOX
+573,K_sys2,K,números ox,Potasio,Potassi,,sustancias elementales,1,2,l5e6165_ac6_ap1,4,falta PRE*
+575,K2CO3_sys3,K2CO3,tradicional,Carbonato de potasio,Carbonat de potassi,,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+577,K2HPO4_sys3,K2HPO4,tradicional,Hidrogenofosfato de potasio,Hidrogenfosfat de potassi,,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,
+579,K2HPO4_sys4,K2HPO4,sistemática,Hidrogeno(tetraoxidofosfato) de dipotasio,Hidrogen(tetraoxidofosfat) de dipotassi|Hidrogen(tetraoxidfosfat) de dipotassi,,oxosales ácidas,14,4,l5e6164_ac53_ap1|l5e6164_ac53_ap2,4,
+581,K2O_sys1,K2O,prefijos,Óxido de dipotasio,Òxid de dipotassi,Dipotasio oxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap2,3,falta NOX
+583,K2O2_sys1,K2O2,prefijos,Dióxido de dipotasio,Diòxid de dipotassi,Dipotasio dioxidoa,peróxidos,9,1,l5e6164_ac56_ap1|l5e6165_ac33_ap1,3|4,
+585,K2O2_sys2,K2O2,números ox,Peróxido de potasio,Peròxid de potassi,Potasio peroxidoa,peróxidos,9,2,l5e6164_ac57_ap2|l5e6165_ac34_ap2,3|4,
+587,K2S_sys1,K2S,prefijos,Sulfuro de dipotasio,Sulfur de dipotassi,Dipotasio sulfuroa,sales binarias,8,1,l5e6164_ac5_ap1,3,
+589,K2S_sys2,K2S,números ox,Sulfuro de potasio,Sulfur de potassi,,sales binarias,8,2,l5e6165_ac30_ap1|l5e6165_ac30_ap2,4,
+591,K3AsO3_sys4,K3AsO3,sistemática,Trioxidoarseniato de tripotasio,Trioxidoarseniat de tripotassi,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+593,K3PO4_sys4,K3PO4,sistemática,Tetraoxidofosfato de tripotasio,Tetraoxidofosfat de tripotassi|Tetraoxidfosfat de tripotassi,,oxosales,13,4,l5e6164_ac49_ap1,4,falta TRA
+595,KBr_sys1,KBr,prefijos,Bromuro de potasio,Bromur de potassi,Potasio bromuroa,sales binarias,8,1,l5e6164_ac5_ap2,3,falta NOX
+597,KClO_sys3,KClO,tradicional,Hipoclorito de potasio,Hipoclorit de potassi,,oxosales,13,3,l5e6164_ac48_ap1,4,falta SIS
+599,KF_sys2,KF,números ox,Fluoruro de potasio,Fluorur de potassi,,sales binarias,8,2,l1h63dx_pg5_ap2,4,falta PRE
+601,KH_sys1,KH,prefijos,Hidruro de potasio,Hidrur de potassi,,hidruros metálicos,2,1,l5e6165_ac9_ap1,4,
+603,KH_sys2,KH,números ox,Hidruro de potasio,Hidrur de potassi,Potasio hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,
+605,KH2BO3_sys3,KH2BO3,tradicional,Dihidrogenoborato de potasio,Dihidrogenborat de potassi,,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,falta SIS
+607,KHCO3_sys4,KHCO3,sistemática,Hidrogeno(trioxidocarbonato) de potasio,Hidrogen(trioxidocarbonat) de potassi|Hidrogen(trioxidcarbonat) de potassi,,oxosales ácidas,14,4,l5e6164_ac53_ap1|l5e6164_ac53_ap2,4,falta TRA
+609,KHSO4_sys4,KHSO4,sistemática,Hidrogeno(tetraoxidosulfato) de potasio,Hidrogen(tetraoxidosulfat) de potassi|Hidrogen(tetraoxidsulfat) de potassi,,oxosales ácidas,14,4,l5e6164_ac53_ap1,4,falta TRA
+611,KNO2_sys4,KNO2,sistemática,Dioxidonitrato de potasio,Dioxidonitrat de potassi,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+613,KNO3_sys3,KNO3,tradicional,Nitrato de potasio,Nitrat de potassi,,oxosales,13,3,l5e6164_ac48_ap1,4,
+615,KNO3_sys4,KNO3,sistemática,Trioxidonitrato de potasio,Trioxidonitrat de potassi|Trioxidnitrat de potassi,,oxosales,13,4,l5e6164_ac49_ap1,4,
+617,KOH_sys1,KOH,prefijos,Hidróxido de potasio,Hidròxid de potassi,,hidróxidos,10,1,l5e6165_ac36_ap2,4,
+619,KOH_sys2,KOH,números ox,Hidróxido de potasio,Hidròxid de potassi,Potasio hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1,3,
+621,Li2HBO3_sys3,Li2HBO3,tradicional,Hidrogenoborato de litio,Hidrogenborat de liti,,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,falta SIS
+623,Li2O_sys1,Li2O,prefijos,Óxido de dilitio,Òxid de diliti,Dilitio oxidoa,óxidos metálicos,4,1,l5e6165_ac38_ap2|l5e6165_ac17_ap2,3|4,
+625,Li2O_sys2,Li2O,números ox,Óxido de litio,Òxid de liti,Litio oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1|l5e6165_ac18_ap1,3|4,
+627,Li2O2_sys1,Li2O2,prefijos,Dióxido de dilitio,Diòxid de diliti,Dilitio dioxidoa,peróxidos,9,1,l5e6164_ac56_ap2|l5e6165_ac33_ap2,3|4,
+629,Li2O2_sys2,Li2O2,números ox,Peróxido de litio,Peròxid de liti,Litio peroxidoa,peróxidos,9,2,l5e6164_ac57_ap1|l5e6165_ac34_ap1,3|4,
+631,Li2S_sys1,Li2S,prefijos,Sulfuro de dilitio,Sulfur de diliti,Dilitio sulfuroa,sales binarias,8,1,l5e6164_ac5_ap2,3,falta NOX
+633,LiBrO3_sys3,LiBrO3,tradicional,Bromato de litio,Bromat de liti,,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+635,LiCl_sys2,LiCl,números ox,Cloruro de litio,Clorur de liti,,sales binarias,8,2,l5e6165_ac39_ap2,4,falta PRE
+637,LiH_sys2,LiH,números ox,Hidruro de litio,Hidrur de liti,,hidruros metálicos,2,2,l5e6165_ac10_ap1,4,falta PRE
+639,LiH2BO3_sys4,LiH2BO3,sistemática,Dihidrogeno(trioxidoborato) de litio,Dihidrogen(trioxidoborat) de liti|Dihidrogen(trioxidborat) de liti,,oxosales ácidas,14,4,l5e6164_ac53_ap1,4,falta TRA
+641,LiH2PO4_sys3,LiH2PO4,tradicional,Dihidrogenofosfato de litio,Dihidrogenfosfat de liti,,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,falta SIS
+643,LiHCO2_sys4,LiHCO2,sistemática,Hidrogeno(dioxidocarbonato) de litio,Hidrogen(dioxidocarbonat) de liti,,oxosales ácidas,14,4,l5e6164_ac53_ap2,4,falta TRA
+645,LiI_sys1,LiI,prefijos,Yoduro de litio,Iodur de liti,Litio ioduroa,sales binarias,8,1,l5e6164_ac5_ap2,3,
+647,LiI_sys2,LiI,números ox,Yoduro de litio,Iodur de liti,,sales binarias,8,2,l5e6165_ac30_ap1,4,
+649,LiOH_sys1,LiOH,prefijos,Hidróxido de litio,Hidròxid de liti,Litio hidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1|l5e6165_ac36_ap1,3|4,
+651,LiOH_sys2,LiOH,números ox,Hidróxido de litio,Hidròxid de liti,Litio hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2|l5e6164_ac40_ap2|l5e6165_ac37_ap2,3|4,
+653,Mg(ClO4)2_sys3,Mg(ClO4)2,tradicional,Perclorato de magnesio,Perclorat de magnesi,,oxosales,13,3,l5e6164_ac48_ap1,4,
+655,Mg(ClO4)2_sys4,Mg(ClO4)2,sistemática,Bis(tetraoxidoclorato) de magnesio,Bis(tetraoxidoclorat) de magnesi|Bis(tetraoxidclorat) de magnesi,,oxosales,13,4,l5e6164_ac49_ap1,4,
+657,Mg(HCO3)2_sys3,Mg(HCO3)2,tradicional,Hidrogenocarbonato de magnesio,Hidrogencarbonat de magnesi,,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,falta SIS
+659,Mg(OH)2_sys1,Mg(OH)2,prefijos,Dihidróxido de magnesio,Dihidròxid de magnesi,Magnesio dihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1,3,
+661,Mg(OH)2_sys2,Mg(OH)2,números ox,Hidróxido de magnesio,Hidròxid de magnesi,,hidróxidos,10,2,l5e6165_ac37_ap2,4,
+663,MgCl2_sys2,MgCl2,números ox,Cloruro de magnesio,Clorur de magnesi,,sales binarias,8,2,l1h63dx_pg5_ap2,4,falta PRE
+665,MgF2_sys2,MgF2,números ox,Fluoruro de magnesio,Fluorur de magnesi,Magnesio fluoruroa,sales binarias,8,2,l1h63ex_pg6_ap2,3,falta PRE
+667,MgH2_sys2,MgH2,números ox,Hidruro de magnesio,Hidrur de magnesi,Magnesio hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2|l5e6165_ac10_ap2,3|4,falta PRE
+669,MgHPO4_sys4,MgHPO4,sistemática,Hidrogeno(tetraoxidofosfato) de magnesio,Hidrogen(tetraoxidofosfat) de magnesi,,oxosales ácidas,14,4,l5e6164_ac53_ap2,4,falta TRA
+671,MgO_sys1,MgO,prefijos,Óxido de magnesio|Monóxido de magnesio,Òxid de magnesi|Monòxid de magnesi,Magnesio oxidoa|Magnesio monoxidoa,óxidos metálicos,4,1,l5e6164_ac39_ap1|l5e6165_ac17_ap1|l5e6165_ac38_ap1,3|4,
+673,MgO_sys2,MgO,números ox,Óxido de magnesio,Òxid de magnesi,Magnesio oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1|l5e6165_ac18_ap1,3|4,
+675,MgO2_sys1,MgO2,prefijos,Dióxido de magnesio,Diòxid de magnesi,,peróxidos,9,1,l5e6165_ac33_ap2,4,
+677,MgO2_sys2,MgO2,números ox,Peróxido de magnesio,Peròxid de magnesi,Magnesio peroxidoa,peróxidos,9,2,l5e6164_ac57_ap1,3,
+679,MgS_sys1,MgS,prefijos,Sulfuro de magnesio,Sulfur de magnesi,Magnesio sulfuroa,sales binarias,8,1,l5e6165_ac38_ap2,3|4,falta NOX
+681,MgSe_sys1,MgSe,prefijos,Selenuro de magnesio|Seleniuro de magnesio,Selenur de magnesi,Magnesio selenuroa|Magnesio seleniuroa,sales binarias,8,1,l5e6164_ac5_ap1,3,
+683,MgSe_sys2,MgSe,números ox,Selenuro de magnesio,Selenur de magnesi,,sales binarias,8,2,l5e6165_ac30_ap2,4,
+685,Mn(OH)4_sys1,Mn(OH)4,prefijos,Tetrahidróxido de manganeso,Tetrahidròxid de manganès,Manganeso tetrahidroxidoa,hidróxidos,10,1,l1h63ex_pg1_ap2,3,falta NOX
+687,Mn(OH)6_sys1,Mn(OH)6,prefijos,Hexahidróxido de manganeso,Hexahidròxid de manganès,Manganeso hexahidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1,3,
+689,Mn(OH)6_sys2,Mn(OH)6,números ox,Hidróxido de manganeso(VI),Hidròxid de manganès(VI),,hidróxidos,10,2,l5e6165_ac37_ap2,4,
+691,Mn(OH)7_sys1,Mn(OH)7,prefijos,Heptahidróxido de manganeso,Heptahidròxid de manganès,Manganeso heptahidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2,3,
+693,Mn(OH)7_sys2,Mn(OH)7,números ox,Hidróxido de manganeso(VII),Hidròxid de manganès(VII),,hidróxidos,10,2,l5e6165_ac37_ap1,4,
+695,MnO3_sys2,MnO3,números ox,Óxido de manganeso(VI),Òxid de manganès(VI),,óxidos metálicos,4,2,l1h63dx_pg5_ap1,4,falta PRE
+697,Mn2O3_sys2,Mn2O3,números ox,Óxido de manganeso(III),Òxid de manganès(III),,óxidos metálicos,4,2,l5e6165_ac18_ap1,4,falta PRE
+699,Mn2O7_sys1,Mn2O7,prefijos,Heptaóxido de dimanganeso|Heptóxido de dimanganeso,Heptaòxid de dimanganès|Heptòxid de dimanganès,Dimanganeso heptaoxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1,3,falta NOX
+701,Mn2S7_sys1,Mn2S7,prefijos,Heptasulfuro de dimanganeso,Heptasulfur de dimanganès,Dimanganeso heptasulfuroa,sales binarias,8,1,l5e6164_ac39_ap1|l5e6165_ac38_ap1,3|4,falta NOX
+703,MnF6_sys1,MnF6,prefijos,Hexafluoruro de manganeso,Hexafluorur de manganès,,sales binarias,8,1,l1h63dx_pg4_ap1,4,falta NOX
+705,MnH4_sys1,MnH4,prefijos,Tetrahidruro de manganeso,Tetrahidrur de manganès,Manganeso tetrahidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2,3,falta NOX
+707,MnH7_sys1,MnH7,prefijos,Heptahidruro de manganeso,Heptahidrur de manganès,Manganeso heptahidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1|l5e6165_ac9_ap1,3|4,falta NOX
+709,MnO2_sys1,MnO2,prefijos,Dióxido de manganeso,Diòxid de manganès,,óxidos metálicos,4,1,l5e6165_ac17_ap1,4,
+711,MnO2_sys2,MnO2,números ox,Óxido de manganeso(IV),Òxid de manganès(IV),Manganeso(IV) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2,3,
+713,MnO3_sys1,MnO3,prefijos,Trióxido de manganeso,Triòxid de manganès,Manganeso trioxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap2,3,
+715,MnO3_sys2,MnO3,números ox,Óxido de manganeso(VI),Òxid de manganès(VI),Manganeso(VI) oxidoa,óxidos metálicos,4,2,l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,
+717,MnS2_sys1,MnS2,prefijos,Disulfuro de manganeso,Disulfur de manganès,,sales binarias,8,1,l5e6165_ac29_ap2,4,
+719,MnS2_sys2,MnS2,números ox,Sulfuro de manganeso(IV),Sulfur de manganès(IV),Manganeso(IV) sulfuroa,sales binarias,8,2,l5e6164_ac6_ap1,3,
+721,Mo2O5_sys2,Mo2O5,números ox,Óxido de molibdeno(V),Òxid de molibdè(V),,óxidos metálicos,4,2,l5e6165_ac18_ap2|l1h63dx_pg5_ap2,4,falta PRE
+723,MoH4_sys2,MoH4,números ox,Hidruro de molibdeno(IV),Hidrur de molibdè(IV),Molibdeno(IV) hidruroa,hidruros metálicos,2,2,l1h63ex_pg2_ap3,3,falta PRE
+725,N2_sys1,N2,prefijos,Dinitrógeno,Dinitrogen,Dinitrogenoa,sustancias elementales,1,1,l5e6164_ac37_ap2|l1h63ex_pg1_ap2|l5e6165_ac5_ap1,3|4,
+727,N2_sys2,N2,números ox,Nitrógeno,Nitrogen,,sustancias elementales,1,2,l5e6165_ac6_ap2,4,
+729,N2O3_sys1,N2O3,prefijos,Trióxido de dinitrógeno,Triòxid de dinitrogen,Dinitrogeno trioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1|l5e6165_ac21_ap2|l5e6164_ac39_ap1|l5e6165_ac38_ap1|l1h63dx_pg4_ap1,3|4,
+731,N2O3_sys2,N2O3,números ox,Óxido de nitrógeno(III),Òxid de nitrogen(III),Nitrogeno(III) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap2,3|4,
+733,N2O5_sys1,N2O5,prefijos,Pentaóxido de dinitrógeno,Pentaòxid de dinitrogen,Dinitrogeno pentaoxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1|l5e6165_ac21_ap2,3|4,
+735,N2O5_sys2,N2O5,números ox,Óxido de nitrógeno(V),Òxid de nitrogen(V),Nitrogeno(V) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1|l5e6165_ac22_ap2,3|4,
+737,N2S3_sys1,N2S3,prefijos,Trisulfuro de dinitrógeno,Trisulfur de dinitrogen,Dinitrogeno trisulfuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1|l5e6165_ac25_ap2,3|4,
+739,N2S3_sys2,N2S3,números ox,Sulfuro de nitrógeno(III),Sulfur de nitrogen(III),Nitrogeno(III) sulfuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1|l5e6165_ac26_ap2,3|4,
+741,N2S5_sys1,N2S5,prefijos,Pentasulfuro de dinitrógeno,Pentasulfur de dinitrogen,Dinitrogeno pentasulfuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1|l5e6164_ac13_ap2|l5e6165_ac25_ap1,3|4,
+743,N2S5_sys2,N2S5,números ox,Sulfuro de nitrógeno(V),Sulfur de nitrogen(V),Nitrogeno(V) sulfuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2|l5e6165_ac26_ap1|l5e6165_ac26_ap2,3|4,
+745,Na_sys2,Na,números ox,Sodio,Sodi,Sodioa,sustancias elementales,1,2,l5e6164_ac38_ap1|l5e6165_ac6_ap2,3|4,falta PRE*
+747,Na2CO3_sys4,Na2CO3,sistemática,Trioxidocarbonato de disodio,Trioxidocarbonat de disodi,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+749,Na2HPO4_sys3,Na2HPO4,tradicional,Hidrogenofosfato de sodio,Hidrogenfosfat de sodi,,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,falta SIS
+751,Na2O_sys1,Na2O,prefijos,Óxido de disodio|Monóxido de disodio,Òxid de disodi|Monòxid de disodi,Disodio oxidoa|Disodio monoxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1,3,
+753,Na2O_sys2,Na2O,números ox,Óxido de sodio,Òxid de sodi,,óxidos metálicos,4,2,l5e6165_ac18_ap2,4,
+755,Na2O2_sys1,Na2O2,prefijos,Dióxido de disodio,Diòxid de disodi,Disodio dioxidoa,peróxidos,9,1,l5e6164_ac56_ap1|l5e6165_ac38_ap2|l5e6165_ac33_ap1,3|4,
+757,Na2O2_sys2,Na2O2,números ox,Peróxido de sodio,Peròxid de sodi,Sodio peroxidoa,peróxidos,9,2,l5e6164_ac57_ap2|l5e6165_ac39_ap1|l5e6165_ac34_ap2,3|4,
+759,Na2SO3_sys4,Na2SO3,sistemática,Trioxidosulfato de disodio,Trioxidosulfat de disodi,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+761,NaCl_sys1,NaCl,prefijos,Cloruro de sodio,Clorur de sodi,Sodio kloruroa,sales binarias,8,1,l5e6164_ac5_ap1,3,
+763,NaCl_sys2,NaCl,números ox,Cloruro de sodio,Clorur de sodi,Sodio kloruroa,sales binarias,8,2,l5e6165_ac39_ap1|l5e6165_ac30_ap2,3|4,
+765,NaClO_sys3,NaClO,tradicional,Hipoclorito de sodio,Hipoclorit de sodi,,oxosales,13,3,l5e6164_ac48_ap1,4,
+767,NaClO_sys4,NaClO,sistemática,Oxidoclorato de sodio,Oxidoclorat de sodi|Oxidclorat de sodi,,oxosales,13,4,l5e6164_ac49_ap1|l5e6164_ac49_ap2,4,
+769,NaH_sys1,NaH,prefijos,Hidruro de sodio,Hidrur de sodi,Sodio hidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1|l5e6165_ac9_ap2,3|4,
+771,NaH_sys2,NaH,números ox,Hidruro de sodio,Hidrur de sodi,,hidruros metálicos,2,2,l5e6165_ac10_ap2,4,
+773,NaH2PO4_sys3,NaH2PO4,tradicional,Dihidrogenofosfato de sodio,Dihidrogenfosfat de sodi,,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,
+775,NaH2PO4_sys4,NaH2PO4,sistemática,Dihidrogeno(tetraoxidofosfato) de sodio,Dihidrogen(tetraoxidofosfat) de sodi|Dihidrogen(tetraoxidfosfat) de sodi,,oxosales ácidas,14,4,l5e6164_ac53_ap1,4,
+777,NaHCO3_sys3,NaHCO3,tradicional,Hidrogenocarbonato de sodio,Hidrogencarbonat de sodi,,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,
+779,NaHCO3_sys4,NaHCO3,sistemática,Hidrogeno(trioxidocarbonato) de sodio,Hidrogen(trioxidocarbonat) de sodi|Hidrogen(trioxidcarbonat) de sodi,,oxosales ácidas,14,4,l5e6164_ac53_ap1,4,
+781,NaHSO4_sys3,NaHSO4,tradicional,Hidrogenosulfato de sodio,Hidrogensulfat de sodi,,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,
+783,NaHSO4_sys4,NaHSO4,sistemática,Hidrogeno(tetraoxidosulfato) de sodio,Hidrogen(tetraoxidosulfat) de sodi,,oxosales ácidas,14,4,l5e6164_ac53_ap2,4,
+785,NaNO3_sys3,NaNO3,tradicional,Nitrato de sodio,Nitrat de sodi,,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+787,NaOH_sys1,NaOH,prefijos,Hidróxido de sodio,Hidròxid de sodi,Sodio hidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1,3,
+789,NaOH_sys2,NaOH,números ox,Hidróxido de sodio,Hidròxid de sodi,,hidróxidos,10,2,l5e6165_ac37_ap2,4,
+791,NbH5_sys1,NbH5,prefijos,Pentahidruro de niobio,Pentahidrur de niobi,,hidruros metálicos,2,1,l1h63dx_pg4_ap1,4,falta NOX
+793,NBr3_sys1,NBr3,prefijos,Tribromuro de nitrógeno,Tribromur de nitrogen,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap2,4,
+795,NBr3_sys2,NBr3,números ox,Bromuro de nitrógeno(III),Bromur de nitrogen(III),Nitrogeno(III) bromuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1,3,
+797,NBr5_sys1,NBr5,prefijos,Pentabromuro de nitrógeno,Pentabromur de nitrogen,Nitrogeno pentabromuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2|l5e6165_ac25_ap1,3|4,
+799,NBr5_sys2,NBr5,números ox,Bromuro de nitrógeno(V),Bromur de nitrogen(V),Nitrogeno(V) bromuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2|l5e6165_ac26_ap1,3|4,
+801,NCl3_sys1,NCl3,prefijos,Tricloruro de nitrógeno,Triclorur de nitrogen,Nitrogeno dikloruroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1|l5e6165_ac25_ap1,3|4,
+803,NCl3_sys2,NCl3,números ox,Cloruro de nitrógeno(III),Clorur de nitrogen(III),Nitrogeno(III) kloruroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2|l5e6165_ac26_ap2,3|4,
+805,NCl5_sys1,NCl5,prefijos,Pentacloruro de nitrógeno,Pentaclorur de nitrogen,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap2,4,
+807,NCl5_sys2,NCl5,números ox,Cloruro de nitrógeno(V),Clorur de nitrogen(V),Nitrogeno(V) kloruroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1,3,
+809,NF5_sys1,NF5,prefijos,Pentafluoruro de nitrógeno,Pentafluorur de nitrogen,Nitrogeno pentafluoruroa,compuestos covalentes no metálicos,7,1,l1h63ex_pg5_ap2,3,falta NOX
+811,Ni_sys2,Ni,números ox,Níquel,Níquel,,sustancias elementales,1,2,l5e6165_ac6_ap1,4,falta PRE*
+813,Ni(OH)3_sys2,Ni(OH)3,números ox,Hidróxido de níquel(III),Hidròxid de níquel(III),Nikel(III) hidroxidoa,hidróxidos,10,2,l5e6164_ac40_ap2,3,falta PRE
+815,Ni2O3_sys2,Ni2O3,números ox,Óxido de níquel(III),Òxid de níquel(III),,óxidos metálicos,4,2,l5e6165_ac39_ap2,4,falta PRE
+817,Ni2S3_sys1,Ni2S3,prefijos,Trisulfuro de diníquel,Trisulfur de diníquel,Dinikel trisulfuroa,sales binarias,8,1,l5e6164_ac5_ap2|l5e6165_ac29_ap1,3|4,
+819,Ni2S3_sys2,Ni2S3,números ox,Sulfuro de níquel(III),Sulfur de níquel(III),Nikel(III) sulfuroa,sales binarias,8,2,l5e6164_ac6_ap2|l5e6165_ac30_ap1,3|4,
+821,NI5_sys1,NI5,prefijos,Pentayoduro de nitrógeno,Pentaiodur de nitrogen,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap2,4,
+823,NI5_sys2,NI5,números ox,Yoduro de nitrógeno(V),Iodur de nitrogen(V),Nitrogeno(V) ioduroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1|l5e6164_ac40_ap2|l1h63ex_pg6_ap2|l5e6165_ac39_ap2,3|4,
+825,NiCl3_sys1,NiCl3,prefijos,Tricloruro de níquel,Triclorur de níquel,Nikel trikloruroa,sales binarias,8,1,l5e6164_ac5_ap2,3,
+827,NiCl3_sys2,NiCl3,números ox,Cloruro de níquel(III),Clorur de níquel(III),,sales binarias,8,2,l5e6165_ac30_ap1,4,
+829,NiH2_sys2,NiH2,números ox,Hidruro de níquel(II),Hidrur de níquel(II),Nikel(II) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,falta PRE
+831,NiH3_sys1,NiH3,prefijos,Trihidruro de níquel,Trihidrur de níquel,Nikel trihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap2,3,falta NOX
+833,NiHPO4_sys3,NiHPO4,tradicional,Hidrogenofosfato de níquel(II),Hidrogenfosfat de níquel(II),,oxosales ácidas,14,3,l5e6164_ac52_ap1,4,falta SIS
+835,NiO_sys1,NiO,prefijos,Monóxido de níquel,Monòxid de níquel,Nikel monoxidoa,óxidos metálicos,4,1,l1h63ex_pg5_ap2,3,
+837,NiO_sys2,NiO,números ox,Óxido de níquel(II),Òxid de níquel(II),Nikel(II) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2,3,
+839,NiO2_sys1,NiO2,prefijos,Dióxido de níquel,Diòxid de níquel,Nikel dioxidoa,peróxidos,9,1,l5e6164_ac56_ap2|l5e6165_ac33_ap1,3|4,
+841,NiO2_sys2,NiO2,números ox,Peróxido de níquel(II),Peròxid de níquel(II),Nikel(II) peroxidoa,peróxidos,9,2,l5e6164_ac57_ap2|l5e6165_ac34_ap1,3|4,
+843,NiS_sys1,NiS,prefijos,Sulfuro de níquel,Sulfur de níquel,,sales binarias,8,1,l5e6165_ac29_ap1|l5e6165_ac29_ap2,4,
+845,NiS_sys2,NiS,números ox,Sulfuro de níquel(II),Sulfur de níquel(II),Nikel(II) sulfuroa,sales binarias,8,2,l5e6164_ac6_ap1|l5e6164_ac6_ap2|l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,
+847,NiSO3_sys4,NiSO3,sistemática,Trioxidosulfato de níquel,Trioxidosulfat de níquel,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+849,O2_sys1,O2,prefijos,Dioxígeno,Dioxigen,Dioxigenoa,sustancias elementales,1,1,l5e6164_ac37_ap1|l5e6165_ac5_ap2,3|4,
+851,O2_sys2,O2,números ox,Oxígeno,Oxigen,Oxigenoa,sustancias elementales,1,2,l5e6164_ac38_ap2|l5e6165_ac6_ap1,3|4,
+853,O3_sys1,O3,prefijos,Trioxígeno,Trioxigen,Trioxigenoa,sustancias elementales,1,1,l5e6164_ac37_ap2|l1h63ex_pg5_ap2|l5e6165_ac5_ap2,3|4,falta NOX*
+855,O3Br2_sys1,O3Br2,prefijos,Dibromuro de trioxígeno,Dibromur de trioxigen,Trioxigeno dibromuroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap1,3|4,
+857,O3Cl2_sys1,O3Cl2,prefijos,Dicloruro de trioxígeno,Diclorur de trioxigen,Trioxigeno dikloruroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap2|l1h63ex_pg5_ap2,3|4,
+859,O3I2_sys1,O3I2,prefijos,Diyoduro de trioxígeno,Diiodur de trioxigen,Trioxigeno diioduroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap2,3|4,
+861,O5Br2_sys1,O5Br2,prefijos,Dibromuro de pentaoxígeno,Dibromur de pentaoxigen,Pentaoxigeno dibromuroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap1|l5e6165_ac38_ap2|l1h63dx_pg4_ap2,3|4,
+863,O5Cl2_sys1,O5Cl2,prefijos,Dicloruro de pentaoxígeno,Diclorur de pentaoxigen,Pentaoxigeno dikloruroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap2|l1h63ex_pg1_ap2,3|4,
+865,O5I2_sys1,O5I2,prefijos,Diyoduro de pentaoxígeno,Diiodur de pentaoxigen,Pentaoxigeno diioduroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap2,3|4,
+867,O7Br2_sys1,O7Br2,prefijos,Dibromuro de heptaoxígeno,Dibromur d'heptaoxigen,Heptaoxigeno dibromuroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap2,3|4,
+869,O7Cl2_sys1,O7Cl2,prefijos,Dicloruro de heptaoxígeno,Diclorur d'heptaoxigen,Heptaoxigeno dikloruroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap1|l5e6165_ac38_ap2|l1h63dx_pg4_ap1,3|4,
+871,O7I2_sys1,O7I2,prefijos,Diyoduro de heptaoxígeno,Diiodur d'heptaoxigen,Heptaoxigeno diioduroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap1,3|4,
+873,OBr2_sys1,OBr2,prefijos,Dibromuro de oxígeno,Dibromur d'oxigen,Oxigeno dibromuroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap2,3|4,
+875,OCl2_sys1,OCl2,prefijos,Dicloruro de oxígeno,Diclorur d'oxigen,Oxigeno dikloruroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap1|l5e6165_ac38_ap1,3|4,
+877,OF2_sys1,OF2,prefijos,Difluoruro de oxígeno,Difluorur d'oxigen,Oxigeno difluoruroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap1,3|4,
+879,OI2_sys1,OI2,prefijos,Diyoduro de oxígeno,Diiodur d'oxigen,Oxigeno diioduroa,halogenuros de oxígeno,6,1,l5e6165_ac43_ap1,3|4,
+881,P2O3_sys1,P2O3,prefijos,Trióxido de difósforo,Triòxid de difòsfor,Difosforo trioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1|l1h63dx_pg4_ap2,3|4,
+883,P2O3_sys2,P2O3,números ox,Óxido de fósforo(III),Òxid de fòsfor(III),Fosforo(III) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1,3|4,
+885,P2O5_sys1,P2O5,prefijos,Pentaóxido de difósforo,Pentaòxid de difòsfor,Difosforo pentaoxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1,3|4,
+887,P2O5_sys2,P2O5,números ox,Óxido de fósforo(V),Òxid de fòsfor(V),Fosforo(V) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap2,3|4,
+889,P2S3_sys1,P2S3,prefijos,Trisulfuro de difósforo,Trisulfur de difòsfor,Difosforo trisulfuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2|l5e6165_ac25_ap1,3|4,
+891,P2S3_sys2,P2S3,números ox,Sulfuro de fósforo(III),Sulfur de fòsfor(III),Fosforo(III) sulfuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2|l5e6165_ac26_ap1,3|4,
+893,P2S5_sys1,P2S5,prefijos,Pentasulfuro de difósforo,Pentasulfur de difòsfor,Difosforo pentasulfuroa,compuestos covalentes no metálicos,7,1,l1h63ex_pg1_ap2,3,falta NOX
+895,P2Se3_sys1,P2Se3,prefijos,Triselenuro de difósforo,Triselenur de difòsfor,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap2,4,
+897,P2Se3_sys2,P2Se3,números ox,Seleniuro de fósforo(III),Selenur de fòsfor(III),Fosforo(III) selenuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1,3,
+899,P2Se5_sys1,P2Se5,prefijos,Pentaselenuro de difósforo,Pentaselenur de difòsfor,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap1,4,
+901,P2Se5_sys2,P2Se5,números ox,Seleniuro de fósforo(V),Selenur de fòsfor(V),Fosforo(V) selenuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2,3,
+903,P4_sys1,P4,prefijos,Tetrafósforo,Tetrafòsfor,Tetrafosforoa,sustancias elementales,1,1,l5e6164_ac37_ap1|l5e6165_ac5_ap1,3|4,
+905,P4_sys2,P4,números ox,Fósforo,Fòsfor,Fosforoa,sustancias elementales,1,2,l5e6164_ac38_ap1,3,ALERTA
+907,Pb(OH)4_sys1,Pb(OH)4,prefijos,Tetrahidróxido de plomo,Tetrahidròxid de plom,Berun tetrahidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1,3,
+909,Pb(OH)4_sys2,Pb(OH)4,números ox,Hidróxido de plomo(IV),Hidròxid de plom(IV),,hidróxidos,10,2,l5e6165_ac37_ap2,4,
+911,Pb(SeO4)2_sys4,Pb(SeO4)2,sistemática,Bis(tetraoxidoselenato) de plomo,Bis(tetraoxidoselenat) de plom,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+913,PbCl4_sys1,PbCl4,prefijos,Tetracloruro de plomo,Tetraclorur de plom,Berun tetrakloruroa,sales binarias,8,1,l5e6164_ac5_ap2,3,
+915,PbCl4_sys2,PbCl4,números ox,Cloruro de plomo(IV),Clorur de plom(IV),,sales binarias,8,2,l5e6165_ac30_ap1,4,
+917,PbF4_sys1,PbF4,prefijos,Tetrafluoruro de plomo,Tetrafluorur de plom,Berun tetrafluouroa,sales binarias,8,1,l1h63ex_pg1_ap2,3,falta NOX
+919,PbH4_sys1,PbH4,prefijos,Tetrahidruro de plomo,Tetrahidrur de plom,,hidruros metálicos,2,1,l5e6165_ac9_ap2,4,
+921,PbH4_sys2,PbH4,números ox,Hidruro de plomo(IV),Hidrur de plom(IV),Berun(IV) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2,3,
+923,PbI2_sys1,PbI2,prefijos,Diyoduro de plomo,Diiodur de plom,Berun diioduroa,sales binarias,8,1,l5e6165_ac38_ap2,3|4,falta NOX
+925,PbI4_sys1,PbI4,prefijos,Tetrayoduro de plomo,Tetraiodur de plom,,sales binarias,8,1,l5e6165_ac29_ap1,4,
+927,PbI4_sys2,PbI4,números ox,Yoduro de plomo(IV),Iodur de plom(IV),Berun(IV) ioduroa,sales binarias,8,2,l5e6164_ac6_ap2,3,
+929,PbO_sys1,PbO,prefijos,Monóxido de plomo,Monòxid de plom,Berun monoxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap2|l5e6164_ac39_ap1|l5e6165_ac38_ap1,3|4,falta NOX
+931,PbO2_sys1,PbO2,prefijos,Dióxido de plomo,Diòxid de plom,,óxidos metálicos,4,1,l5e6165_ac17_ap2,4,
+933,PbO2_sys2,PbO2,números ox,Óxido de plomo(IV),Òxid de plom(IV),Berun(IV) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap1|l5e6165_ac39_ap1|l5e6165_ac18_ap2,3|4,
+935,PBr3_sys1,PBr3,prefijos,Tribromuro de fósforo,Tribromur de fòsfor,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap1,4,
+937,PBr3_sys2,PBr3,números ox,Bromuro de fósforo(III),Bromur de fòsfor(III),Fosforo(III) bromuroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2,3,
+939,PbS2_sys1,PbS2,prefijos,Disulfuro de plomo,Disulfur de plom,Berun disulfuroa,sales binarias,8,1,l5e6164_ac5_ap1,3,
+941,PbS2_sys2,PbS2,números ox,Sulfuro de plomo(IV),Sulfur de plom(IV),,sales binarias,8,2,l5e6165_ac30_ap2,4,
+943,PCl3_sys1,PCl3,prefijos,Tricloruro de fósforo,Triclorur de fòsfor,Fosforo trikloruroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2|l5e6165_ac25_ap2,3|4,
+945,PCl3_sys2,PCl3,números ox,Cloruro de fósforo(III),Clorur de fòsfor(III),Fosforo(III) kloruroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1|l5e6165_ac26_ap1,3|4,
+947,PCl5_sys1,PCl5,prefijos,Pentacloruro de fósforo,Pentaclorur de fòsfor,Fosforo pentakloruroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1,3,
+949,PCl5_sys2,PCl5,números ox,Cloruro de fósforo(V),Clorur de fòsfor(V),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap2,4,
+951,Pd(OH)2_sys1,Pd(OH)2,prefijos,Dihidróxido de paladio,Dihidròxid de pal·ladi,Paladio dihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2|l5e6165_ac36_ap2,3|4,
+953,Pd(OH)2_sys2,Pd(OH)2,números ox,Hidróxido de paladio(II),Hidròxid de pal·ladi(II),Paladio(II) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1|l5e6165_ac37_ap1,3|4,
+955,PdF4_sys1,PdF4,prefijos,Tetrafluoruro de paladio,Tetrafluorur de pal·ladi,Paladio tetrafluoruroa,sales binarias,8,1,l5e6165_ac38_ap2,3|4,falta NOX
+957,PdH4_sys2,PdH4,números ox,Hidruro de paladio(IV),Hidrur de pal·ladi(IV),Paladio(IV) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2|l5e6165_ac10_ap2,3|4,falta PRE
+959,PdO_sys2,PdO,números ox,Óxido de paladio(II),Òxid de pal·ladi(II),Paladio(II) oxidoa,óxidos metálicos,4,2,l1h63ex_pg6_ap2,3,falta PRE
+961,PdS_sys1,PdS,prefijos,Sulfuro de paladio,Sulfur de pal·ladi,,sales binarias,8,1,l5e6165_ac29_ap1,4,
+963,PdS_sys2,PdS,números ox,Sulfuro de paladio(II),Sulfur de pal·ladi(II),Paladio(II) sulfuroa,sales binarias,8,2,l5e6164_ac6_ap2,3,
+965,PF3_sys2,PF3,números ox,Fluoruro de fósforo(III),Fluorur de fòsfor(III),Fosforo(III) fluoruroa,compuestos covalentes no metálicos,7,2,l5e6165_ac39_ap1,3|4,falta PRE
+967,PF5_sys1,PF5,prefijos,Pentafluoruro de fósforo,Pentafluorur de fòsfor,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap2,4,
+969,PF5_sys2,PF5,números ox,Fluoruro de fósforo(V),Fluorur de fòsfor(V),Fosforo(V) fluoruroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1|l1h63ex_pg2_ap3,3,
+971,PI5_sys1,PI5,prefijos,Pentayoduro de fósforo,Pentaiodur de fòsfor,Fosforo pentaioduroa,compuestos covalentes no metálicos,7,1,l5e6165_ac38_ap2,3|4,falta NOX
+973,Pt(OH)4_sys1,Pt(OH)4,prefijos,Tetrahidróxido de platino,Tetrahidròxid de platí,,hidróxidos,10,1,l5e6165_ac36_ap2,4,
+975,Pt(OH)4_sys2,Pt(OH)4,números ox,Hidróxido de platino(IV),Hidròxid de platí(IV),Platino(IV) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1,3,
+977,PtH2_sys2,PtH2,números ox,Hidruro de platino(II),Hidrur de platí(II),Platino(II) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,falta PRE
+979,PtH4_sys1,PtH4,prefijos,Tetrahidruro de platino,Tetrahidrur de platí,Platino tetrahidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1|l5e6165_ac9_ap1,3|4,falta NOX
+981,PtI4_sys2,PtI4,números ox,Yoduro de platino(IV),Iodur de platí(IV),,sales binarias,8,2,l1h63dx_pg5_ap2,4,falta PRE
+983,PtO_sys2,PtO,números ox,Óxido de platino(II),Òxid de platí(II),Platino(II) oxidoa,óxidos metálicos,4,2,l1h63ex_pg2_ap3,3,falta PRE
+985,PtO2_sys1,PtO2,prefijos,Dióxido de platino,Diòxid de platí,Platino dioxidoa,óxidos metálicos,4,1,l5e6164_ac56_ap2|l5e6165_ac17_ap1|l5e6165_ac33_ap1,3|4,
+987,PtO2_sys2,PtO2,números ox,Óxido de platino(IV)|Peróxido de platino(II),Òxid de platí(IV)|Peròxid de platí(II),Platino(IV) oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2|l5e6165_ac18_ap1|l5e6165_ac34_ap1,3|4,
+989,PtSe2_sys1,PtSe2,prefijos,Diselenuro de platino|Diseleniuro de platino,Diselenur de platí,,sales binarias,8,1,l5e6165_ac29_ap1,4,
+991,PtSe2_sys2,PtSe2,números ox,Seleniuro de platino(IV),Selenur de platí(IV),Platino(IV) selenuroa,sales binarias,8,2,l5e6164_ac6_ap2,3,
+993,Ra(OH)2_sys1,Ra(OH)2,prefijos,Dihidróxido de radio,Dihidròxid de radi,Radio dihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2,3,
+995,Ra(OH)2_sys2,Ra(OH)2,números ox,Hidróxido de radio,Hidròxid de radi,,hidróxidos,10,2,l5e6165_ac37_ap1,4,
+997,RaO_sys1,RaO,prefijos,Óxido de radio,Òxid de radi,Radio oxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap2,3,falta NOX
+999,RaO2_sys1,RaO2,prefijos,Dióxido de radio,Diòxid de radi,Radio dioxidoa,peróxidos,9,1,l5e6164_ac56_ap2|l5e6165_ac33_ap2,3|4,
+1001,RaO2_sys2,RaO2,números ox,Peróxido de radio,Peròxid de radi,Radio peroxidoa,peróxidos,9,2,l5e6164_ac57_ap1|l5e6165_ac34_ap1,3|4,
+1003,Rb2O_sys1,Rb2O,prefijos,Óxido de dirubidio|Monóxido de dirubidio,Òxid de dirubidi|Monòxid de dirubidi,,óxidos metálicos,4,1,l5e6165_ac17_ap1,4,
+1005,Rb2O_sys2,Rb2O,números ox,Óxido de rubidio,Òxid de rubidi,Rubidio oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2|l5e6165_ac18_ap1,3|4,
+1007,Rb2O2_sys1,Rb2O2,prefijos,Dióxido de dirubidio,Diòxid de dirubidi,,peróxidos,9,1,l5e6165_ac33_ap2,4,
+1009,Rb2O2_sys2,Rb2O2,números ox,Peróxido de rubidio,Peròxid de rubidi,Rubidio peroxidoa,peróxidos,9,2,l5e6164_ac57_ap1|l1h63dx_pg5_ap1,3|4,
+1011,RbBr_sys1,RbBr,prefijos,Bromuro de rubidio,Bromur de rubidi,,sales binarias,8,1,l5e6165_ac29_ap1,4,
+1013,RbBr_sys2,RbBr,números ox,Bromuro de rubidio,Bromur de rubidi,Rubidio bromuroa,sales binarias,8,2,l5e6164_ac6_ap2,3,
+1015,RbH_sys2,RbH,números ox,Hidruro de rubidio,Hidrur de rubidi,Rubidio hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2|l5e6165_ac10_ap2,3|4,falta PRE
+1017,S6_sys1,S6,prefijos,Hexaazufre,Hexasofre,Hexasufrea,sustancias elementales,1,1,l5e6164_ac37_ap1|l5e6165_ac5_ap2,3|4,falta NOX*
+1019,S8_sys1,S8,prefijos,Octaazufre,Octasofre|Octosofre,Oktasufrea,sustancias elementales,1,1,l5e6164_ac37_ap2|l5e6165_ac5_ap1|l1h63dx_pg4_ap2,3|4,
+1021,S8_sys2,S8,números ox,Azufre,Sofre,Sufrea,sustancias elementales,1,2,l5e6164_ac38_ap1,3,ALERTA
+1023,Sb2O3_sys2,Sb2O3,números ox,Óxido de antimonio(III),Òxid d'antimoni(III),Antimonio(III) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap2,3|4,falta PRE
+1025,Sb2O5_sys1,Sb2O5,prefijos,Pentaóxido de diantimonio,Pentaòxid de diantimoni,Diantimonio pentaoxidoa,óxidos no metálicos,4,1,l5e6164_ac17_ap2|l5e6165_ac21_ap2,3|4,
+1027,Sb2O5_sys2,Sb2O5,números ox,Óxido de antimonio(V),Òxid d'antimoni(V),Antimonio(V) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1|l1h63ex_pg6_ap2|l5e6165_ac18_ap1,3|4,
+1029,SbCl5_sys1,SbCl5,prefijos,Pentacloruro de antimonio,Pentaclorur d'antimoni,,compuestos covalentes no metálicos,7,1,l1h63dx_pg4_ap2,4,falta NOX
+1031,SbH5_sys2,SbH5,números ox,Hidruro de antimonio(V),Hidrur d'antimoni(V),Antimonio(V) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,falta PRE
+1033,SBr6_sys1,SBr6,prefijos,Hexabromuro de azufre,Hexabromur de sofre,Sufre hexabromuroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2,3,
+1035,SBr6_sys2,SBr6,números ox,Bromuro de azufre(VI),Bromur de sofre(VI),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap1,4,
+1037,Sc(OH)3_sys1,Sc(OH)3,prefijos,Trihidróxido de escandio,Trihidròxid d'escandi,,hidróxidos,10,1,l5e6165_ac36_ap1,4,
+1039,Sc(OH)3_sys2,Sc(OH)3,números ox,Hidróxido de escandio,Hidròxid d'escandi,Eskandio hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2,3,
+1041,ScH3_sys1,ScH3,prefijos,Trihidruro de escandio,Trihidrur d'escandi,Eskandio trihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1,3,
+1043,ScH3_sys2,ScH3,números ox,Hidruro de escandio,Hidrur d'escandi,Eskandio hidruroa,hidruros metálicos,2,2,l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,
+1045,SCl4_sys1,SCl4,prefijos,Tetracloruro de azufre,Tetraclorur de sofre,Sufre tetrakloruroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2|l5e6165_ac25_ap2,3|4,
+1047,SCl4_sys2,SCl4,números ox,Cloruro de azufre(IV),Clorur de sofre(IV),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap1,4,
+1049,SCl6_sys2,SCl6,números ox,Cloruro de azufre(VI),Clorur de sofre(VI),Sufre(VI) kloruroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap1,3,falta PRE
+1051,SeBr4_sys1,SeBr4,prefijos,Tetrabromuro de selenio,Tetrabromur de seleni,Selenio tetrabromuroa,compuestos covalentes no metálicos,7,1,l1h63ex_pg1_ap2,3,falta NOX
+1053,SeCl4_sys1,SeCl4,prefijos,Tetracloruro de selenio,Tetraclorur de seleni,Selenio tetrakloruroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap2|l1h63dx_pg4_ap1,3|4,
+1055,SeCl4_sys2,SeCl4,números ox,Cloruro de selenio(IV),Clorur de seleni(IV),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap1,4,
+1057,SeCl6_sys1,SeCl6,prefijos,Hexacloruro de selenio,Hexaclorur de seleni,Selenio hexakloruroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1|l5e6165_ac25_ap1,3|4,
+1059,SeCl6_sys2,SeCl6,números ox,Cloruro de selenio(VI),Clorur de seleni(VI),Selenio(VI) kloruroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2|l5e6165_ac26_ap2,3|4,
+1061,SeO_sys2,SeO,números ox,Óxido de selenio(II),Òxid de seleni(II),Selenio(II) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap2,3|4,falta PRE
+1063,SeO2_sys1,SeO2,prefijos,Dióxido de selenio,Diòxid de seleni,Selenio dioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1,3|4,
+1065,SeO2_sys2,SeO2,números ox,Óxido de selenio(IV),Òxid de seleni(IV),Selenio(IV) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1,3|4,
+1067,SeO3_sys1,SeO3,prefijos,Trióxido de selenio,Triòxid de seleni,Selenio trioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap2,3|4,
+1069,SeO3_sys2,SeO3,números ox,Óxido de selenio(VI),Òxid de seleni(VI),Selenio(VI) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1,3|4,
+1071,SF6_sys1,SF6,prefijos,Hexafluoruro de azufre,Hexafluorur de sofre,Sufre hexafluoruroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1,3,
+1073,SF6_sys2,SF6,números ox,Fluoruro de azufre(VI),Fluorur de sofre(VI),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap2,4,
+1075,SI4_sys1,SI4,prefijos,Tetrayoduro de azufre,Tetraiodur de sofre,Sufre tetraioduroa,compuestos covalentes no metálicos,7,1,l5e6164_ac13_ap1,3,
+1077,SI4_sys2,SI4,números ox,Yoduro de azufre(IV),Iodur de sofre(IV),,compuestos covalentes no metálicos,7,2,l5e6165_ac26_ap2,4,
+1079,SI6_sys1,SI6,prefijos,Hexayoduro de azufre,Hexaiodur de sofre,,compuestos covalentes no metálicos,7,1,l5e6165_ac25_ap1,4,
+1081,SI6_sys2,SI6,números ox,Yoduro de azufre(VI),Iodur de sofre(VI),Sufre(VI) ioduroa,compuestos covalentes no metálicos,7,2,l5e6164_ac14_ap2,3,
+1083,SiCl4_sys1,SiCl4,prefijos,Tetracloruro de silicio,Tetraclorur de silici,Silizio tetrakloruroa,compuestos covalentes no metálicos,7,1,l1h63ex_pg5_ap2,3,falta NOX
+1085,SiH4_sys1,SiH4,prefijos,Tetrahidruro de silicio,Tetrahidrur de silici,,hidruros metálicos,2,1,l5e6165_ac9_ap2,4,falta NOX
+1087,SiO2_sys1,SiO2,prefijos,Dióxido de silicio,Diòxid de silici,Silizio dioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap2,3|4,
+1089,SiO2_sys2,SiO2,números ox,Óxido de silicio,Òxid de silici,Silizio oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1,3|4,
+1091,Sn(ClO)2_sys3,Sn(ClO)2,tradicional,Hipoclorito de estaño(II),Hipoclorit d'estany(II),,oxosales,13,3,l5e6164_ac48_ap1,4,
+1093,Sn(ClO)2_sys4,Sn(ClO)2,sistemática,Bis(oxidoclorato) de estaño,Bis(oxidoclorat) d'estany|Bis(oxidclorat) d'estany,,oxosales,13,4,l5e6164_ac49_ap1,4,
+1095,Sn(OH)2_sys1,Sn(OH)2,prefijos,Dihidróxido de estaño,Dihidròxid d'estany,Eztainu dihidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap1|l5e6165_ac36_ap1,3|4,
+1097,Sn(OH)2_sys2,Sn(OH)2,números ox,Hidróxido de estaño(II),Hidròxid d'estany(II),Eztainu(II) hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2|l5e6165_ac37_ap2,3|4,
+1099,SnF4_sys1,SnF4,prefijos,Tetrafluoruro de estaño,Tetrafluorur d'estany,Eztainu tetrafluoruroa,sales binarias,8,1,l5e6164_ac5_ap1,3,
+1101,SnF4_sys2,SnF4,números ox,Fluoruro de estaño(IV),Fluorur d'estany(IV),,sales binarias,8,2,l5e6165_ac30_ap2,4,
+1103,SnH2_sys2,SnH2,números ox,Hidruro de estaño(II),Hidrur d'estany(II),Eztainu(II) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2,3,falta PRE
+1105,SnH4_sys1,SnH4,prefijos,Tetrahidruro de estaño,Tetrahidrur d'estany,Eztainu tetrahidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1|l5e6164_ac39_ap1|l5e6165_ac9_ap1|l5e6165_ac38_ap1,3|4,falta NOX
+1107,SnO2_sys1,SnO2,prefijos,Dióxido de estaño,Diòxid d'estany,Eztainu dioxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap2,3,
+1109,SnO2_sys2,SnO2,números ox,Óxido de estaño(IV),Òxid d'estany(IV),Eztainu(IV) oxidoa,óxidos metálicos,4,2,l5e6164_ac40_ap2|l5e6165_ac39_ap2,3|4,
+1111,SO2_sys1,SO2,prefijos,Dióxido de azufre,Diòxid de sofre,Sufre dioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap2|l5e6165_ac38_ap2,3|4,
+1113,SO2_sys2,SO2,números ox,Óxido de azufre(IV),Òxid de sofre(IV),Sufre(IV) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap2|l5e6165_ac39_ap1|l1h63ex_pg2_ap3,3|4,
+1115,SO3_sys1,SO3,prefijos,Trióxido de azufre,Triòxid de sofre,Sufre trioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1|l5e6164_ac39_ap1|l1h63ex_pg1_ap2,3|4,
+1117,SO3_sys2,SO3,números ox,Óxido de azufre(VI),Òxid de sofre(VI),Sufre(VI) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1|l5e6165_ac22_ap2,3|4,
+1119,Sr(OH)2_sys1,Sr(OH)2,prefijos,Dihidróxido de estroncio,Dihidròxid d'estronci,,hidróxidos,10,1,l5e6165_ac36_ap1,4,
+1121,Sr(OH)2_sys2,Sr(OH)2,números ox,Hidróxido de estroncio,Hidròxid d'estronci,Estrontzio hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap2,3,
+1123,SrO2_sys2,SrO2,números ox,Peróxido de estroncio,Peròxid d'estronci,Estrontzio peroxidoa,peróxidos,9,2,l1h63ex_pg2_ap3,3,falta PRE
+1125,SrF2_sys1,SrF2,prefijos,Difluoruro de estroncio,Difluorur d'estronci,Estrontzio difluoruroa,sales binarias,8,1,l5e6164_ac5_ap2,3,falta NOX
+1127,SrH2_sys1,SrH2,prefijos,Dihidruro de estroncio,Dihidrur d'estronci,Estrontzio trihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1,3,
+1129,SrH2_sys2,SrH2,números ox,Hidruro de estroncio,Hidrur d'estronci,,hidruros metálicos,2,2,l5e6165_ac10_ap1,4,
+1131,SrO_sys1,SrO,prefijos,Óxido de estroncio|Monóxido de estroncio,Òxid d'estronci|Monòxid d'estronci,Estrontzio oxidoa|Estrontzio monoxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1|l5e6165_ac17_ap2,3|4,
+1133,SrO_sys2,SrO,números ox,Óxido de estroncio,Òxid d'estronci,,óxidos metálicos,4,2,l5e6165_ac18_ap1,4,
+1135,SrSe_sys1,SrSe,prefijos,Selenuro de estroncio,Selenur d'estronci,Estrontzio selenuroa,sales binarias,8,1,l5e6164_ac5_ap2,3,
+1137,SrSe_sys2,SrSe,números ox,Selenuro de estroncio|Seleniuro de estroncio,Selenur d'estronci,,sales binarias,8,2,l5e6165_ac30_ap1,4,
+1139,TcH6_sys2,TcH6,números ox,Hidruro de tecnecio(VI),Hidrur de tecneci(VI),,hidruros metálicos,2,2,l1h63dx_pg5_ap1,4,falta PRE
+1141,TeO2_sys1,TeO2,prefijos,Dióxido de telurio,Diòxid de tel·luri,Telurio dioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap2,3|4,
+1143,TeO2_sys2,TeO2,números ox,Óxido de telurio(IV),Òxid de tel·luri(IV),Telurio(IV) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap2,3|4,
+1145,TeO3_sys1,TeO3,prefijos,Trióxido de telurio,Triòxid de tel·luri,Telurio trioxidoa,óxidos no metálicos,5,1,l5e6165_ac21_ap1|l1h63dx_pg4_ap2,3|4,
+1147,TeO3_sys2,TeO3,números ox,Óxido de telurio(VI),Òxid de tel·luri(VI),Telurio(VI) oxidoa,óxidos no metálicos,5,2,l5e6165_ac22_ap1|l5e6165_ac22_ap2,3|4,
+1149,Ti(OH)4_sys1,Ti(OH)4,prefijos,Tetrahidróxido de titanio,Tetrahidròxid de titani,Titanio tetrahidroxidoa,hidróxidos,10,1,l5e6164_ac33_ap2,3,
+1151,Ti(OH)4_sys2,Ti(OH)4,números ox,Hidróxido de titanio(IV),Hidròxid de titani(IV),,hidróxidos,10,2,l5e6165_ac37_ap1,4,
+1153,Ti2(O2)3_sys2,Ti2(O2)3,números ox,Peróxido de titanio(III),Peròxid de titani(III),Titanio(III) peroxidoa,peróxidos,9,2,l1h63ex_pg6_ap2,3,falta PRE*
+1155,Ti2O3_sys1,Ti2O3,prefijos,Trióxido de dititanio,Triòxid de dititani,Dititanio trioxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap2,3,falta NOX
+1157,TiH3_sys1,TiH3,prefijos,Trihidruro de titanio,Trihidrur de titani,Titanio trihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1,3,
+1159,TiH3_sys2,TiH3,números ox,Hidruro de titanio(III),Hidrur de titani(III),,hidruros metálicos,2,2,l5e6165_ac10_ap1,4,
+1161,TiH4_sys1,TiH4,prefijos,Tetrahidruro de titanio,Tetrahidrur de titani,Titanio tetrahidruroa,hidruros metálicos,2,1,l5e6165_ac38_ap2,3|4,
+1163,TiH4_sys2,TiH4,números ox,Hidruro de titanio(IV),Hidrur de titani(IV),Titanio(IV) hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap2|l1h63dx_pg5_ap2,3|4,
+1165,TiO2_sys1,TiO2,prefijos,Dióxido de titanio,Diòxid de titani,Titanio dioxidoa,óxidos metálicos,4,1,l5e6164_ac17_ap1,3,
+1167,TiO2_sys2,TiO2,números ox,Óxido de titanio(IV),Òxid de titani(IV),,óxidos metálicos,4,2,l5e6165_ac18_ap2,4,
+1169,VH2_sys1,VH2,prefijos,Dihidruro de vanadio,Dihidrur de vanadi,,hidruros metálicos,2,1,l5e6165_ac9_ap2,4,
+1171,VH2_sys2,VH2,números ox,Hidruro de vanadio(II),Hidrur de vanadi(II),,hidruros metálicos,2,2,l5e6165_ac10_ap1,4,
+1173,VH3_sys2,VH3,números ox,Hidruro de vanadio(III),Hidrur de vanadi(III),,hidruros metálicos,2,2,l5e6165_ac10_ap2,4,falta PRE
+1175,VH4_sys1,VH4,prefijos,Tetrahidruro de vanadio,Tetrahidrur de vanadi,Banadio tetrahidruroa,hidruros metálicos,2,1,l1h63ex_pg1_ap2,3,falta NOX
+1177,Zn_sys2,Zn,números ox,Zinc,Zinc,Zinka,sustancias elementales,1,2,l5e6164_ac38_ap2,3,falta PRE*
+1179,Zn(ClO2)2_sys4,Zn(ClO2)2,sistemática,Bis(dioxidoclorato) de cinc,Bis(dioxidoclorat) de zinc,,oxosales,13,4,l5e6164_ac49_ap2,4,falta TRA
+1181,Zn(HSO4)2_sys3,Zn(HSO4)2,tradicional,Hidrogenosulfato de cinc,Hidrogensulfat de zinc,,oxosales ácidas,14,3,l5e6164_ac52_ap2,4,falta SIS
+1183,Zn(OH)2_sys1,Zn(OH)2,prefijos,Dihidróxido de zinc,Dihidròxid de zinc,,hidróxidos,10,1,l5e6165_ac36_ap2,4,
+1185,Zn(OH)2_sys2,Zn(OH)2,números ox,Hidróxido de zinc|Hidróxido de cinc,Hidròxid de zinc,Zink hidroxidoa,hidróxidos,10,2,l5e6164_ac34_ap1|l1h63dx_pg5_ap2,3|4,
+1187,Zn3(PO4)2_sys3,Zn3(PO4)2,tradicional,Fosfato de cinc,Fosfat de zinc,,oxosales,13,3,l5e6164_ac48_ap2,4,falta SIS
+1189,ZnCl2_sys1,ZnCl2,prefijos,Dicloruro de zinc,Diclorur de zinc,,sales binarias,8,1,l5e6165_ac29_ap2,4,
+1191,ZnCl2_sys2,ZnCl2,números ox,Cloruro de cinc|Cloruro de zinc,Clorur de zinc,Zink kloruroa,sales binarias,8,2,l5e6164_ac6_ap1,3,
+1193,ZnH2_sys1,ZnH2,prefijos,Dihidruro de zinc|Dihidruro de cinc,Dihidrur de zinc,Zink dihidruroa,hidruros metálicos,2,1,l5e6164_ac25_ap1|l5e6165_ac9_ap1,3|4,
+1195,ZnH2_sys2,ZnH2,números ox,Hidruro de zinc|Hidruro de cinc,Hidrur de zinc,Zink hidruroa,hidruros metálicos,2,2,l5e6164_ac26_ap1,3,
+1197,ZnI2_sys1,ZnI2,prefijos,Diyoduro de cinc|Diyoduro de zinc,Diiodur de zinc,Zink diioduroa,sales binarias,8,1,l5e6164_ac5_ap1,3,
+1199,ZnI2_sys2,ZnI2,números ox,Yoduro de zinc,Iodur de zinc,,sales binarias,8,2,l5e6165_ac30_ap2,4,
+1201,ZnO_sys1,ZnO,prefijos,Óxido de zinc|Óxido de cinc|Monóxido de zinc|Monóxido de cinc,Òxid de zinc|Monòxid de zinc,,óxidos metálicos,4,1,l5e6165_ac17_ap1,4,
+1203,ZnO_sys2,ZnO,números ox,Óxido de zinc,Òxid de zinc,Zink oxidoa,óxidos metálicos,4,2,l5e6164_ac18_ap2,3,
+1205,ZnO2_sys1,ZnO2,prefijos,Dióxido de cinc|Dióxido de zinc,Diòxid de zinc,Zink dioxidoa,peróxidos,9,1,l5e6164_ac56_ap2|l5e6165_ac33_ap1,3|4,
+1207,ZnO2_sys2,ZnO2,números ox,Peróxido de zinc|Peróxido de cinc,Peròxid de zinc,Zink peroxidoa,peróxidos,9,2,l5e6164_ac57_ap2|l5e6165_ac34_ap1,3|4,

@@ -61,6 +61,8 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING
+* Posar exemples cada vegada que se seleccione un tipus de substància
+    * Afagar-los del full de substàncies
 
 
 ## DOCS
