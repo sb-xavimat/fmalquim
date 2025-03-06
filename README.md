@@ -31,7 +31,6 @@ Segona versió, a partir de les instruccions d'Albert.
 
 * En chemhelp, revisar si cal contraure pentaòxid a pentòxid en ES i CA.
 
-* Ampliar la llibreria per generar les taules d'info.
 
 * Memoizatzió de getHelpCard
 * Es podrien fer funcions específiques que només obtenen les fórmules i els noms complets.
@@ -61,8 +60,7 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING
-* Posar exemples cada vegada que se seleccione un tipus de substància
-    * Afagar-los del full de substàncies
+* Ampliar la llibreria per generar les taules d'info.
 
 
 ## DOCS
@@ -186,6 +184,8 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         * 10. Hidròxids
 * Usar `esbuildjs` per a fer el build del projecte.
     * Usar iiefe i global-name per crear un objecte que pot posar-se en una llibreria carregada pel fla, o dins del mateix fla (i així no contamina l'espai global).
+* Posar exemples cada vegada que se seleccione un tipus de substància
+    * Afagar-los del full de substàncies
 
 ### 2025-02-06
 * Corregir el guionet suau de -uro/-ur a guionet de no separació.

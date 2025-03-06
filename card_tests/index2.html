@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemical Explanation Card</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background: linear-gradient(to right, #e3f2fd, #bbdefb);
+        }
+        .card {
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            width: 395px;
+            text-align: center;
+        }
+        .title {
+            font-size: 26px;
+            font-weight: bold;
+            margin-bottom: 18px;
+            color: #0d47a1;
+            text-transform: uppercase;
+        }
+        .step {
+            display: flex;
+            align-items: center;
+            padding: 10px 0;
+            font-size: 18px;
+            border-bottom: 1px solid #ccc;
+        }
+        .step:last-child {
+            border-bottom: none;
+        }
+        .left {
+            font-weight: bold;
+            min-width: 200px;
+            text-align: right;
+            padding-right: 20px;
+        }
+        .explanation {
+            text-align: left;
+            flex-grow: 1;
+        }
+        .highlight {
+            font-size: 28px;
+            font-weight: bold;
+            margin-top: 18px;
+            color: #b71c1c;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        .left span {
+            font-weight: bold;
+        }
+        .red { color: red; }
+        .grey { color: grey; }
+        .green { color: green; }
+        .orange { color: orange; }
+        .lightGreen { color: lightgreen; }
+        .sub { font-size: 14px; vertical-align: sub; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <div class="title">es-9-PRE-FN</div>
+
+        <div class="step">
+            <span class="left">
+                <span class="green">H</span><span class="lightGreen sub">2</span><span class="red">O</span><span class="orange sub">2</span>
+            </span>
+            <span class="explanation"></span>
+        </div>
+        <div class="step">
+            <span class="left"><span class="orange">di</span></span>
+            <span class="explanation">Prefijo correspondiente al subíndice del oxígeno</span>
+        </div>
+        <div class="step">
+            <span class="left"><span class="orange">di</span><span class="red">óxido</span><span class="grey"> de </span></span>
+            <span class="explanation">_óxido + de_</span>
+        </div>
+        <div class="step">
+            <span class="left"><span class="orange">di</span><span class="red">óxido</span><span class="grey"> de </span><span class="lightGreen">di</span></span>
+            <span class="explanation">Prefijo correspondiente al subíndice del otro elemento</span>
+        </div>
+        <div class="step">
+            <span class="left"><span class="orange">di</span><span class="red">óxido</span><span class="grey"> de </span><span class="lightGreen">di</span><span class="green">hidrógeno</span></span>
+            <span class="explanation">Nombre del otro elemento</span>
+        </div>
+    </div>
+</body>
+</html>

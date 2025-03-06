@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chemical Card</title>
+  <style>
+    .chemical-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 8px; /* Slightly more rounded corners */
+      padding: 20px; /* Slightly more padding */
+      margin-bottom: 20px; /* Slightly more margin */
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08); /* More subtle shadow */
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern font stack */
+      font-size: 1em; /* Slightly larger base font size */
+      color: #333;
+      background-color: #fff; /* White background */
+      overflow: hidden; /* To contain floated elements if any */
+    }
+
+    .card-title {
+      font-size: 1.3em; /* Slightly larger title font size */
+      margin-bottom: 15px; /* More margin below title */
+      text-align: center;
+      font-weight: 600; /* Slightly bolder title */
+      color: #424242; /* Darker title color */
+    }
+
+    .card-steps {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      gap: 12px; /* Increased gap between columns */
+      margin-bottom: 15px; /* More margin below steps */
+      padding-left: 10px; /* Add some left padding to steps */
+      padding-right: 10px; /* Add some right padding to steps */
+    }
+
+    .step-line {
+      display: contents;
+      margin-bottom: 8px; /* Increased margin between step lines */
+    }
+
+    .step-formula, .step-name {
+      text-align: right; /* Reverted to right-align for formula column for better visual separation */
+      padding-right: 15px; /* Increased padding to right */
+      grid-column: 1;
+      white-space: pre;
+      font-weight: 500; /* Slightly bolder formula/name text */
+    }
+
+    .step-explanation {
+      text-align: left;
+      color: #555;
+      grid-column: 2;
+      white-space: pre-line; /* Use pre-line to wrap explanations if needed */
+    }
+
+    .card-result {
+      font-size: 1.2em;
+      font-weight: bold;
+      text-align: center;
+      padding-top: 12px; /* Increased padding above result */
+      border-top: 1px solid #e0e0e0; /* Solid, lighter border */
+      color: #333; /* Darker result color */
+      margin-top: 10px; /* Add margin above result border */
+    }
+
+    .colored-part {
+      display: inline-block;
+    }
+
+    .subscript {
+      font-size: 0.75em; /* Slightly larger subscript */
+      vertical-align: sub;
+    }
+
+    /* Refined colors */
+    .color-green { color: #2E7D32; }       /* Darker, more professional green */
+    .color-lightGreen { color: #558B2F; }  /* Darker light green */
+    .color-red { color: #C62828; }         /* Darker, richer red */
+    .color-orange { color: #EF6C00; }      /* Darker, more vibrant orange */
+    .color-grey { color: #757575; }        /* Medium grey */
+
+  </style>
+</head>
+<body>
+
+  <div class="chemical-card">
+    <div class="card-title"></div>
+    <div class="card-steps"></div>
+    <div class="card-result"></div>
+  </div>
+
+  <script>
+    const cardDataInput = {
+        "title": "es-9-PRE-FN",
+        "lines": [
+            {
+                "left": [
+                    {
+                        "text": "H",
+                        "color": "green"
+                    },
+                    {
+                        "text": "2",
+                        "color": "lightGreen"
+                    },
+                    {
+                        "text": "O",
+                        "color": "red"
+                    },
+                    {
+                        "text": "2",
+                        "color": "orange"
+                    }
+                ],
+                "right": ""
+            },
+            {
+                "left": [
+                    {
+                        "text": "di",
+                        "color": "orange"
+                    }
+                ],
+                "right": "Prefijo correspondiente al subíndice del oxígeno"
+            },
+            {
+                "left": [
+                    {
+                        "text": "di",
+                        "color": "orange"
+                    },
+                    {
+                        "text": "óxido",
+                        "color": "red"
+                    },
+                    {
+                        "text": " de ",
+                        "color": "grey"
+                    }
+                ],
+                "right": "_óxido + de_"
+            },
+            {
+                "left": [
+                    {
+                        "text": "di",
+                        "color": "orange"
+                    },
+                    {
+                        "text": "óxido",
+                        "color": "red"
+                    },
+                    {
+                        "text": " de ",
+                        "color": "grey"
+                    },
+                    {
+                        "text": "di",
+                        "color": "lightGreen"
+                    }
+                ],
+                "right": "Prefijo correspondiente al subíndice del otro elemento"
+            },
+            {
+                "left": [
+                    {
+                        "text": "di",
+                        "color": "orange"
+                    },
+                    {
+                        "text": "óxido",
+                        "color": "red"
+                    },
+                    {
+                        "text": " de ",
+                        "color": "grey"
+                    },
+                    {
+                        "text": "di",
+                        "color": "lightGreen"
+                    },
+                    {
+                        "text": "hidrógeno",
+                        "color": "green"
+                    }
+                ],
+                "right": "Nombre del otro elemento"
+            }
+        ]
+    };
+
+    function createChemicalCard(cardData, cardElement) {
+      // Title
+      const titleDiv = cardElement.querySelector('.card-title');
+      titleDiv.textContent = cardData.title;
+
+      // Steps
+      const stepsDiv = cardElement.querySelector('.card-steps');
+      stepsDiv.innerHTML = '';
+      cardData.lines.forEach(line => {
+        const stepLine = document.createElement('div');
+        stepLine.classList.add('step-line');
+
+        const stepFormulaName = document.createElement('div');
+        stepFormulaName.classList.add('step-formula');
+
+        line.left.forEach(part => {
+          const spanElement = document.createElement('span'); // Create span for all parts
+          spanElement.classList.add('colored-part');
+          spanElement.style.color = part.color; // Apply color directly as before for simplicity
+
+          if (!isNaN(parseInt(part.text))) { // Check if text is a number
+              const subElement = document.createElement('sub'); // Create sub tag
+              subElement.textContent = part.text; // Set number text inside sub
+              if (part.color) {
+                subElement.classList.add(`color-${part.color}`); // Apply color class to sub element
+              }
+              stepFormulaName.appendChild(subElement); // Append sub to stepFormulaName
+          } else {
+              spanElement.textContent = part.text; // Set text content for non-numbers
+              stepFormulaName.appendChild(spanElement); // Append span to stepFormulaName
+              if (part.color) {
+                spanElement.classList.add(`color-${part.color}`); // Apply color class to span element
+              }
+          }
+        });
+        stepLine.appendChild(stepFormulaName);
+
+        const stepExplanation = document.createElement('div');
+        stepExplanation.classList.add('step-explanation');
+        stepExplanation.textContent = line.right;
+        stepLine.appendChild(stepExplanation);
+
+        stepsDiv.appendChild(stepLine);
+      });
+
+      // Result
+      const resultDiv = cardElement.querySelector('.card-result');
+      if (resultDiv) {
+        resultDiv.innerHTML = '';
+      }
+    }
+
+    const cardElement = document.querySelector('.chemical-card');
+    createChemicalCard(cardDataInput, cardElement);
+  </script>
+</body>
+</html>
