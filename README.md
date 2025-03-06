@@ -186,3 +186,6 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         * 10. Hidròxids
 * Usar `esbuildjs` per a fer el build del projecte.
     * Usar iiefe i global-name per crear un objecte que pot posar-se en una llibreria carregada pel fla, o dins del mateix fla (i així no contamina l'espai global).
+
+### 2025-02-06
+* Corregir el guionet suau de -uro/-ur a guionet de no separació.
