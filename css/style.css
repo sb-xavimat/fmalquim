@@ -72,3 +72,12 @@ tr:last-child td:first-child {
     background-color: inherit;
     /* background-color: #e0e0e0; */
 }
+
+.info-card {
+    width: 395px;
+    max-height: 540px;
+    padding: 1rem;
+    border: 1px solid #808080;
+    border-radius: 0.3rem;
+    overflow: hidden;
+}
