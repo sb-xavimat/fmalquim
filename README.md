@@ -189,3 +189,6 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 ### 2025-02-06
 * Corregir el guionet suau de -uro/-ur a guionet de no separació.
 * Ampliar la llibreria per generar les fitxes d'info, en compte de generar-les en app.js
+
+### 2025-02-07
+* Typo in help-es
