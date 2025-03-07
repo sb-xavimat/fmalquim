@@ -57,7 +57,7 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## TODO
-
+* Esborrar de 'help' tots els camps que no s'usen (només s'usa `steps`)
 
 ## DOING
 
