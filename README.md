@@ -192,3 +192,7 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 
 ### 2025-02-07
 * Typo in help-es
+* Llevar el border-radius en el contenidor principal de la targeta
+* Restucturar els arxius de la llibreria
+    * L'arxiu principal és massa gran
+    * crear un `index.js` que siga el punt d'entrada de la llibreria

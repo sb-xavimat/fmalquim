@@ -1,10 +1,13 @@
 "use strict";
+import { createHTMLCard, VERSION } from "../lib/index.js";
+
 // MARK: Elems
 // const inputDataBox = document.querySelector('#input-data');
 const mainBox = document.querySelector('main');
 const form = document.querySelector('form');
 const versionTag = document.querySelector('#version-tag');
 const examplesBox = document.querySelector('#examples');
+
 
 // MARK: GUI
 // function refreshInputData(data) {
@@ -49,7 +52,7 @@ function addCard(cardData) {
     // mainBox.innerHTML += buildCard(cardData);
 
     // NEW
-    const card = chemHelpLib.createHTMLCard(cardData);
+    const card = createHTMLCard(cardData);
     if (card?.error) { mainBox.appendChild(infoCard(card)); }
     else { mainBox.appendChild(card); }
 }
@@ -156,7 +159,7 @@ function gatherData(form) {
 // MARK: Inint
 function init() {
     form.oninput = (ev) => changeForm(ev, form);
-    versionTag.textContent = chemHelpLib.VERSION;
+    versionTag.textContent = VERSION;
     gatherData(form);
 }
 init();
