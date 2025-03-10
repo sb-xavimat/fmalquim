@@ -8,29 +8,9 @@ Segona versió, a partir de les instruccions d'Albert.
 
 * On escriure la info: "abans del paréntesis no hi ha cap espai".
 
-* Gran full de substàncies (preguntes)
-    * localitzar els noms que cal revisar:
-        * ES:
-            * zinc/cinc
-            * selenur/seleniuro
-            * pentaóxido/pentóxido
-            * penta + ?/ pent + ?
-            * quan "mono" és prescindible?
-            * wolframio/tungsteno
-            * en els hidròxids, és vàlid posar "monohidróxido"?
-
-        * CA:
-            * plata/argent
-            * pentaòxid/pentòxid
-            * penta + ?/ pent + ?
-            * quan "mono" és prescindible?
-            * wolframi/tungstè
-            * en els hidròxids, és vàlid posar "monohidròxid"?
-
-    * Revisar els noms que cal, completant els que falten.
-
 * En chemhelp, revisar si cal contraure pentaòxid a pentòxid en ES i CA.
-
+    * Pareix que no (segons un informe de la real societat española de química)
+    * https://fisquiweb.es/Formulacion/RSEQ/4-Errores.pdf
 
 * Memoizatzió de getHelpCard
 * Es podrien fer funcions específiques que només obtenen les fórmules i els noms complets.
