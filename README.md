@@ -40,6 +40,7 @@ Segona versió, a partir de les instruccions d'Albert.
 * Esborrar de 'help' tots els camps que no s'usen (només s'usa `steps`)
 
 ## DOING
+* Fer un nou mètode en la llibreria: getName.
 
 
 ## DOCS

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Get Name</title>
+</head>
+
+<body>
+  <div id="result">Loading...</div>
+  <script type="module">
+    import { getName } from './lib/index.js';
+    const urlParams = new URLSearchParams(window.location.search);
+    const lang = urlParams.get('lang');
+    const system = urlParams.get('system');
+    const kind = urlParams.get('kind');
+    const fmla = urlParams.get('fmla');
+
+    const result = document.getElementById('result');
+
+    if (!lang || !system || !kind || !fmla) {
+      let inn = 'Missing parameters<br>Example:<br>';
+      inn += '<a href="/name.html?lang=es&system=NOX&kind=5&fmla=N2O5">';
+      inn += '/name.html?lang=es&system=NOX&kind=5&fmla=N2O5</a>';
+      result.innerHTML = inn;
+      throw new Error('Missing parameters');
+    }
+
+    const name = getName({lang, system, kind, fmla});
+    result.innerHTML = name;
+  </script>
+</body>
+
+</html>
