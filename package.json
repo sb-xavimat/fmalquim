@@ -3,6 +3,7 @@
     "esbuild": "0.25.0"
   },
   "scripts": {
-    "build": "esbuild lib/index.js --bundle --minify --target=es6 --outfile=out/rec0000_pgchem_helplib.min.js --charset=utf8 --global-name=chemHelpLib"
+    "build": "esbuild lib/index.js --bundle --minify --target=es6 --outfile=out/rec0000_pgchem_helplib.min.js --charset=utf8 --global-name=chemHelpLib",
+    "module": "esbuild lib/index.js --bundle --minify --outfile=out/fmalquim.js --charset=utf8 --format=esm"
   }
 }
