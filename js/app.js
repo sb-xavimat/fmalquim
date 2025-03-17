@@ -28,7 +28,8 @@ function showFmlaExamples(kind) {
         EXAMPLES[kind].forEach(fmla => {
             const btn = document.createElement('button');
             btn.classList.add('example');
-            btn.textContent = fmla;
+
+            btn.innerHTML = formatFmla(fmla);
             btn.onclick = () => {
                 form[4].value = fmla;
                 gatherData(form);
@@ -107,6 +108,15 @@ function addCard(cardData) {
 //     return inn;
 // }
 
+
+function formatFmla(fmla) {
+    let result = "";
+    fmla.split("").forEach(char => {
+        if (!isNaN(char)) { result += `<sub>${char}</sub>`; }
+        else { result += char; }
+    });
+    return result;
+}
 
 // MARK: Logic
 function changeForm(ev, form) {

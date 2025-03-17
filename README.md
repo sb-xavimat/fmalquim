@@ -35,12 +35,15 @@ Segona versió, a partir de les instruccions d'Albert.
         * `kind`: derivada del `kind_id`
         * `pags`: queda com info no rellevant
 
+* Millora d'ajuda;
+    * -6-PRE-FN: pas 1:
+        * "Prefijo griego correspondiente al subíndice del halógeno (si hay subíndice)",
+        * Sempre serà 2
+
 
 ## TODO
-* Esborrar de 'help' tots els camps que no s'usen (només s'usa `steps`)
 
 ## DOING
-* Fer un nou mètode en la llibreria: getName.
 
 
 ## DOCS
@@ -177,3 +180,10 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 * Restucturar els arxius de la llibreria
     * L'arxiu principal és massa gran
     * crear un `index.js` que siga el punt d'entrada de la llibreria
+
+### 2025-03-13
+* Fer un nou mètode en la llibreria: getName.
+
+### 2025-03-17
+* Esborrar de 'help' tots els camps que no s'usen (només s'usa `steps`)
+* Millorar els exemples amb `<sub>`
