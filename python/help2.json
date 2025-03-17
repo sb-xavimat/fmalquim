@@ -1,4 +1,4 @@
-export const HELP = {
+{
     "es-1-PRE-FN": [
         "Prefijo correspondiente al subíndice del elemento",
         "Nombre del elemento"
