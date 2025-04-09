@@ -1,7 +1,7 @@
 # FMLAQUIM - V2
 Segona versió, a partir de les instruccions d'Albert.
 
-## BACKLOG
+## BACKLOG #####################################################################
 * Convertir el array ELEMENTS en un objecte on les claus siguen els symbols dels elements.
 * ELEMENTS: triar el nom preferit en els elements que tenen dos noms
     * Ex.: Zinc / Cinc, Plata / Argent, Wolframi / Tungstè
@@ -35,18 +35,18 @@ Segona versió, a partir de les instruccions d'Albert.
         * `kind`: derivada del `kind_id`
         * `pags`: queda com info no rellevant
 
-* Millora d'ajuda;
-    * -6-PRE-FN: pas 1:
-        * "Prefijo griego correspondiente al subíndice del halógeno (si hay subíndice)",
-        * Sempre serà 2
+* Posar una variable "debug" que mostre retorne missatges en caddata.js
 
 
-## TODO
-
-## DOING
+## TODO ########################################################################
 
 
-## DOCS
+
+## DOING #######################################################################
+
+
+
+## DOCS ########################################################################
 * Instruccions Albert
 https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ
 * Elements (Albert)
@@ -84,7 +84,7 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 
 
 
-## DONE
+## DONE ########################################################################
 ### 2025-02-26
 * Funció per extraure la info de la fórmula
     * Se suposa una fórmula ben feta (no es comprova)
@@ -187,3 +187,19 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 ### 2025-03-17
 * Esborrar de 'help' tots els camps que no s'usen (només s'usa `steps`)
 * Millorar els exemples amb `<sub>`
+
+### 2025-04-09
+* Millora d'ajuda;
+    * -6-PRE-FN: pas 1:
+        * "Prefijo griego correspondiente al subíndice del halógeno (si hay subíndice)",
+        * Sempre serà 2
+        * POSAT com a comentari en help.js
+* Producció:
+    * Evitar que 'cardata.js' retorne missatges de debug
+    * Pot posar-los en 'title', perquè no s'usa al generar la targeta HTML.
+* Fer versió de producció:
+    * Distingir les fitxes usables de les no usables (perquè no clares)
+    * Moure els comentaris meus a una propietat diferent.
+        * Millor: posats com a comentaris
+    * El camp "right" de la primera línia no s'utilitza
+        * (el camp "left" es convertix en la capçalera de la fitxa.)

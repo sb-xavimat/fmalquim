@@ -53,7 +53,7 @@ function addCard(cardData) {
     // mainBox.innerHTML += buildCard(cardData);
 
     // NEW
-    const card = createHTMLCard(cardData);
+    const card = createHTMLCard(cardData, true);
     if (card?.error) { mainBox.appendChild(infoCard(card)); }
     else { mainBox.appendChild(card); }
 }
