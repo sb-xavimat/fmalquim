@@ -6,7 +6,7 @@ La marca ❌ indica els que falten.
     * F>N:
         * 1. Substàncies elementals
         * 2. Hidrurs metàl·lics
-        * ❌ 3. Hidràcids (CAL CREAR LA FITXA D'AJUDA)
+        * 3. Hidràcids
         * 4. Òxids metàl·lics
         * 5. Òxids no-metàl·lics
         * 6. Halogenurs d’oxigen
@@ -18,7 +18,7 @@ La marca ❌ indica els que falten.
     * N>F:
         * 1. Substàncies elementals
         * 2. Hidrurs metàl·lics
-        * ❌ 3. Hidràcids (CAL CREAR LA FITXA D'AJUDA)
+        * 3. Hidràcids
         * 4. Òxids metàl·lics
         * 5. Òxids no-metàl·lics
         * 6. Halogenurs d’oxigen
