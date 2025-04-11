@@ -203,3 +203,6 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         * Millor: posats com a comentaris
     * El camp "right" de la primera línia no s'utilitza
         * (el camp "left" es convertix en la capçalera de la fitxa.)
+
+### 2025-04-11
+* Fer la fitxa PRE d'hidràcids, formalment.
