@@ -19,17 +19,21 @@
 @font-face {
     font-family: franklin;
     src: url("../fonts/fgbr.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
 }
 
 @font-face {
     font-family: franklin;
     src: url("../fonts/fgbi.ttf") format("truetype");
     font-style: italic;
+    font-weight: normal;
 }
 
 @font-face {
     font-family: franklin;
     src: url("../fonts/fgd.ttf") format("truetype");
+    font-style: normal;
     font-weight: bold;
 }
 
