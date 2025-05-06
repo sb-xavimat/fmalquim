@@ -43,6 +43,8 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING #######################################################################
+* Fitxes d'ajuda: Posar titulet amb el tipus de substància.
+
 
 
 
@@ -206,3 +208,8 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 
 ### 2025-04-11
 * Fer la fitxa PRE d'hidràcids, formalment.
+
+### 2025-04-30
+* Substituir en MINUS SIGN amb EN DASH
+* No exportar la funció `getName` a l'objecte global.
+* Versió 1.1.1.
