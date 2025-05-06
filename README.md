@@ -47,7 +47,6 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 
-
 ## DOCS ########################################################################
 * Instruccions Albert
 https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ
@@ -213,3 +212,5 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 * Substituir en MINUS SIGN amb EN DASH
 * No exportar la funció `getName` a l'objecte global.
 * Versió 1.1.1.
+* Afegir tipus de font "Franklin Gothic Book" al CSS
+    * No influïx en la llibreria, només en la web.

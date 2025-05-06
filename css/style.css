@@ -16,8 +16,24 @@
     }
 }
 
+/*
+Afegir tipus de font "Franklin Gothic Book" al CSS amb el nom "franklin"
+- regular i bold: fgbr.ttf
+- italic: fgbi.ttf
+*/
+@font-face {
+    font-family: franklin;
+    src: url("../fonts/fgbr.ttf") format("truetype");
+}
+@font-face {
+    font-family: franklin;
+    src: url("../fonts/fgbi.ttf") format("truetype");
+    font-style: italic;
+}
+
 body {
     display: block;
+    font-family: franklin, sans-serif;
 }
 
 body>header {
