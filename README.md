@@ -43,8 +43,6 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING #######################################################################
-* Fitxes d'ajuda: Posar titulet amb el tipus de substància.
-* Alineació vertical: superior
 
 
 
@@ -215,3 +213,7 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 * Versió 1.1.1.
 * Afegir tipus de font "Franklin Gothic Book" al CSS
     * No influïx en la llibreria, només en la web.
+
+### 2025-06-07
+* Fitxes d'ajuda: Posar titulet amb el tipus de substància.
+* Versió 1.2.0, rebuild
