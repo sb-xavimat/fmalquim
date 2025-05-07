@@ -44,6 +44,7 @@ Segona versió, a partir de les instruccions d'Albert.
 
 ## DOING #######################################################################
 * Fitxes d'ajuda: Posar titulet amb el tipus de substància.
+* Alineació vertical: superior
 
 
 

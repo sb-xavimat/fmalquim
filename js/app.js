@@ -42,7 +42,7 @@ function showFmlaExamples(kind) {
 function infoCard(data) {
     const infoCard = document.createElement('div');
     infoCard.classList.add('info-card');
-    infoCard.innerHTML = data.title;
+    infoCard.innerHTML = JSON.stringify(data.title);
     return infoCard;
 }
 
