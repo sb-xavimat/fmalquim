@@ -1,7 +1,7 @@
 # FMLAQUIM - V2
 Segona versió, a partir de les instruccions d'Albert.
 
-## BACKLOG #####################################################################
+## BACKLOG #################################################<!-- MARK: BACKLOG >
 * Convertir el array ELEMENTS en un objecte on les claus siguen els symbols dels elements.
 * ELEMENTS: triar el nom preferit en els elements que tenen dos noms
     * Ex.: Zinc / Cinc, Plata / Argent, Wolframi / Tungstè
@@ -38,15 +38,34 @@ Segona versió, a partir de les instruccions d'Albert.
 * Posar una variable "debug" que mostre retorne missatges en caddata.js
 
 
-## TODO ########################################################################
+## TODO #######################################################<!-- MARK: TODO >
+* Versió en anglès: fitxes explicatives.
+    - Vore les fitxes en anglés: fer el sistema de fitxes en anglés
+        - Escriure tots els textos.
+        - Estudiar i trobar les diferències.
+        - Pareix que canvia l'orde de F>N, però potser no de N>F.
+    - Quins tipus de substàncies es fan en cada namesys:
+        * FORMULATION (EN)
+            * (basicament, tot allò que té metalls, NOX)
+        * Substàncies pures - PRE
+        * Hidrurs metàl·lics - NOX
+        * Hidràcids - NOX (tb es permet la nomenclatura en dissolució, però l'hem descartada ja de CA i ES)
+        * Òxids metàl·lics - NOX
+        * Òxids no-metàl·lics - PRE
+        * Halogenurs d'oxigen - PRE
+        * Altres compostos covalents - PRE
+        * Sals binàries - NOX
+        * Peròxids - NOX
+        * Hidròxids - NOX
+    * trobaràs les fitxes aquí:
+        * https://merlin.learning-bits.net/intranet/en/mylesson/index?code=l1h63eb_en&modo=3&Apag=l5e6163_pg9
 
 
+## DOING #####################################################<!-- MARK: DOING >
+* Extraure els noms
 
-## DOING #######################################################################
 
-
-
-## DOCS ########################################################################
+## DOCS #######################################################<!-- MARK: DOCS >
 * Instruccions Albert
 https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ
 * Elements (Albert)
@@ -84,7 +103,7 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 
 
 
-## DONE ########################################################################
+## DONE #######################################################<!-- MARK: DONE >
 ### 2025-02-26
 * Funció per extraure la info de la fórmula
     * Se suposa una fórmula ben feta (no es comprova)
@@ -214,6 +233,10 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 * Afegir tipus de font "Franklin Gothic Book" al CSS
     * No influïx en la llibreria, només en la web.
 
-### 2025-06-07
+### 2025-05-07
 * Fitxes d'ajuda: Posar titulet amb el tipus de substància.
 * Versió 1.2.0, rebuild
+
+### 2025-05-22
+* `literals.js`, afegir anglés
+* `elements.js`, afegir noms i arrels en anglés.
