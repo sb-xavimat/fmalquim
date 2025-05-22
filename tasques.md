@@ -35,34 +35,17 @@ Segona versió, a partir de les instruccions d'Albert.
         * `kind`: derivada del `kind_id`
         * `pags`: queda com info no rellevant
 
-* Posar una variable "debug" que mostre retorne missatges en caddata.js
 
 
 ## TODO #######################################################<!-- MARK: TODO >
-* Versió en anglès: fitxes explicatives.
-    - Vore les fitxes en anglés: fer el sistema de fitxes en anglés
-        - Escriure tots els textos.
-        - Estudiar i trobar les diferències.
-        - Pareix que canvia l'orde de F>N, però potser no de N>F.
-    - Quins tipus de substàncies es fan en cada namesys:
-        * FORMULATION (EN)
-            * (basicament, tot allò que té metalls, NOX)
-        * Substàncies pures - PRE
-        * Hidrurs metàl·lics - NOX
-        * Hidràcids - NOX (tb es permet la nomenclatura en dissolució, però l'hem descartada ja de CA i ES)
-        * Òxids metàl·lics - NOX
-        * Òxids no-metàl·lics - PRE
-        * Halogenurs d'oxigen - PRE
-        * Altres compostos covalents - PRE
-        * Sals binàries - NOX
-        * Peròxids - NOX
-        * Hidròxids - NOX
-    * trobaràs les fitxes aquí:
-        * https://merlin.learning-bits.net/intranet/en/mylesson/index?code=l1h63eb_en&modo=3&Apag=l5e6163_pg9
 
 
 ## DOING #####################################################<!-- MARK: DOING >
-* Extraure els noms
+* Versió en anglès: fitxes explicatives.
+    - Vore les fitxes en anglés: fer el sistema de fitxes en anglés
+        - Estudiar i trobar les diferències.
+        - Pareix que canvia l'orde de F>N, però potser no de N>F.
+
 
 
 ## DOCS #######################################################<!-- MARK: DOCS >
@@ -100,6 +83,8 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         * https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg16
     * FULL:
         * https://docs.google.com/spreadsheets/d/17Fq-XNF-SITZA2D9gfGM2ICwqePq1pA7K_-Zn_25I0s/edit?gid=0#gid=0
+* Fitxes anglés:
+    * https://merlin.learning-bits.net/intranet/en/mylesson/index?code=l1h63eb_en&modo=3&Apag=l5e6163_pg9
 
 
 
@@ -222,6 +207,7 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         * Millor: posats com a comentaris
     * El camp "right" de la primera línia no s'utilitza
         * (el camp "left" es convertix en la capçalera de la fitxa.)
+* Posar una variable "debug" que mostre missatges en carddata.js
 
 ### 2025-04-11
 * Fer la fitxa PRE d'hidràcids, formalment.
@@ -240,3 +226,22 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 ### 2025-05-22
 * `literals.js`, afegir anglés
 * `elements.js`, afegir noms i arrels en anglés.
+* Genitiu també en angles (simplement, un espai).
+* Anglés: Quins tipus de substàncies es fan en cada namesys:
+    * FORMULATION (EN)
+        * (basicament, tot allò que té metalls, NOX)
+    * 1.Substàncies pures - PRE
+    * 2.Hidrurs metàl·lics - NOX
+    * 3.Hidràcids - NOX
+    * 4.Òxids metàl·lics - NOX
+    * 5.Òxids no-metàl·lics - PRE
+    * 6.Halogenurs d'oxigen - PRE
+    * 7.Altres compostos covalents - PRE
+    * 8.Sals binàries - NOX
+    * 9.Peròxids - NOX
+    * 10.Hidròxids - NOX
+* Versió en anglès: fitxes explicatives.
+    - Vore les fitxes en anglés: fer el sistema de fitxes en anglés
+        - Copiar tots els textos.
+    * trobaràs les fitxes aquí:
+        * https://merlin.learning-bits.net/intranet/en/mylesson/index?code=l1h63eb_en&modo=3&Apag=l5e6163_pg9
