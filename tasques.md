@@ -53,7 +53,7 @@ https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pET
 * Totes substàncies:
 https://docs.google.com/spreadsheets/d/1O8kvqDk8KlTeuc65Y55WfPjs5MaBuha43y3AOy8OsPA/edit?gid=0#gid=0
 * Recurs de preguntes:
-https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l1h63ew_es&modo=3&Apag=l1h63ew_pg1
+https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l1h63ew_es&modo=3&Apag=l1h63ew_ac2_ap1
 * La nostra taula periòdica
 https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg19
 * Totes fitxes
@@ -275,3 +275,4 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
     * 10.Hidròxids - NOX
         * FN: canvia l'orde pas per pas, i del nom resultant
         * NF: canvia l'orde només del nom
+* Versió 1.3.0, amb build
