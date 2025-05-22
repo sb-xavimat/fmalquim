@@ -1,5 +1,6 @@
 # FMLAQUIM - V2
 Segona versió, a partir de les instruccions d'Albert.
+➡️ ✅ ❌ ❓
 
 ## BACKLOG #################################################<!-- MARK: BACKLOG >
 * Convertir el array ELEMENTS en un objecte on les claus siguen els symbols dels elements.
@@ -41,10 +42,6 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING #####################################################<!-- MARK: DOING >
-* Versió en anglès: fitxes explicatives.
-    - Vore les fitxes en anglés: fer el sistema de fitxes en anglés
-        - Estudiar i trobar les diferències.
-        - Pareix que canvia l'orde de F>N, però potser no de N>F.
 
 
 
@@ -245,3 +242,36 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         - Copiar tots els textos.
     * trobaràs les fitxes aquí:
         * https://merlin.learning-bits.net/intranet/en/mylesson/index?code=l1h63eb_en&modo=3&Apag=l5e6163_pg9
+* Versió en anglès: fitxes explicatives.
+    * Vore les fitxes en anglés: fer el sistema de fitxes en anglés
+    * Estudiar i trobar les diferències.
+        - Pareix que canvia l'orde de F>N, però potser no de N>F.
+    * 1.Substàncies pures - PRE.
+        * Tot OK (FN i NF)
+    * 2.Hidrurs metàl·lics - NOX
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
+    * 3.Hidràcids - NOX
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
+    * 4.Òxids metàl·lics - NOX
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
+    * 5.Òxids no-metàl·lics - PRE
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
+    * 6.Halogenurs d'oxigen - PRE
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
+    * 7.Altres compostos covalents - PRE
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
+    * 8.Sals binàries - NOX
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
+    * 9.Peròxids - NOX
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
+    * 10.Hidròxids - NOX
+        * FN: canvia l'orde pas per pas, i del nom resultant
+        * NF: canvia l'orde només del nom
