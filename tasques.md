@@ -276,3 +276,7 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
         * FN: canvia l'orde pas per pas, i del nom resultant
         * NF: canvia l'orde només del nom
 * Versió 1.3.0, amb build
+
+### 2025-06-05
+* Fer un gsheet amb l'ajuda en castellà, català i anglès, per revisar l'anglés.
+    * https://docs.google.com/spreadsheets/d/1R024Zg032Z7GZ5abqhc_hP4f2G5cVV5n_qOoAX_0FJQ/edit?gid=0#gid=0
