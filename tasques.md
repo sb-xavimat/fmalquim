@@ -45,12 +45,19 @@ Segona versió, a partir de les instruccions d'Albert.
 ## DOING #####################################################<!-- MARK: DOING >
 * Fer versió Eusquera. Primer un esquelet amb traduccions IA per revisar.
     * Fitxers on cal afegir l'eusquera:
-        * ¿`constans.js`? Dependrà si els prefixes grecs canvien en euskera.
-        * (PARCIALMENT FET) `elements.js`: en cada element, cal afegir el nom i l'arrel en euskera: `name_eu`, `stem_eu`.
-        * ➡️ `help.js`: caldrà tota l'ajuda en euskera. Faré una primera versió amb IA, seguint l'estructura de l'anglés.
-        * `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
-        * `literals.js`: caldrà afegir els literals en euskera.
-        * `utils.js`: cal revisar la funció `getGenitive` per a l'eusquera. Ens ho hauran d'explicar els experts.
+        * ➡️ `constans.js`? prefixes grecs que canvien en euskera
+        * `elements.js`: en cada element:
+            * (FET) cal afegir el nom  `name_eu`
+            * ➡️ i l'arrel `stem_eu`.
+        * ➡️➡️ `help.js`: caldrà tota l'ajuda en euskera. Faré una primera versió amb IA, seguint l'estructura de l'anglés.
+        * ➡️ `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
+            * Per ara, en les instruccions, posa `-uro` (encara que en el nom de la substància posa `-uroa`).
+        * (FET-Falta revisar) `literals.js`: caldrà afegir els literals en euskera.
+        * (FET) `utils.js`: revisar la funció `getGenitive` per a l'eusquera. Posat un espai com l'anglés (perquè l'orde és com l'anglés).
+        * `carddata.js`:
+            * (FET) On es desdobla en anglés, posar també l'eusquera.
+            * (FET) substàncies elementals: afegir la desinència amb -a al nom de l'element (amb les variants de Fluorra i Zilarra, que desdoblen la 'r').
+            * ➡️ Afegir el desdoblament en eusquera, amb l'orde invers, per als tipus+sistemes que no existiexen en anglés (agafar les idees de como ho he fet per l'anglés).
 
 
 
