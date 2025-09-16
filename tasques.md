@@ -41,7 +41,16 @@ Segona versió, a partir de les instruccions d'Albert.
 ## TODO #######################################################<!-- MARK: TODO >
 
 
+
 ## DOING #####################################################<!-- MARK: DOING >
+* Fer versió Eusquera. Primer un esquelet amb traduccions IA per revisar.
+    * Fitxers on cal afegir l'eusquera:
+        * ¿`constans.js`? Dependrà si els prefixes grecs canvien en euskera.
+        * (PARCIALMENT FET) `elements.js`: en cada element, cal afegir el nom i l'arrel en euskera: `name_eu`, `stem_eu`.
+        * ➡️ `help.js`: caldrà tota l'ajuda en euskera. Faré una primera versió amb IA, seguint l'estructura de l'anglés.
+        * `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
+        * `literals.js`: caldrà afegir els literals en euskera.
+        * `utils.js`: cal revisar la funció `getGenitive` per a l'eusquera. Ens ho hauran d'explicar els experts.
 
 
 
