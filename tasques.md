@@ -50,6 +50,44 @@ Segona versió, a partir de les instruccions d'Albert.
             * (FET) cal afegir el nom  `name_eu`
             * ➡️ i l'arrel `stem_eu`.
         * ➡️➡️ `help.js`: caldrà tota l'ajuda en euskera. Faré una primera versió amb IA, seguint l'estructura de l'anglés.
+            "eu-2-PRE-FN": [ TODO ],
+            "eu-2-PRE-NF": [ TODO ],
+
+            "eu-3-PRE-FN": [
+            "eu-3-PRE-NF": [
+
+            "eu-4-PRE-FN": [
+            "eu-4-PRE-NF": [
+            FET "eu-4-NOX-FN": [
+            FET "eu-4-NOX-NF": [
+
+            FET "eu-5-PRE-FN": [
+            FET "eu-5-PRE-NF": [
+            FET "eu-5-NOX-FN": [
+            FET "eu-5-NOX-NF": [
+
+            FET "eu-6-PRE-FN": [
+            FET "eu-6-PRE-NF": [
+
+            FET "eu-7-PRE-FN": [
+            FET "eu-7-PRE-NF": [
+            "eu-7-NOX-FN": [
+            "eu-7-NOX-NF": [
+
+            "eu-8-PRE-FN": [
+            "eu-8-PRE-NF": [
+            FET "eu-8-NOX-FN": [
+            FET "eu-8-NOX-NF": [
+
+            "eu-9-PRE-FN": [
+            "eu-9-PRE-NF": [
+            "eu-9-NOX-FN": [
+            "eu-9-NOX-NF": [
+
+            "eu-10-PRE-FN": [
+            "eu-10-PRE-NF": [
+            "eu-10-NOX-FN": [
+            "eu-10-NOX-NF": [
         * ➡️ `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
             * Per ara, en les instruccions, posa `-uro` (encara que en el nom de la substància posa `-uroa`).
         * (FET-Falta revisar) `literals.js`: caldrà afegir els literals en euskera.
