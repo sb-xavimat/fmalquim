@@ -8,6 +8,10 @@ const form = document.querySelector('form');
 const versionTag = document.querySelector('#version-tag');
 const examplesBox = document.querySelector('#examples');
 
+const VALID_LANGS = ["ca", "es", "en", "eu"];
+const VALID_KINDS = [
+    "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "12", "13", "14"
+];
 
 // MARK: GUI
 // function refreshInputData(data) {
@@ -120,6 +124,7 @@ function formatFmla(fmla) {
 
 // MARK: Logic
 function changeForm(ev, form) {
+    console.log(`${ev.target.id}: ${ev.target.value}`);
     ev.preventDefault();
     gatherData(form);
     return false;
@@ -168,6 +173,16 @@ function gatherData(form) {
 
 // MARK: Inint
 function init() {
+    // Get params from URL, if present: lang, kind, fmla
+    // And set the form values accordingly
+    const urlParams = new URLSearchParams(window.location.search);
+    const urlLang = urlParams.get('lang');
+    const urlKind = urlParams.get('kind');
+    const urlFmla = urlParams.get('fmla');
+    if (urlLang && VALID_LANGS.includes(urlLang)) { form[0].value = urlLang; }
+    if (urlKind && VALID_KINDS.includes(urlKind)) { form[3].value = urlKind; }
+    if (urlFmla) { form[4].value = urlFmla; }
+
     form.oninput = (ev) => changeForm(ev, form);
     versionTag.textContent = VERSION;
     document.title = `FMLAQUIM - ${VERSION}`;

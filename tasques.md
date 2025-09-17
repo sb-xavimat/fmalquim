@@ -319,3 +319,4 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
             * (FET) On es desdobla en anglés, posar també l'eusquera.
             * (FET) substàncies elementals: afegir la desinència amb -a al nom de l'element (amb les variants de Fluorra i Zilarra, que desdoblen la 'r').
             * (FET) Afegir el desdoblament en eusquera, amb l'orde invers, per als tipus+sistemes que no existiexen en anglés (agafar les idees de como ho he fet per l'anglés).
+* Fer que appp.js capture paràmetres de la URL i els passe als inputs abans de generar les fitxes: `lang`, `kind`, `fmla`
