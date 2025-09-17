@@ -44,30 +44,16 @@ Segona versió, a partir de les instruccions d'Albert.
     * Comprovar arrels d'elements (verure `elements.js`)
     * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix. He trobat alguns que posen sempre mono- quan és 1. https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf
 
+* Al final, pujar el codi de `/lib` a `Z:\produccion\rec\rec0\rec0000\pag\pgchem\progress\lib`.
+
 
 
 ## DOING #####################################################<!-- MARK: DOING >
-* Fer versió Eusquera. Primer un esquelet amb traduccions IA per revisar.
-    * Fitxers on cal afegir l'eusquera:
-        * ➡️ `constans.js` prefixes grecs que canvien en euskera
-        * ➡️ `elements.js`: en cada element:
-            * (FET) cal afegir el nom  `name_eu`
-            * (FET-cal revisat) i l'arrel `stem_eu`
-            * ➡️  Estraure les arrels, i posar-les en el doc per als revisors.
-        * ➡️ `help.js`: caldrà tota l'ajuda en euskera. Faré una primera versió amb IA, seguint l'estructura de l'anglés.
-            * (FET) Textos en eusquera
-            * ➡️ Extraure els textos i posar-los en el doc per als revisors.
-        * (FET) `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
-            * Per ara, en les instruccions, posa `-uro` (encara que en el nom de la substància posa `-uroa`).
-        * ➡️ `literals.js`:
-            * (FET) Afegits els literals en eusquera
-            * ➡️ Extraure els textos i posar-los en el doc per als revisors.
-        * (FET) `utils.js`: revisar la funció `getGenitive` per a l'eusquera.
-            * Posat un espai com l'anglés (perquè l'orde és com l'anglés).
-        * `carddata.js`:
-            * (FET) On es desdobla en anglés, posar també l'eusquera.
-            * (FET) substàncies elementals: afegir la desinència amb -a al nom de l'element (amb les variants de Fluorra i Zilarra, que desdoblen la 'r').
-            * (FET) Afegir el desdoblament en eusquera, amb l'orde invers, per als tipus+sistemes que no existiexen en anglés (agafar les idees de como ho he fet per l'anglés).
+* Fer versió Eusquera:
+    * Fer document per als revisors de l'eusquera:
+        * ➡️ `elements.js`: arrels.
+        * ➡️ `help.js`: textos d'ajuda.
+        * ➡️ `literals.js`: textos literals
 
 
 
@@ -307,3 +293,29 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 ### 2025-06-05
 * Fer un gsheet amb l'ajuda en castellà, català i anglès, per revisar l'anglés.
     * https://docs.google.com/spreadsheets/d/1R024Zg032Z7GZ5abqhc_hP4f2G5cVV5n_qOoAX_0FJQ/edit?gid=0#gid=0
+
+### 2025-09-16
+* Situació de l'anglés. Està tot fet.
+* Començar a fer l'eusquera.
+
+### 2025-09-17
+* Simplificar gestió de colors. Usar només COLOR, i no COL_NAME (com el nom era el mateix, era redundant).
+* Fer versió Eusquera:
+    * (FET) Fitxers on cal afegir l'eusquera:
+        * (FET) `constans.js` prefixes grecs que canvien en euskera
+            * Creada (en `utils.js`) la funció `getPrefix(lang, sub)` per a obtindre el prefix segons la llengua.
+        * (FET) `elements.js`: en cada element:
+            * (FET) cal afegir el nom  `name_eu`
+            * (FET-cal revisat) i l'arrel `stem_eu`
+        * (FET) `help.js`: cal tota l'ajuda en euskera. ~~Faré una primera versió amb IA, seguint l'estructura de l'anglés.~~
+            * (FET) Textos en eusquera, agafats de les fitxes existents, no amb IA.
+        * (FET) `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
+            * Per ara, en les instruccions, posa `-uro` (encara que en el nom de la substància posa `-uroa`).
+        * (FET) `literals.js`:
+            * (FET) Afegits els literals en eusquera
+        * (FET) `utils.js`: revisar la funció `getGenitive` per a l'eusquera.
+            * Posat un espai com l'anglés (perquè l'orde és com l'anglés).
+        * `carddata.js`:
+            * (FET) On es desdobla en anglés, posar també l'eusquera.
+            * (FET) substàncies elementals: afegir la desinència amb -a al nom de l'element (amb les variants de Fluorra i Zilarra, que desdoblen la 'r').
+            * (FET) Afegir el desdoblament en eusquera, amb l'orde invers, per als tipus+sistemes que no existiexen en anglés (agafar les idees de como ho he fet per l'anglés).
