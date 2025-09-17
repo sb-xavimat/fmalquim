@@ -39,63 +39,36 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## TODO #######################################################<!-- MARK: TODO >
+* Per l'informe d'eusquera:
+    * Cal explicar bé el fet que acceptem diversos noms. He trobat variants ací: https://www.alonsoformula.com/ezorganikoa/hidracidos.htm , per exemple: "Hidrogeno fluoruroa edo fluoranoa".
+    * Comprovar arrels d'elements (verure `elements.js`)
+    * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix. He trobat alguns que posen sempre mono- quan és 1. https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf
 
 
 
 ## DOING #####################################################<!-- MARK: DOING >
 * Fer versió Eusquera. Primer un esquelet amb traduccions IA per revisar.
     * Fitxers on cal afegir l'eusquera:
-        * ➡️ `constans.js`? prefixes grecs que canvien en euskera
-        * `elements.js`: en cada element:
+        * ➡️ `constans.js` prefixes grecs que canvien en euskera
+        * ➡️ `elements.js`: en cada element:
             * (FET) cal afegir el nom  `name_eu`
-            * ➡️ i l'arrel `stem_eu`.
-        * ➡️➡️ `help.js`: caldrà tota l'ajuda en euskera. Faré una primera versió amb IA, seguint l'estructura de l'anglés.
-            "eu-2-PRE-FN": [ TODO ],
-            "eu-2-PRE-NF": [ TODO ],
-
-            "eu-3-PRE-FN": [
-            "eu-3-PRE-NF": [
-
-            "eu-4-PRE-FN": [
-            "eu-4-PRE-NF": [
-            FET "eu-4-NOX-FN": [
-            FET "eu-4-NOX-NF": [
-
-            FET "eu-5-PRE-FN": [
-            FET "eu-5-PRE-NF": [
-            FET "eu-5-NOX-FN": [
-            FET "eu-5-NOX-NF": [
-
-            FET "eu-6-PRE-FN": [
-            FET "eu-6-PRE-NF": [
-
-            FET "eu-7-PRE-FN": [
-            FET "eu-7-PRE-NF": [
-            "eu-7-NOX-FN": [
-            "eu-7-NOX-NF": [
-
-            "eu-8-PRE-FN": [
-            "eu-8-PRE-NF": [
-            FET "eu-8-NOX-FN": [
-            FET "eu-8-NOX-NF": [
-
-            "eu-9-PRE-FN": [
-            "eu-9-PRE-NF": [
-            FET "eu-9-NOX-FN": [
-            FET "eu-9-NOX-NF": [
-
-            "eu-10-PRE-FN": [
-            "eu-10-PRE-NF": [
-            FET "eu-10-NOX-FN": [
-            FET "eu-10-NOX-NF": [
-        * ➡️ `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
+            * (FET-cal revisat) i l'arrel `stem_eu`
+            * ➡️  Estraure les arrels, i posar-les en el doc per als revisors.
+        * ➡️ `help.js`: caldrà tota l'ajuda en euskera. Faré una primera versió amb IA, seguint l'estructura de l'anglés.
+            * (FET) Textos en eusquera
+            * ➡️ Extraure els textos i posar-los en el doc per als revisors.
+        * (FET) `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
             * Per ara, en les instruccions, posa `-uro` (encara que en el nom de la substància posa `-uroa`).
-        * (FET-Falta revisar) `literals.js`: caldrà afegir els literals en euskera.
-        * (FET) `utils.js`: revisar la funció `getGenitive` per a l'eusquera. Posat un espai com l'anglés (perquè l'orde és com l'anglés).
+        * ➡️ `literals.js`:
+            * (FET) Afegits els literals en eusquera
+            * ➡️ Extraure els textos i posar-los en el doc per als revisors.
+        * (FET) `utils.js`: revisar la funció `getGenitive` per a l'eusquera.
+            * Posat un espai com l'anglés (perquè l'orde és com l'anglés).
         * `carddata.js`:
             * (FET) On es desdobla en anglés, posar també l'eusquera.
             * (FET) substàncies elementals: afegir la desinència amb -a al nom de l'element (amb les variants de Fluorra i Zilarra, que desdoblen la 'r').
-            * ➡️ Afegir el desdoblament en eusquera, amb l'orde invers, per als tipus+sistemes que no existiexen en anglés (agafar les idees de como ho he fet per l'anglés).
+            * (FET) Afegir el desdoblament en eusquera, amb l'orde invers, per als tipus+sistemes que no existiexen en anglés (agafar les idees de como ho he fet per l'anglés).
+
 
 
 

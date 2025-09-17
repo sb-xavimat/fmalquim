@@ -170,6 +170,7 @@ function gatherData(form) {
 function init() {
     form.oninput = (ev) => changeForm(ev, form);
     versionTag.textContent = VERSION;
+    document.title = `FMLAQUIM - ${VERSION}`;
     gatherData(form);
 }
 init();
