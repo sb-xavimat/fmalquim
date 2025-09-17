@@ -81,13 +81,13 @@ Segona versió, a partir de les instruccions d'Albert.
 
             "eu-9-PRE-FN": [
             "eu-9-PRE-NF": [
-            "eu-9-NOX-FN": [
-            "eu-9-NOX-NF": [
+            FET "eu-9-NOX-FN": [
+            FET "eu-9-NOX-NF": [
 
             "eu-10-PRE-FN": [
             "eu-10-PRE-NF": [
-            "eu-10-NOX-FN": [
-            "eu-10-NOX-NF": [
+            FET "eu-10-NOX-FN": [
+            FET "eu-10-NOX-NF": [
         * ➡️ `htmlcard.js`: caldrà saber si alguna terminació en eusquera s'ha de posar el color, com es fa amb `-uro, -ur, -ide`.
             * Per ara, en les instruccions, posa `-uro` (encara que en el nom de la substància posa `-uroa`).
         * (FET-Falta revisar) `literals.js`: caldrà afegir els literals en euskera.
