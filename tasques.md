@@ -41,12 +41,19 @@ Segona versió, a partir de les instruccions d'Albert.
 ## TODO #######################################################<!-- MARK: TODO >
 * Per l'informe d'eusquera:
     * Cal explicar bé el fet que acceptem diversos noms. He trobat variants ací: https://www.alonsoformula.com/ezorganikoa/hidracidos.htm , per exemple: "Hidrogeno fluoruroa edo fluoranoa".
-    * Comprovar arrels d'elements (verure `elements.js`)
+    * Comprovar arrels d'elements (veure `elements.js`)
     * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix. He trobat alguns que posen sempre mono- quan és 1. https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf
 
 * Al final, pujar el codi de `/lib` a `Z:\produccion\rec\rec0\rec0000\pag\pgchem\progress\lib`.
 
-
+* ESPERANT resposta de Jordi o Albert.
+    * Canviar l'expressió "grupo hidroxilo" per "grupo OH" en eusquera.
+        * ? EU: "hidroxilo taldea" → "OH taldea" (?)
+* ESPERANT resposta de Jordi o Albert (no totes les ocorrències de "grup hidroxil" estan marcades per canviar).
+    * Totes llengües: Canviar l'expressió "grupo hidroxilo" per "grupo OH".
+        * ES: "grupo hidroxilo" → "grupo OH"
+        * CA: "grup hidroxil" → "grup OH"
+        * EN: “hidroxyl group” → “OH group”
 
 ## DOING #####################################################<!-- MARK: DOING >
 * Fer versió Eusquera:
@@ -54,7 +61,6 @@ Segona versió, a partir de les instruccions d'Albert.
         * ➡️ `elements.js`: arrels.
         * ➡️ `help.js`: textos d'ajuda.
         * ➡️ `literals.js`: textos literals
-
 
 
 
@@ -320,3 +326,8 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
             * (FET) substàncies elementals: afegir la desinència amb -a al nom de l'element (amb les variants de Fluorra i Zilarra, que desdoblen la 'r').
             * (FET) Afegir el desdoblament en eusquera, amb l'orde invers, per als tipus+sistemes que no existiexen en anglés (agafar les idees de como ho he fet per l'anglés).
 * Fer que appp.js capture paràmetres de la URL i els passe als inputs abans de generar les fitxes: `lang`, `kind`, `fmla`
+
+### 2025-09-23
+* Email a Jordi Bosque: (en còpia a Albert):
+    * EU: Si també cal canviar "grup hidroxil" per "grup OH" en eusquera.
+    * CA, ES, EN: Si cal canviar totes les ocorrències de "grupo hidroxilo" per "grupo OH", o només les marcades en groc en el doc d'esmenes (https://docs.google.com/document/d/1LmQgRT4IykBQwnyomeuJVwHDcOwFVjhpJbmeC5kPaUU/edit?tab=t.0)
