@@ -44,7 +44,10 @@ Segona versió, a partir de les instruccions d'Albert.
     * Comprovar arrels d'elements (veure `elements.js`)
     * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix (la fitxa és del sistema "Sistematik", que és una espècie de NOX, o una barreja). He trobat alguns que posen sempre mono- quan és 1 (bé, com hem decidit nosaltres, però posant com a vàlid la versió sense "mono-"). https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf
 
-* Al final, pujar el codi de `/lib` a `Z:\produccion\rec\rec0\rec0000\pag\pgchem\progress\lib`.
+* Al final:
+    * Generar els builds
+    * Integrar el
+    * pujar el codi de `/lib` a `Z:\produccion\rec\rec0\rec0000\pag\pgchem\progress\lib`.
 
 * ESPERANT resposta de Jordi o Albert.
     * Canviar l'expressió "grupo hidroxilo" per "grupo OH" en eusquera.
