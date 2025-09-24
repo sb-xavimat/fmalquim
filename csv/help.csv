@@ -1,0 +1,236 @@
+ficha,es,ca,en,eu
+sustancia elemental - prefijos - fmla > nombre,,,,
+,Prefijo correspondiente al subíndice del elemento,Prefix corresponent al subíndex de l’element,Prefix indicating the element’s subscript,Elementuaren azpiindizeari dagokion aurrizkia
+,Nombre del elemento,Nom de l’element,Name of the element,Elementuaren izena
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=1&fmla=Br2,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=1&fmla=Br2,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=1&fmla=Br2,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=1&fmla=Br2
+,,,,
+sustancia elemental - prefijos - nombre > fmla,,,,
+,Símbolo del elemento,Símbol de l’element,The element’s symbol,Elementuaren sinboloa
+,Subíndice correspondiente al prefijo,Subíndex corresponent al prefix,Subscript indicating the prefix,Aurrizkiari dagokion azpiindizea
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=1&fmla=Br2,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=1&fmla=Br2,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=1&fmla=Br2,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=1&fmla=Br2
+,,,,
+hidruro metálico - prefijos - fmla > nombre,,,,
+,Prefijo correspondiente al subíndice del hidrógeno (si hay subíndice),"Prefix corresponent al subíndex de l’hidrogen, si n’hi ha",,Metalaren izena
+,_hidruro + de_,_hidrur + de_,,Hidrogenoaren azpiindizeari dagokion aurrizkia (azpiindizerik bada)
+,Nombre del metal,Nom del metall,,_hidruroa_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=2&fmla=SbH5
+,,,,
+hidruro metálico - prefijos - nombre > fmla,,,,
+,Símbolo del metal,Símbol del metall,,Metalaren sinboloa
+,Símbolo del hidrógeno,Símbol de l’hidrogen,,Hidrogenoaren sinboloa
+,Subíndice correspondiente al prefijo de _hidruro_ (si hay prefijo),"Subíndex corresponent al prefix d’_hidrur_, si n’hi ha",,_hidruro_ren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=2&fmla=SbH5
+,,,,
+hidruro metálico - núms. de oxid. - fmla > nombre,,,,
+,_hidruro + de_,_hidrur + de_,Name of the metal,Metalaren izena
+,Nombre del metal,Nom del metall,The metal’s oxidation number expressed in Roman numerals and in parentheses (if the metal has more than one oxidation number),"Metalaren oxidazio zenbakia, zenbaki erromatarretan eta parentesi artean (metalak bat baino gehiago baditu)"
+,Número de oxidación del metal en números romanos y entre paréntesis (si el metal tiene más de uno),"Nombre d’oxidació del metall en nombres romans i entre parèntesis, si el metall en té més d’un",Add _hydride_,_hidruroa_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=2&fmla=SbH5
+,,,,
+hidruro metálico - núms. de oxid. - nombre > fmla,,,,
+,Símbolo del metal,Símbol del metall,The metal’s symbol,Metalaren sinboloa
+,Símbolo del hidrógeno,Símbol de l’hidrogen,Hydrogen’s symbol,Hidrogenoaren sinboloa
+,"Subíndice correspondiente al número de oxidación del metal (si es +1, no se escribe)","Subíndex corresponent al nombre d’oxidació del metall (si és +1, no s’escriu)",Subscript indicating the metal’s oxidation number (it is not written if it is +1),"Metalaren oxidazio zenbakiari dagokion azpiindizea (+1 bada, ez da idazten)"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=2&fmla=SbH5,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=2&fmla=SbH5
+,,,,
+hidràcido - prefijos - fmla > nombre,,,,
+,Raíz del nombre del no metal + _‑uro_,Arrel del nom del no-metall + _‑ur_,,Hidrogeno azpiindizeari dagokion grezierazko aurrizkia (azpiindizerik baldin badago)
+,_de_ + prefijo griego correspondiente al subíndice del hidrógeno (si hay subíndice),"_de_ + prefix grec corresponent al subíndex de l’hidrogen, si n’hi ha",,Hidrogenoa
+,_hidrógeno_,_hidrogen_,,Ez-metalaren izenaren erroa + _‑uro_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=3&fmla=H2Se
+,,,,
+hidràcido - prefijos - nombre > fmla,,,,
+,Símbolo del hidrógeno,Símbol de l’hidrogen,,Hidrogenoaren sinboloa
+,Subíndice correspondiente al prefijo del hidrógeno (si hay prefijo),"Subíndex corresponent al prefix de l’hidrogen, si n’hi ha",,Hidrogenoaren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,Símbolo del no metal,Símbol del no-metall,,Ez-metalaren sinboloa
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=3&fmla=H2Se
+,,,,
+hidràcido - núms. de oxid. - fmla > nombre,,,,
+,Raíz del nombre del no metal + _‑uro_,Arrel del nom del no-metall + _‑ur_,_hydrogen_,_Hidrogenoa_
+,_de + hidrógeno_,_d’hidrogen_,Root of the non-metal’s name + _‑ide_,Ez-metalaren izenaren erroa + _‑uro_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=3&fmla=H2Se
+,,,,
+hidràcido - núms. de oxid. - nombre > fmla,,,,
+,Símbolo del hidrógeno,Símbol de l’hidrogen,Symbol of hydrogen,Hidrogenoaren sinboloa
+,Subíndice correspondiente al número de oxidación negativo del no metal,Subíndex corresponent al nombre d’oxidació negatiu del no-metall,Subscript indicating the nonmetal’s negative oxidation number,Ez-metalaren oxidazio zenbakiari dagokion azpiindizea
+,Símbolo del no metal,Símbol del no-metall,The nonmetal’s symbol,Ez-metalaren sinboloa
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=3&fmla=H2Se,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=3&fmla=H2Se
+,,,,
+óxido metálico - prefijos - fmla > nombre,,,,
+,"Prefijo correspondiente al subíndice del oxígeno (si no hay subíndice, es _mono-_)",Prefix corresponent al subíndex de l’oxigen; si no n’hi ha s’escriu _mono-_,,Metalaren azpiindizeari dagokion grezierazko aurrizkia (azpiindizerik bada)
+,_óxido + de_,_òxid + de_,,Metalaren izena
+,Prefijo griego correspondiente al subíndice del metal (si hay subíndice),"Prefix grec corresponent al subíndex del metall, si n’hi ha",,"Oxigenoaren azpiindizeari dagokion grezierazko aurrizkia (azpiindizerik ez bada, _mono-_ da)"
+,Nombre del metal,Nom del metall,,_oxidoa_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=4&fmla=Co2O3
+,,,,
+óxido metálico - prefijos - nombre > fmla,,,,
+,Símbolo del metal,Símbol del metall,,Metalaren sinboloa
+,Subíndice correspondiente al prefijo del metal (si hay prefijo),"Subíndex corresponent al prefix del metall, si n’hi ha",,Metalaren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,Símbolo del oxígeno,Símbol de l’oxigen,,Oxigenoaren sinboloa
+,"Subíndice correspondiente al prefijo del oxígeno (si es _mono-_, no se escribe)",Subíndex corresponent al prefix de l’oxigen; si es _mono-_ no s’escriu,,"Oxigenoaren aurrizkiari dagokion azpiindizea (_mono-_ bada, ez da idazten)"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=4&fmla=Co2O3
+,,,,
+óxido metálico - núms. de oxid. - fmla > nombre,,,,
+,_óxido + de_,_òxid + de_,Name of the metal,Metalaren izena
+,Nombre del metal,Nom del metall,The metal’s oxidation number expressed in Roman numerals and in parentheses (if the metal has more than one oxidation number),"Metalaren oxidazio zenbakia, zenbaki erromatarretan eta parentesi artean (metalak bat baino gehiago baditu)"
+,Número de oxidación del metal en números romanos y entre paréntesis (si el metal tiene más de uno),"Nombre d’oxidació del metall en nombres romans i entre parèntesis, si el metall en té més d’un",Add _oxide_,_oxidoa_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=4&fmla=Co2O3
+,,,,
+óxido metálico - núms. de oxid. - nombre > fmla,,,,
+,Símbolo del metal,Símbol del metall,The metal’s symbol,Metalaren sinboloa
+,"Número de oxidación del oxígeno (en óxidos, siempre es –2)","Nombre d’oxidació de l’oxigen, que en els òxids, siempre és –2",Oxidation number of oxygen (in oxides it is always –2),Oxigenoaren oxidazio zenbakia (oxidoetan –2 da beti)
+,Símbolo del oxígeno,Símbol de l’oxigen,Symbol of oxygen,Oxigenoaren sinboloa
+,Número de oxidación del metal,Nombre d’oxidació del metall,The metal’s oxidation number,Metalaren oxidazio zenbakia
+,"Si es posible, se simplifican los subíndices","Si és possible, se simplifiquen els subíndexs",Subscripts are simplified if possible,"Ahal bada, azpiindizeak sinplifikatzen dira"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=4&fmla=Co2O3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=4&fmla=Co2O3
+,,,,
+óxido no metálico - prefijos - fmla > nombre,,,,
+,"Prefijo correspondiente al subíndice del oxígeno (si no hay subíndice, es _mono-_)",Prefix corresponent al subíndex de l’oxigen; si no n’hi ha s’escriu _mono-_,Prefix indicating the nonmetal’s subscript (if the subscript is present),Ez-metalaren azpiindizeari dagokion aurrizkia
+,_óxido + de_,_òxid + de_,Name of the nonmetal,Ez-metalaren izena
+,Prefijo griego correspondiente al subíndice del no metal (si hay subíndice),"Prefix grec corresponent al subíndex del no-metall, si n’hi ha",Prefix indicating oxygen’s subscript,Oxigenoaren azpiindizeari dagokion aurrizkia
+,Nombre del no metal,Nom del no-metall,Add _oxide_,_oxidoa_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=5&fmla=As2O3
+,,,,
+óxido no metálico - prefijos - nombre > fmla,,,,
+,Símbolo del no metal,Símbol del no-metall,The nonmetal’s symbol,Ez-metalaren sinboloa
+,Subíndice correspondiente al prefijo del no metal (si hay prefijo),"Subíndex corresponent al prefix del no-metall, si n’hi ha",Subscript indicating the prefix of the nonmetal (if the prefix is present),Ez-metalaren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,Símbolo del oxígeno,Símbol de l’oxigen,Symbol of oxygen,Oxigenoaren sinboloa
+,"Subíndice correspondiente al prefijo del oxígeno (si es _mono-_, no se escribe)",Subíndex corresponent al prefix de l’oxigen; si es _mono-_ no s’escriu,Subscript indicating oxygen’s prefix (it is not written if it is _mono-_),"Oxigenoaren aurrizkiari dagokion azpiindizea (_mono-_ bada, ez da idazten)"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=5&fmla=As2O3
+,,,,
+óxido no metálico - núms. de oxid. - fmla > nombre,,,,
+,_óxido + de_,_òxid + de_,,Ez-metalaren izena
+,Nombre del no metal,Nom del no-metall,,"Ez-metalaren oxidazio zenbakia, zenbaki erromatarretan eta parentesi artean (ez-metalak bat baino gehiago baditu)"
+,Número de oxidación del no metal en números romanos y entre paréntesis (si el no metal tiene más de uno),"Nombre d’oxidació del no-metall en nombres romans i entre parèntesis, si el no-metall en té més d’un",,_oxidoa_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=5&fmla=As2O3
+,,,,
+óxido no metálico - núms. de oxid. - nombre > fmla,,,,
+,Símbolo del no metal,Símbol del no-metall,,Ez-metalaren sinboloa
+,"Subíndice correspondiente al número de oxidación del oxígeno (en óxidos, siempre es –2)","Subíndex corresponent al nombre d’oxidació de l’oxigen, que en els òxids, siempre és –2",,Oxigenoaren oxidazio zenbakiari dagokion azpiindizea (oxidoetan –2 da beti)
+,Símbolo del oxígeno,Símbol de l’oxigen,,Oxigenoaren sinboloa
+,Subíndice correspondiente al número de oxidación del no metal,Subíndex corresponent al nombre d’oxidació del no-metall,,Ez-metalaren oxidazio zenbakiari dagokion azpiindizea
+,"Si es posible, se simplifican los subíndices",Si és possible se simplifiquen els subíndexs,,"Ahal bada, azpiindizeak sinplifikatzen dira"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=5&fmla=As2O3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=5&fmla=As2O3
+,,,,
+halogenuro de oxígeno - prefijos - fmla > nombre,,,,
+,Prefijo griego correspondiente al subíndice del halógeno (si hay subíndice),"Prefix grec corresponent al subíndex del halògen, si n’hi ha",Greek numerical prefix indicating the subscript of the oxygen (if subscript is present),Oxigenoaren azpiindizeari dagokion grezierazko aurrizkia (azpiindizerik bada)
+,Nombre del halógeno + _‑uro_,Nom del halògen + _‑ur_,Add _oxygen_,_oxigeno_
+,_de_ + prefijo griego correspondiente al subíndice del oxígeno (si hay subíndice),"_de_ + prefix grec corresponent al subíndex de l’oxigen, si n’hi ha",Greek numerical prefix indicating the subscript of the halogen (if subscript is present),Halogenoaren azpiindizeari dagokion grezierazko aurrizkia (azpiindizerik bada)
+,_oxígeno_,_oxigen_,Name of the halogen + _‑ide_,Halogenoaren izena + _‑uro_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=6&fmla=O7Cl2,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=6&fmla=O7Cl2,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=6&fmla=O7Cl2,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=6&fmla=O7Cl2
+,,,,
+halogenuro de oxígeno - prefijos - nombre > fmla,,,,
+,Símbolo del oxígeno,Símbol de l’oxigen,Symbol of oxygen,Oxigenoaren sinboloa
+,Subíndice correspondiente al prefijo del oxígeno (si hay prefijo),Subíndex corresponent al prefix de l’oxigen,Subscript indicating the prefix of the oxygen (if present),Oxigenoaren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,Símbolo del halógeno,Símbol del halògen,Symbol of the halogen,Halogenoaren sinboloa
+,Subíndice correspondiente al prefijo del halógeno,Subíndex corresponent al prefix del halògen,Subscript indicating the prefix of the halogen (if present),Halogenoaren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=6&fmla=O7Cl2,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=6&fmla=O7Cl2,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=6&fmla=O7Cl2,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=6&fmla=O7Cl2
+,,,,
+compuesto covalente no metálico - prefijos - fmla > nombre,,,,
+,Prefijo griego correspondiente al subíndice del no metal de la derecha (si hay subíndice),"Prefix grec corresponent al subíndex del no-metall de la dreta, si n’hi ha",Greek numerical prefix listed first in the formula (if the subscript is present),Ezkerreko ez-metalaren azpiindizeari dagokion grezierazko aurrizkia (azpiindizerik bada)
+,Raíz del nombre del no metal de la derecha + _‑uro_,Arrel del nom del no-metall de la dreta + _‑ur_,Name of nonmetal listed first in the formula,Ezkerreko ez-metalaren izena
+,_de_ + prefijo griego correspondiente al subíndice del no metal de la izquierda (si hay subíndice),"_de_ + prefix grec corresponent al subíndex del no-metall de l’esquerra, si n’hi ha",Greek numerical prefix indicating the subscript of nonmetal listed second in the formula (if the subscript is present),Eskuineko ez-metalaren azpiindizeari dagokion aurrizkia (azpiindizerik bada)
+,Nombre del no metal de la izquierda,Nom del no-metall de l’esquerra,Root of the name of the second nonmetal in the formula + _‑ide_,Eskuineko ez-metalaren izenaren erroa + _‑uro_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=7&fmla=P2Se3
+,,,,
+compuesto covalente no metálico - prefijos - nombre > fmla,,,,
+,Símbolo del no metal que aparece al final del nombre,Símbol del no-metall que es troba al final del nom,Symbol of the nonmetal listed first in the name,Izenaren hasieran ageri den ez-metalaren sinboloa
+,Subíndice correspondiente al prefijo de dicho no metal (si hay prefijo),"Subíndex corresponent al prefix d’aquest no-metall, si n’hi ha",Subscript indicating the prefix of the nonmetal listed first in the name (if present),Ez-metal horren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,Símbolo del otro no metal,Símbol de l’altre no-metall,Symbol of the nonmetal listed second in the name,Beste ez-metalaren sinboloa
+,Subíndice correspondiente al prefijo de dicho no metal,Subíndex corresponent al prefix d’aquest no-metall,Subscript indicating the prefix of the nonmetal listed second in the name,Ez-metal horren aurrizkiari dagokion azpiindizea
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=7&fmla=P2Se3
+,,,,
+compuesto covalente no metálico - núms. de oxid. - fmla > nombre,,,,
+,Raíz del nombre del no metal de la derecha + _‑uro_,Arrel del nom del no-metall de la dreta + _‑ur_,,Ezkerreko ez-metalaren izena
+,_de_ + nombre del no metal de la izquierda,_de_ + nom del no-metall de l’esquerra,,"Ezkerreko ez-metalaren oxidazio zenbakia, zenbaki erromatarretan eta parentesi artean (ez-metalak bat baino gehiago baditu)"
+,Número de oxidación del no metal de la izquierda en números romanos y entre paréntesis (si el no metal tiene más de uno),"Nombre d’oxidació del no-metall de l’esquerra en nombres romans i entre parèntesis, si el no-metall en té més d’un",,Eskuineko ez-metalaren izena + _‑uro_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=7&fmla=P2Se3
+,,,,
+compuesto covalente no metálico - núms. de oxid. - nombre > fmla,,,,
+,Símbolo del no metal que aparece al final del nombre,Símbol del no-metall que es troba al final del nom,,Izenaren hasieran ageri den ez-metalaren sinboloa
+,Subíndice correspondiente al estado de oxidación negativo del otro no metal (no se escribe si es –1),"Subíndex corresponent al nombre d’oxidació negatiu de l’altre no-metall, que si és –1 no s’escriu",,"Beste ez-metalaren oxidazio egoerari dagokion azpiindizea (–1 bada, ez da idazten)"
+,Símbolo del otro no metal,Símbol de l’altre no-metall,,Beste ez-metalaren sinboloa
+,Subíndice correspondiente al número de oxidación del no metal que aparece al final del nombre,Subíndex corresponent al nombre d’oxidació del no-metall que es troba al final del nom,,Izenaren hasieran ageri den ez-metalaren oxidazio zenbakiari dagokion azpiindizea
+,"Si es posible, se simplifican los subíndices",Si és possible se simplifiquen els subíndexs,,"Ahal bada, azpiindizeak sinplifikatzen dira"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=7&fmla=P2Se3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=7&fmla=P2Se3
+,,,,
+sal binaria - prefijos - fmla > nombre,,,,
+,Prefijo griego correspondiente al subíndice del no metal (si hay subíndice),"Prefix grec corresponent al subíndex del no-metall, si n’hi ha",,Metalaren azpiindizeari dagokion grezierazko aurrizkia (azpiindizerik bada)
+,Raíz del nombre del no metal + _‑uro_,Arrel del nom del no-metall + _‑ur_,,Metalaren izena
+,_de_ + prefijo griego correspondiente al subíndice del metal (si hay subíndice),"_de_ + prefix grec corresponent al subíndex del metall, si n’hi ha",,Ez-metalaren azpiindizeari dagokion grezierazko aurrizkia (azpiindizerik bada)
+,Nombre del metal,Nom del metall,,Ez-metalaren izenaren erroa + _‑uro_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=8&fmla=AuI3
+,,,,
+sal binaria - prefijos - nombre > fmla,,,,
+,Símbolo del metal,Símbol del metall,,Metalaren sinboloa
+,Subíndice correspondiente al prefijo del metal (si hay prefijo),"Subíndex corresponent al prefix del metall, si n’hi ha",,Metalaren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,Símbolo del no metal,Símbol del no-metall,,Ez-metalaren sinboloa
+,Subíndice correspondiente al prefijo del no metal,"Subíndex corresponent al prefix del no-metall, si n’hi ha",,Ez-metalaren aurrizkiari dagokion azpiindizea
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=8&fmla=AuI3
+,,,,
+sal binaria - núms. de oxid. - fmla > nombre,,,,
+,Raíz del nombre del no metal + _‑uro_,Arrel del nom del no-metall + _‑ur_,Name of the metal,Metalaren izena
+,_de_ + nombre del metal,_de_ + nom del metall,The metal’s oxidation number expressed in Roman numerals and in parentheses (if the metal has more than one oxidation number),"Metalaren oxidazio zenbakia, parentesi artean eta zenbaki erromatarretan (metalak bat baino gehiago baditu)"
+,Número de oxidación del metal entre paréntesis y en números romanos (si el metal tiene más de uno),"Nombre d’oxidació del metall entre parèntesis i en nombres romans, si el metall en té més d’un",Root of the nonmetal’s name + _‑ide_,Ez-metalaren izenaren erroa + _‑uro_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=8&fmla=AuI3
+,,,,
+sal binaria - núms. de oxid. - nombre > fmla,,,,
+,Símbolo del metal,Símbol del metall,The metal’s symbol,Metalaren sinboloa
+,Subíndice correspondiente al estado de oxidación negativo del no metal (no se escribe si es –1),"Subíndex corresponent a l’estat d’oxidació negatiu del no-metall, que si és –1 no s’escriu",Subscript indicating the nonmetal’s negative oxidation number (it is not written if it is –1),"Ez-metalaren oxidazio egoerari dagokion azpiindizea (–1 bada, ez da idazten)"
+,Símbolo del no metal,Símbol del no-metall,The nonmetal’s symbol,Ez-metalaren sinboloa
+,Subíndice correspondiente al estado de oxidación positivo del metal,Subíndex corresponent al nombre d’oxidació positiu del metall,Subscript indicating the metal’s positive oxidation number (it is not written if it is +1),Metalaren oxidazio egoerari dagokion azpiindizea
+,"Si se puede, se simplifican los subíndices","Si es pot, se simplifiquen els subíndexs",Subscripts are simplified if possible,"Ahal bada, azpiindizeak sinplifikatzen dira"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=8&fmla=AuI3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=8&fmla=AuI3
+,,,,
+peróxido - prefijos - fmla > nombre,,,,
+,Prefijo correspondiente al subíndice del oxígeno,Prefix corresponent al subíndex de l’oxigen,,Lehenengo ageri den elementuaren azpiindizeari dagokion aurrizkia
+,_óxido + de_,_òxid + de_,,Elementu horren izena
+,Prefijo correspondiente al subíndice del otro elemento,Prefix corresponent al subíndex de l’altre element,,Oxigenoaren azpiindizeari dagokion aurrizkia
+,Nombre del otro elemento,Nom de l’altre element,,_oxidoa_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=9&fmla=FeO2
+,,,,
+peróxido - prefijos - nombre > fmla,,,,
+,Símbolo del metal o hidrógeno,Símbol del metall o hidrogen,,Metalaren edo hidrogenoaren sinboloa
+,Subíndice correspondiente a su prefijo (si hay prefijo),"Subíndex corresponent al seu prefix, si n’hi ha",,Haren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,Símbolo del oxígeno,Símbol de l’oxigen,,Oxigenoaren sinboloa
+,Subíndice correspondiente al prefijo del oxígeno (si hay prefijo),Subíndex corresponent al seu prefix,,Oxigenoaren aurrizkiari dagokion azpiindizea (aurrizkirik bada)
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=9&fmla=FeO2
+,,,,
+peróxido - núms. de oxid. - fmla > nombre,,,,
+,_peróxido + de_,_peròxid + de_,Name of the metal (or _hydrogen_),Lehenengo ageri den elementuaren izena
+,Nombre del metal o hidrógeno,Nom del metall o hidrogen,The metal’s oxidation number expressed in Roman numerals and in parentheses (if the metal has more than one oxidation number),"Lehenengo ageri den elementuaren oxidazio zenbakia, parentesi artean (bat baino gehiago baditu)"
+,Número de oxidación del metal o hidrógeno en números romanos y entre paréntesis (si tiene más de uno),"Nombre d’oxidació del metall o hidrogen en nombres romans i entre parèntesis, si en té més d’un",Add _peroxide_,_peroxido_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=9&fmla=FeO2
+,,,,
+peróxido - núms. de oxid. - nombre > fmla,,,,
+,Símbolo del metal o hidrógeno,Símbol del metall o hidrogen,The metal’s (or hydrogen’s) symbol,Metalaren edo hidrogenoaren sinboloa
+,Subíndice correspondiente al número de oxidación del grupo peróxido (–2),Subíndex corresponent al nombre d’oxidació negatiu del grup peròxid (–2),Subscript indicating the negative oxidation number of the peroxide group (–2),Talde peroxidoaren oxidazio zenbakiari dagokion azpiindizea (–2)
+,Símbolo del grupo peróxido,Símbol del grup peròxid,Symbol of the peroxide group,Talde peroxidoaren sinboloa
+,"Subíndice correspondiente al número de oxidación del metal o hidrógeno  (si es +1, no se escribe)","Subíndex corresponent al nombre d’oxidació positiu del metall o hidrogen, que si és +1 no s’escriu",Subscript indicating the metal’s (or hydrogen’s) oxidation number,Metalaren edo hidrogenoaren oxidazio zenbakiari dagokion azpiindizea
+,"Si es posible, se simplifican los subíndices","Si és possible, se simplifiquen els subíndexs",Subscripts are simplified if possible,"Ahal bada, azpiindizeak sinplifikatzen dira"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=9&fmla=FeO2,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=9&fmla=FeO2
+,,,,
+hidróxido - prefijos - fmla > nombre,,,,
+,Prefijo correspondiente al subíndice del grupo OH (si hay subíndice),"Prefix corresponent al subíndex del grup OH, si hi ha subíndex",,Metalaren izena
+,_hidróxido + de_,_hidròxid + de_,,OH taldearen azpiindizeari dagokion aurrizkia (azpiindizerik bada)
+,Nombre del metal,Nom del metall,,_hidroxido_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=10&fmla=Ni(OH)3
+,,,,
+hidróxido - prefijos - nombre > fmla,,,,
+,Símbolo del metal,Símbol del metall,,Metalaren sinboloa
+,Grupo OH,Grup OH,,OH taldea
+,"Subíndice correspondiente al prefijo de _hidróxido_, si hay (hay que poner paréntesis al grupo OH antes de añadir el subíndice)","Subíndex corresponent al prefix d’_hidròxid_, si n’hi ha. En aquest cas, cal posar parèntesis al grup OH",,"_Hidroxido_ren aurrizkiari dagokion azpiindizea, aurrizkirik baldin badago (azpiindizea gehitu aurretik, parentesia jarri behar zaio OH taldeari)"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=10&fmla=Ni(OH)3
+,,,,
+hidróxido - núms. de oxid. - fmla > nombre,,,,
+,_hidróxido + de_,_hidròxid + de_,Name of the metal,Metalaren izena
+,Nombre del metal,Nom del metall,The metal’s oxidation number expressed in Roman numerals and in parentheses (if the metal has more than one oxidation number),"Metalaren oxidazio zenbakia, zenbaki erromatarretan eta parentesi artean (metalak bat baino gehiago baditu)"
+,Número de oxidación del metal en números romanos y entre paréntesis (si el metal tiene más de uno),"Nombre d’oxidació del metall en nombres romans i entre parèntesis, si el metall en té més d’un",Add _hydroxide_,_hidroxido_
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=10&fmla=Ni(OH)3
+,,,,
+hidróxido - núms. de oxid. - nombre > fmla,,,,
+,Símbolo del metal,Símbol del metall,The metal’s symbol,Metalaren sinboloa
+,Grupo OH,Grup OH,Symbol of the OH group,OH taldea
+,"Subíndice correspondiente al número de oxidación del metal (hay que poner paréntesis al grupo OH antes de añadir el subíndice). Si es +1, no se escribe","Subíndex corresponent al nombre d’oxidació del metall, sempre que no sigui +1. Si es posa subíndex s’ha de posar parèntesis al grup OH","Subscript indicating the metal’s oxidation number (it is not written if it is +1). If a subscript is added, parentheses must be placed around the OH group","Metalaren oxidazio zenbakiari dagokion azpiindizea (azpiindizea gehitu aurretik, parentesia jarri behar zaio OH taldeari)"
+,https://sb-xavimat.github.io/fmalquim/?lang=es&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=ca&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=en&kind=10&fmla=Ni(OH)3,https://sb-xavimat.github.io/fmalquim/?lang=eu&kind=10&fmla=Ni(OH)3
+,,,,

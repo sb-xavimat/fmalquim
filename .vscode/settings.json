@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#171744",
+        "tab.activeBackground": "#171744",
+        "tab.inactiveBackground": "#09093a",
+        "sideBar.background": "#09093a"
+    }
+}

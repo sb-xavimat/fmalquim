@@ -37,17 +37,11 @@ Segona versió, a partir de les instruccions d'Albert.
         * `pags`: queda com info no rellevant
 
 
-
 ## TODO #######################################################<!-- MARK: TODO >
-* Per l'informe d'eusquera:
-    * Cal explicar bé el fet que acceptem diversos noms. He trobat variants ací: https://www.alonsoformula.com/ezorganikoa/hidracidos.htm , per exemple: "Hidrogeno fluoruroa edo fluoranoa".
-    * Comprovar arrels d'elements (veure `elements.js`)
-    * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix (la fitxa és del sistema "Sistematik", que és una espècie de NOX, o una barreja). He trobat alguns que posen sempre mono- quan és 1 (bé, com hem decidit nosaltres, però posant com a vàlid la versió sense "mono-"). https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf
-
 * Al final:
-    * Generar els builds
-    * Integrar el
-    * pujar el codi de `/lib` a `Z:\produccion\rec\rec0\rec0000\pag\pgchem\progress\lib`.
+    * Generar el build
+    * Integrar en el FLA el codi generat en `out/chemhelplib.min.js`.
+    * pujar el codi de `lib/` a `Z:\produccion\rec\rec0\rec0000\pag\pgchem\progress\lib`.
 
 * ESPERANT resposta de Jordi o Albert.
     * Canviar l'expressió "grupo hidroxilo" per "grupo OH" en eusquera.
@@ -55,11 +49,8 @@ Segona versió, a partir de les instruccions d'Albert.
 
 
 ## DOING #####################################################<!-- MARK: DOING >
-* Fer versió Eusquera:
-    * Fer document per als revisors de l'eusquera:
-        * ➡️ `elements.js`: arrels.
-        * ➡️ `help.js`: textos d'ajuda.
-        * ➡️ `literals.js`: textos literals
+
+
 
 
 
@@ -346,3 +337,12 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
     * Talde hidroxiloaren -> OH taldearen
     * Talde hidroxiloa -> OH taldea
     * talde hidroxiloari -> OH taldeari
+* Fer versió Eusquera:
+    * Fer document per als revisors de l'eusquera:
+        * ➡️ `elements.js`: arrels.
+        * ➡️ `help.js`: textos d'ajuda.
+        * ➡️ `literals.js`: textos literals
+* Per l'informe d'eusquera (JA POSAT)
+    * Cal explicar bé el fet que acceptem diversos noms. He trobat variants ací: https://www.alonsoformula.com/ezorganikoa/hidracidos.htm , per exemple: "Hidrogeno fluoruroa edo fluoranoa".
+    * Comprovar arrels d'elements (veure `elements.js`)
+    * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix (la fitxa és del sistema "Sistematik", que és una espècie de NOX, o una barreja). He trobat alguns que posen sempre mono- quan és 1 (bé, com hem decidit nosaltres, però posant com a vàlid la versió sense "mono-"). https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf

@@ -1,0 +1,62 @@
+{
+    "1": {
+        "es": "sustancia elemental",
+        "ca": "substància elemental",
+        "en": "elementary substance",
+        "eu": "substantzia elementala"
+    },
+    "2": {
+        "es": "hidruro metálico",
+        "ca": "hidrur metàl·lic",
+        "en": "metal hydride",
+        "eu": "hidruro metalikoa"
+    },
+    "3": {
+        "es": "hidràcido",
+        "ca": "hidràcid",
+        "en": "hydracid",
+        "eu": "hidrazidoa"
+    },
+    "4": {
+        "es": "óxido metálico",
+        "ca": "òxid metàl·lic",
+        "en": "metal oxide",
+        "eu": "oxido metalikoa"
+    },
+    "5": {
+        "es": "óxido no metálico",
+        "ca": "òxid no-metàl·lic",
+        "en": "nonmetal oxide",
+        "eu": "oxido ez-metalikoa"
+    },
+    "6": {
+        "es": "halogenuro de oxígeno",
+        "ca": "halur d'oxigen",
+        "en": "oxygen halide",
+        "eu": "oxigeno haluroa"
+    },
+    "7": {
+        "es": "compuesto covalente no metálico",
+        "ca": "compost covalent no-metàl·lic",
+        "en": "nonmetal covalent compound",
+        "eu": "konposatu kobalente ez-metalikoa"
+    },
+    "8": {
+        "es": "sal binaria",
+        "ca": "sal binària",
+        "en": "binary salt",
+        "eu": "gatz bitarra"
+    },
+    "9": {
+        "es": "peróxido",
+        "ca": "peròxid",
+        "en": "peroxide",
+        "eu": "peroxidoa"
+    },
+    "10": {
+        "es": "hidróxido",
+        "ca": "hidròxid",
+        "en": "hydroxide",
+        "eu": "hidroxidoa"
+    }
+}
