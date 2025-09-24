@@ -49,11 +49,7 @@ Segona versió, a partir de les instruccions d'Albert.
 * ESPERANT resposta de Jordi o Albert.
     * Canviar l'expressió "grupo hidroxilo" per "grupo OH" en eusquera.
         * ? EU: "hidroxilo taldea" → "OH taldea" (?)
-* ESPERANT resposta de Jordi o Albert (no totes les ocorrències de "grup hidroxil" estan marcades per canviar).
-    * Totes llengües: Canviar l'expressió "grupo hidroxilo" per "grupo OH".
-        * ES: "grupo hidroxilo" → "grupo OH"
-        * CA: "grup hidroxil" → "grup OH"
-        * EN: “hidroxyl group” → “OH group”
+
 
 ## DOING #####################################################<!-- MARK: DOING >
 * Fer versió Eusquera:
@@ -331,3 +327,15 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
 * Email a Jordi Bosque: (en còpia a Albert):
     * EU: Si també cal canviar "grup hidroxil" per "grup OH" en eusquera.
     * CA, ES, EN: Si cal canviar totes les ocorrències de "grupo hidroxilo" per "grupo OH", o només les marcades en groc en el doc d'esmenes (https://docs.google.com/document/d/1LmQgRT4IykBQwnyomeuJVwHDcOwFVjhpJbmeC5kPaUU/edit?tab=t.0)
+* RESPOSTA Jordi:
+    * CA, ES, EN: Sí, cal canviar totes les ocurrències de "grupo hidroxilo" per "grupo OH".
+
+### 2025-09-24
+* Totes llengües: Canviar l'expressió "grupo hidroxilo" per "grupo OH".
+    * ES: "grupo hidroxilo" → "grupo OH"
+    * CA: "grup hidroxil" → "grup OH"
+    * EN: “hydroxyl group” → “OH group”
+* EU:  Amb l'ajuda d'IA, canvie així:
+    * Talde hidroxiloaren -> OH taldearen
+    * Talde hidroxiloa -> OH taldea
+    * talde hidroxiloari -> OH taldeari
