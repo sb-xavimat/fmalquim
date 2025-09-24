@@ -42,7 +42,7 @@ Segona versió, a partir de les instruccions d'Albert.
 * Per l'informe d'eusquera:
     * Cal explicar bé el fet que acceptem diversos noms. He trobat variants ací: https://www.alonsoformula.com/ezorganikoa/hidracidos.htm , per exemple: "Hidrogeno fluoruroa edo fluoranoa".
     * Comprovar arrels d'elements (veure `elements.js`)
-    * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix. He trobat alguns que posen sempre mono- quan és 1. https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf
+    * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix (la fitxa és del sistema "Sistematik", que és una espècie de NOX, o una barreja). He trobat alguns que posen sempre mono- quan és 1 (bé, com hem decidit nosaltres, però posant com a vàlid la versió sense "mono-"). https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf
 
 * Al final, pujar el codi de `/lib` a `Z:\produccion\rec\rec0\rec0000\pag\pgchem\progress\lib`.
 
@@ -65,10 +65,14 @@ Segona versió, a partir de les instruccions d'Albert.
 https://docs.google.com/document/d/1cOuLTbTQBWHfxo7O-okHPJ1xLedBDwHx5clAaAo3_EQ
 * Elements (Albert)
 https://docs.google.com/spreadsheets/d/1zX20gobs-MakQzVPR98ZC9iydOQ_5Nmo8bka7pETSoY/edit?gid=0#gid=0
-* Totes substàncies:
+
+* Totes substàncies: (usar l'ultima versió!)
 https://docs.google.com/spreadsheets/d/1O8kvqDk8KlTeuc65Y55WfPjs5MaBuha43y3AOy8OsPA/edit?gid=0#gid=0
+PROCESSADES: C:\Users\matos\Dropbox\LearningBits\assignacions\FETS\ELE\l1h63ew_ac2\quimica\substancies
+
 * Recurs de preguntes:
 https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l1h63ew_es&modo=3&Apag=l1h63ew_ac2_ap1
+
 * La nostra taula periòdica
 https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo=3&Apag=l5e6164_pg19
 * Totes fitxes
