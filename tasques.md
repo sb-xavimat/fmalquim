@@ -346,3 +346,8 @@ https://merlin.learning-bits.net/intranet/es/mylesson/index?code=l5e6164_es&modo
     * Cal explicar bé el fet que acceptem diversos noms. He trobat variants ací: https://www.alonsoformula.com/ezorganikoa/hidracidos.htm , per exemple: "Hidrogeno fluoruroa edo fluoranoa".
     * Comprovar arrels d'elements (veure `elements.js`)
     * Formació d'hidràcids (sistema PRE): me l'he inventada, perquè la fitxa que tenim no posa el prefix (la fitxa és del sistema "Sistematik", que és una espècie de NOX, o una barreja). He trobat alguns que posen sempre mono- quan és 1 (bé, com hem decidit nosaltres, però posant com a vàlid la versió sense "mono-"). https://www.euskadi.eus/contenidos/documentacion/inn_doc_otros_ambitos/es_def/adjuntos/euskal/estilo/951007e_Pub_EJ_zientzia_teknika.pdf
+
+### 2026-06-15
+* Vulnerabilitat de `esbuild`.
+    * https://github.com/advisories/GHSA-gv7w-rqvm-qjhr
+    * Actualitzar a 0.28.1

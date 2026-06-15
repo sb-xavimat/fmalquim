@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "esbuild": "0.25.0"
+    "esbuild": "0.28.1"
   },
   "scripts": {
     "build": "esbuild lib/index.js --bundle --minify --target=es6 --outfile=out/chemhelplib.min.js --charset=utf8 --global-name=chemHelpLib",
